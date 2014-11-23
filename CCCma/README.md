@@ -1,0 +1,3 @@
+Scripts to make maps of Canadian Centre for Climate Modeling and Analysis climate models to the year 2100:
+[CCCma_Basemap.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_Basemap.ipynb) Script to visualize one such map
+[CCCma_SNC_to_2099.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_SNC_to_2099.ipynb) Script to extract a feature on the same day per year and make an animated GIF

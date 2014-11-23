@@ -3,7 +3,12 @@ Misc_ipynb
 
 A collection of ipython notebooks I've made for various projects, with nbviewer links:
 
-[earthquakes-jp.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/earthquakes-jp.ipynb) and [earthquakes-rest-api.py](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/earthquakes-jp.ipynb): Scripts to build an animated GIF of earthquakes in China and Japan. See the final result at http://www.prooffreader.com/2014/06/animated-map-of-earthquakes-near-china.html
+Scripts to make maps of Canadian Centre for Climate Modeling and Analysis climate models to the year 2100:
+[CCCma_Basemap.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_Basemap.ipynb) Script to visualize one such map
+[CCCma_SNC_to_2099.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_SNC_to_2099.ipynb) Script to extract a feature on the same day per year and make an animated GIF
+
+
+[earthquakes-jp.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/Japan_Earthquakes/earthquakes-jp.ipynb) and [earthquakes-rest-api.py](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/earthquakes-jp.ipynb): Scripts to build an animated GIF of earthquakes in China and Japan. See the final result at http://www.prooffreader.com/2014/06/Japan_Earthquakes/animated-map-of-earthquakes-near-china.html
 
 [monty_monte.ipyn](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/monty_monte.ipynb): A Monte Carlo simulator of the Monty Hall problem! You can choose the number of doors and of goats, and the number of iterations.
 
