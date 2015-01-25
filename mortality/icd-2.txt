@@ -1,0 +1,385 @@
+1     Enteric fever
+2     Typhus
+3
+3A          Relapsing fever
+3B          Mediterranean fever
+4     Malaria
+5     Small-pox
+6     Measles
+7     Scarlet fever
+8     Whooping cough
+9
+9A          Diphtheria
+9B          Membranous laryngitis
+9C          Croup
+10    Influenza
+11    Miliary fever
+12    Asiatic cholera
+13    Cholera nostras
+14    Dysentery
+15    Plague
+16    Yellow fever
+17    Leprosy
+18    Erysipelas
+19
+19A         Mumps
+19B         German measles
+19C         Varicella
+19D         Other epidemic diseases
+20
+20A         Pyaemia
+20B         Septicaemia
+20C         Vaceinia
+21    Glanders
+22    Anthrax (Splenic fever)
+23    Rabies
+24    Tetanus
+25
+25A         Actinomycosis
+25B         Other mycoses
+26    Pellagra
+27    Beri-beri
+28
+28A         Pulmonary tuberculosis
+28B         Phthisis (not defined as tuberculous)
+29
+29A         Acute phthisis
+29B         Acute miliary tuberculosis
+30    Tuberculous meningitis
+31
+31A         Tabes mesenterica
+31B         Other peritoneal and intestinal tubercle
+32    Tuberculosis of spinal column
+33    Tuberculosis of joints
+34
+34A         Lupus
+34B         Scrofula
+34C         Tuberculosis of other organs
+35    Disseminated tuberculosis
+36
+36A         Rickets
+36B         Other forms of bone softening
+37    Syphilis
+38
+38A         Soft chancre
+38B         Gonococcus infection
+38C         Purulent ophthalmia
+39    Cancer of the buccal cavity
+40    Cancer of the stomach, liver, etc.
+41    Cancer of the peritoneum, intestines, and rectum
+42    Cancer of the female genital organs
+43    Cancer of the breast
+44    Cancer of the skin
+45    Cancer of the other or unspecified organs
+46
+46A         Angioma
+46B         Adenoma
+46C         Other tumours (situation undefined)
+47    Rheumatic fever
+48
+48A         Chronic rheumatism
+48B         Osteo-arthritis
+48C         Gout
+49    Scurvy
+50    Diabetes
+51    Exophthalmic goitre
+52    Addison's disease
+53
+53A         Leucocythaemia (Leuchaemia)
+53B         Lymphadenoma
+54    Anaemia, Chlorosis
+55
+55A         Diabetes insipidus
+55B         Purpura
+55C         Haemophilia
+55D         Other general diseases
+56    Alcoholism (acute or chronic)
+57
+57A         Occupational lead poisoning
+57B         Non-occupational lead poisoning
+58    Other chronic occupational poisonings
+59    Other chronic poisonings
+60    Encephalitis
+61
+61A         Cerebro-spinal fever
+61B         Posterior basal meningitis
+61C         Meningitis, other forms
+62    Locomotor ataxy
+63
+63A         Diseases of the spinal cord formerly classed to "Other nervous affections"
+63B         Poliomyelitis
+63C         Other diseases of the spinal cord
+64
+64A         Apoplexy
+64B         Serous apoplexy and oedema of brain
+64C         Cerebral congestion
+64D         Cerebral atheroma
+64E         Cerebral haemorrhage
+65    Softening of brain
+66
+66A         Hemiplegia
+66B         Paraplegia
+66C         Other forms of paralysis
+67    General paralysis of the insane
+68    Other forms of mental alienation
+69    Epilepsy
+70
+70A         Epileptiform convulsions
+70B         Other convulsions (non-puerperal; 5 years and over)
+71
+71A         Convulsions with teething
+71B         Other infantile convulsions (under 5 years)
+72    Chorea
+73
+73A         Hysteria, Neuralgia, Sciatica
+73B         Neuritis
+74
+74A         Idiocy, Imbecility
+74B         Cretinism
+74C         Cerebral tumour
+74D         Other diseases of the nervous system
+75    Diseases of the eyes and annexa
+76
+76A         Mastoid disease
+76B         Other diseases of the ears
+77    Pericarditis
+78
+78A         Acute myocarditis
+78B         Infective endocarditis
+78C         Other acute endocarditis
+79
+79A         Valvular disease
+79B         Fatty degeneration of the heart
+79C         Other organic disease of the heart
+80    Angina pectoris
+81
+81A         Aneurysm
+81B         Arterial sclerosis
+81C         Other diseases of arteries
+82
+82A         Cerebral embolism and thrombosis
+82B         Other embolism and thrombosis
+83
+83A         Phlebitis
+83B         Varix
+83C         Pylephlebitis
+83D         Varicocele
+84
+84A         Status lymphaticus
+84B         Other diseases of the lymphatic system
+85
+85A         Functional disease of the heart
+85B         Epistaxis
+85C         Other diseases of the circulatory system
+86    Diseases of the nasal fossae
+87
+87(1)       Laryngismus stridulus
+87(2)       Laryngitis
+87(3)       Other diseases of the larynx
+88    Diseases of the thyroid body
+89
+89A         Bronchiectasis, Bronchial catarrh, etc.
+89B         Other bronchitis
+90
+90A         Bronchiectasis, Bronchial catarrh, etc.
+90B         Other bronchitis
+91    Broncho-pneumonia
+92
+92A         Lobar pneumonia
+92B         Pneumonia (type not stated)
+93
+93A         Empyema
+93B         Other pleurisy
+94
+94A         Pulmonary apoplexy and infarction
+94B         Pulmonary oedema and congestion
+94C         Hypostatic pneumonia
+94D         Collapse of lung (3 months and over)
+95    Gangrene of the lung
+96    Asthma
+97    Pulmonary emphysema
+98
+98A Fibroid disease of lung
+98B         Other diseases of the respiratory system
+99
+99A         Diseases of the teeth and gums
+99B         Thrush, Aphthous stomatitis
+99C         Parotitis
+99D         Other diseases of the mouth and annexa
+100
+100A        Tonsillitis
+100B        Ludwig's angina
+100C        Other diseases of the pharynx
+101   Diseases of oesophagus
+102   Perforating ulcer of stomach
+103
+103A        Inflammation of stomach
+103B        Other diseases of the stomach
+104
+104A        Infective enteritis, age under 2 years
+104B        Diarrhoea - not returned as infective, age under 2 years
+104C        Enteritis - not returned as infective, age under 2 years
+104D        Gastro-enteritis - not returned as infective, age under 2 years
+104E        Dyspepsia, under 2 years
+104F        Colic, age under 2 years
+104G        Ulceration of intestines, age under 2 years
+104H        Duodenal ulcer, age under 2 years
+105
+105A        Infective enteritis, age over 2 years
+105B        Diarrhoea - not returned as infective, age over 2 years
+105C        Enteritis - not returned as infective, age over 2 years
+105D        Gastro-enteritis - not returned as infective, age over 2 years
+105E        Dyspepsia, age over 2 years
+105F        Colic, age over 2 years
+105G        Ulceration of intestines, age over 2 years
+105H        Duodenal ulcer, age over 2 years
+106   Ankylostomiasis
+107   Other intestinal parasites
+108   Appendicitis
+109
+109A        Hernia
+109B        Intestinal obstruction
+110   Other diseases of the intestines
+111   Acute yellow atrophy of liver
+112   Hydatid of liver
+113
+113A        Cirrhosis of the liver (not returned as alcoholic)
+113B        Cirrhosis of the liver (returned as alcoholic)
+113C        Diseases formerly classed to "Other diseases of liver and gall bladder"
+114   Biliary calculi
+115   Other diseases of the liver
+116
+116A        Infarction of spleen
+116B        Other diseases of the spleen
+117   Peritonitis (cause unstated)
+118
+118A        Abdominal abscess, Sub-phrenic abscess
+118B        Other diseases of the digestive system
+119   Acute nephritis
+120
+120A        Bright's disease as in 1901 list
+120B        Nephritis (unqualified), 10 years and over, and uraemia
+121   Chyluria
+122
+122A        Abscess of kidney
+122B        Cystic disease
+122C        Suppression of urine
+122D        Other diseases of the kidney and annexa
+123   Calculi of the urinary passages
+124   Diseases of the bladder
+125
+125A        Perineal abscess
+125B        Other diseases of urethra, etc.
+126   Diseases of the prostate
+127   Non-venereal diseases of male genital organs
+128
+128A        Menorrhagia
+128B        Other uterine haemorrhage
+129   Uterine tumour (non-cancerous)
+130
+130A        Disorders of menstruation (except menorrhagia)
+130B        Other diseases of the uterus
+131   Ovarian cyst, tumour (non-cancerous)
+132
+132A        Diseases of ovary (excluding ovarian tumour)
+132B        Other diseases of the female genital organs
+133   Non-puerperal diseases of the breast (non-cancerous)
+134
+134A        Abortion
+134B        Haemorrhage of pregnancy
+134C        Uncontrollable vomiting
+134D        Ectopic gestation
+134E        Other accidents of pregnancy
+135   Puerperal haemorrhage
+136   Other accidents of childbirth
+137   Puerperal fever
+138
+138A        Puerperal nephritis and uraemia
+138B        Puerperal albuminuria and Bright's disease
+138C        Puerperal convulsions
+139
+139A        Puerperal phlegmasia alba dolens and phlebitis
+139B        Puerperal embolism and sudden death
+140   Puerperal insanity
+141   Puerperal diseases of the breast
+142
+142A        Senile gangrene
+142B        Noma, Gangrene of mouth
+142C        Noma pudendi
+142D        Other gangrene
+143   Carbuncle, Boil
+144
+144A        Phlegmon
+144B        Acute abscess
+145
+145A        Ulcer, Bedsore
+145B        Eczema
+145C        Pemphigus
+145D        Other diseases of integumentary system
+146   Diseases of the bones
+147   Diseases of the joints
+148   Amputations
+149   Other diseases of locomotor system
+150
+150A        Congenital hydrocephalus
+150B        Phimosis
+150C        Congenital malformation of heart
+150D        Other congenital malformations
+151
+151A        Premature birth
+151B        Infantile atrophy, debility, and marasmus
+151C        Icterus neonatorum
+151D        Sclerema and oedema neonatorum
+151E        Want of breast milk
+152
+152A        Diseases of umbilicus, etc.
+152B        Atelectasis
+152C        Injuries at birth
+152D        Cyanosis neonatorum
+153   Lack of care
+154
+154A        Senile dementia
+154B        Senile decay
+155   Suicide by poison
+156   Suicide by asphyxia
+157   Suicide by hanging or strangulation
+158   Suicide by drowning
+159   Suicide by firearms
+160   Suicide by cutting or piercing instruments
+161   Suicide by jumping from high place
+162   Suicide by crushing
+163   Other suicides
+164   Poisoning by food
+165   Other acute poisonings
+166   Conflagration
+167   Burns (conflagration excepted)
+168   Absorption of deleterious gases (conflagration excepted)
+169   Accidental drowning
+170   Injury by firearms
+171   Injury by cutting or piercing instruments
+172   Injury by fall
+173   Injury by in mines and quarries
+174   Injury by machines
+175   Injury by other crushing (vehicles, railways, landslides, etc.)
+176   Injury by animals
+177   Starvation
+178   Excessive cold
+179   Effects of heat
+180   Lightning
+181   Electricity (lightning excepted)
+182   Homicide by firearms
+183   Homicide by cutting or piercing instruments
+184   Homicide by other means
+185   Fractures (cause not specified)
+186   Other violence
+187   Dropsy
+188
+188A        Syncope (aged over 1 year and under 70)
+188B        Sudden death (not otherwise defined)
+189
+189A        Heart failure (aged over 1 year and under 70)
+189B        Atrophy, Debility, Marasmus (aged over 1 year and under 70)
+189C        Teething
+189D        Pyrexia
+189E        Other ill-defined deaths
+189F        Cause not specified

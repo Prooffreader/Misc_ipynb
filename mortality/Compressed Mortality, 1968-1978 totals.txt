@@ -1,0 +1,2887 @@
+"Notes"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Classical"	"000.0"	0	2320363006	0.0 (Unreliable)
+	"El Tor"	"000.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"000.9"	0	2320363006	0.0 (Unreliable)
+	"Typhoid fever"	"001"	49	2320363006	0.0
+	"Paratyphoid fever A"	"002.0"	0	2320363006	0.0 (Unreliable)
+	"Paratyphoid fever B"	"002.1"	6	2320363006	0.0 (Unreliable)
+	"Paratyphoid fever C"	"002.2"	1	2320363006	0.0 (Unreliable)
+	"Paratyphoid fever unspecified"	"002.9"	6	2320363006	0.0 (Unreliable)
+	"With food as vehicle of infection"	"003.0"	4	2320363006	0.0 (Unreliable)
+	"Without mention of food as vehicle of infection"	"003.9"	780	2320363006	0.0
+	"Shiga"	"004.0"	0	2320363006	0.0 (Unreliable)
+	"Flexner"	"004.1"	20	2320363006	0.0
+	"Boyd"	"004.2"	1	2320363006	0.0 (Unreliable)
+	"Soone"	"004.3"	12	2320363006	0.0 (Unreliable)
+	"Schmitz-(Stutzer)"	"004.4"	0	2320363006	0.0 (Unreliable)
+	"Other specified bacillary"	"004.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"004.9"	310	2320363006	0.0
+	"Staphylococcal"	"005.0"	10	2320363006	0.0 (Unreliable)
+	"Botulism"	"005.1"	55	2320363006	0.0
+	"Due to other clostridia"	"005.2"	5	2320363006	0.0 (Unreliable)
+	"Other specified bacterial food poisoning"	"005.8"	0	2320363006	0.0 (Unreliable)
+	"Food poisoning, unspecified"	"005.9"	74	2320363006	0.0
+	"With liver abscess"	"006.0"	163	2320363006	0.0
+	"Without mention of liver abscess"	"006.9"	286	2320363006	0.0
+	"Balantidiasis"	"007.0"	0	2320363006	0.0 (Unreliable)
+	"Giardiasis"	"007.1"	3	2320363006	0.0 (Unreliable)
+	"Coccidiosis"	"007.2"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"007.9"	0	2320363006	0.0 (Unreliable)
+	"Escherichia coli"	"008.0"	92	2320363006	0.0
+	"Arizona"	"008.1"	0	2320363006	0.0 (Unreliable)
+	"Other specified bacteria"	"008.2"	218	2320363006	0.0
+	"Bacterial enteritis, unspecified"	"008.3"	180	2320363006	0.0
+	"Enteritis due to specified virus"	"008.8"	11	2320363006	0.0 (Unreliable)
+	"Other organism, not elsewhere classified"	"008.9"	2235	2320363006	0.1
+	"Dysentery, unspecified"	"009.0"	125	2320363006	0.0
+	"Diarrhea"	"009.1"	2990	2320363006	0.1
+	"Gastroenteritis and colitis"	"009.2"	19274	2320363006	0.8
+	"Other diarrheal disease"	"009.9"	1	2320363006	0.0 (Unreliable)
+	"Silicotuberculosis"	"010"	1320	2320363006	0.1
+	"Active, minimal"	"011.0"	36	2320363006	0.0
+	"Active, moderately advanced"	"011.1"	383	2320363006	0.0
+	"Active, far advanced"	"011.2"	5451	2320363006	0.2
+	"Active, stage unspecified"	"011.3"	3423	2320363006	0.1
+	"Miliary, lung NOS"	"011.4"	513	2320363006	0.0
+	"Radiologic evidence alone"	"011.5"	0	2320363006	0.0 (Unreliable)
+	"Pulmonary tuberculosis NOS"	"011.9"	20909	2320363006	0.9
+	"Primary"	"012.0"	33	2320363006	0.0
+	"Pleurisy specified as tuberculous"	"012.1"	292	2320363006	0.0
+	"Pleurisy with effusion without mention of cause"	"012.2"	3704	2320363006	0.2
+	"Tuberculous laryngitis"	"012.3"	4	2320363006	0.0 (Unreliable)
+	"Other respiratory tuberculosis"	"012.9"	18	2320363006	0.0 (Unreliable)
+	"Tuberculous meningitis"	"013.0"	930	2320363006	0.0
+	"Other central nervous system"	"013.9"	59	2320363006	0.0
+	"Tuberculosis of intestines, peritoneum, and mesenteric glands"	"014"	280	2320363006	0.0
+	"Of vertebral column"	"015.0"	348	2320363006	0.0
+	"Of hip"	"015.1"	8	2320363006	0.0 (Unreliable)
+	"Of knee"	"015.2"	9	2320363006	0.0 (Unreliable)
+	"Of other specified bones and joints"	"015.8"	7	2320363006	0.0 (Unreliable)
+	"Of unspecified bones and joints"	"015.9"	16	2320363006	0.0 (Unreliable)
+	"Kidney"	"016.0"	248	2320363006	0.0
+	"Other urinary organs"	"016.1"	28	2320363006	0.0
+	"Genital organs (male and female)"	"016.2"	14	2320363006	0.0 (Unreliable)
+	"Genitourinary system, site unspecified"	"016.9"	11	2320363006	0.0 (Unreliable)
+	"Of skin and subcutaneous cellular tissue"	"017.0"	150	2320363006	0.0
+	"Of peripheral lymphatic glands"	"017.1"	32	2320363006	0.0
+	"Of eye"	"017.2"	0	2320363006	0.0 (Unreliable)
+	"Of ear"	"017.3"	0	2320363006	0.0 (Unreliable)
+	"Of other organs"	"017.9"	210	2320363006	0.0
+	"Acute miliary tuberculosis specified as nonpulmonary"	"018.0"	1	2320363006	0.0 (Unreliable)
+	"Acute miliary tuberculosis unspecified"	"018.1"	29	2320363006	0.0
+	"Other forms of disseminated tuberculosis"	"018.9"	1893	2320363006	0.1
+	"Respiratory tuberculosis"	"019.0"	5257	2320363006	0.2
+	"Of central nervous system"	"019.1"	17	2320363006	0.0 (Unreliable)
+	"Of genitourinary system"	"019.2"	17	2320363006	0.0 (Unreliable)
+	"Of vertabral column"	"019.3"	19	2320363006	0.0 (Unreliable)
+	"Of hip"	"019.4"	0	2320363006	0.0 (Unreliable)
+	"Of knee"	"019.5"	0	2320363006	0.0 (Unreliable)
+	"Of other bones and joints"	"019.6"	1	2320363006	0.0 (Unreliable)
+	"Of other specified organs"	"019.9"	16	2320363006	0.0 (Unreliable)
+	"Bubonic"	"020.0"	6	2320363006	0.0 (Unreliable)
+	"Pulmonic"	"020.1"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"020.9"	1	2320363006	0.0 (Unreliable)
+	"Tularemia"	"021"	16	2320363006	0.0 (Unreliable)
+	"Anthrax"	"022"	0	2320363006	0.0 (Unreliable)
+	"Brucella melitensis"	"023.0"	0	2320363006	0.0 (Unreliable)
+	"Brucella abortus"	"023.1"	0	2320363006	0.0 (Unreliable)
+	"Brucella suis"	"023.2"	2	2320363006	0.0 (Unreliable)
+	"Unspecified"	"023.9"	19	2320363006	0.0 (Unreliable)
+	"Glanders"	"024"	0	2320363006	0.0 (Unreliable)
+	"Melioidosis"	"025"	4	2320363006	0.0 (Unreliable)
+	"Spirillum minus"	"026.0"	0	2320363006	0.0 (Unreliable)
+	"Streptobacillus moniliformis"	"026.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"026.9"	0	2320363006	0.0 (Unreliable)
+	"Listeriosis"	"027.0"	435	2320363006	0.0
+	"Erysipelothrix infection"	"027.1"	2	2320363006	0.0 (Unreliable)
+	"Other"	"027.9"	6	2320363006	0.0 (Unreliable)
+	"Lepromatous"	"030.0"	8	2320363006	0.0 (Unreliable)
+	"Tuberculoid"	"030.1"	0	2320363006	0.0 (Unreliable)
+	"Indeterminate"	"030.2"	0	2320363006	0.0 (Unreliable)
+	"Borderline"	"030.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"030.9"	18	2320363006	0.0 (Unreliable)
+	"Pulmonary"	"031.0"	475	2320363006	0.0
+	"Other and unspecified"	"031.9"	62	2320363006	0.0
+	"Diphtheria"	"032"	144	2320363006	0.0
+	"Bordetalla pertussis"	"033.0"	2	2320363006	0.0 (Unreliable)
+	"Bordetalla parapertussis"	"033.1"	1	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"033.9"	132	2320363006	0.0
+	"Streptococcal sore throat"	"034.0"	187	2320363006	0.0
+	"Scarlet fever"	"034.1"	40	2320363006	0.0
+	"Erysipelas"	"035"	94	2320363006	0.0
+	"Meningococcal meningitis"	"036.0"	2334	2320363006	0.1
+	"Meningococcemia without mention of meningitis"	"036.1"	2532	2320363006	0.1
+	"Other forms of meningococcal infection"	"036.8"	2	2320363006	0.0 (Unreliable)
+	"Unspecified"	"036.9"	40	2320363006	0.0
+	"Tetanus"	"037"	593	2320363006	0.0
+	"Streptococcal"	"038.0"	1315	2320363006	0.1
+	"Staphylococcal"	"038.1"	2677	2320363006	0.1
+	"Pneumococcal"	"038.2"	550	2320363006	0.0
+	"Other bacterial septicemia"	"038.8"	3566	2320363006	0.2
+	"Unspecified"	"038.9"	46248	2320363006	2.0
+	"Gas gangrene"	"039.0"	916	2320363006	0.0
+	"Rhinoscleroma"	"039.1"	3	2320363006	0.0 (Unreliable)
+	"Other"	"039.9"	6153	2320363006	0.3
+	"Acute paralytic poliomyelitis specified as bulbar"	"040"	25	2320363006	0.0
+	"Acute poliomyelitis with other paralysis"	"041"	15	2320363006	0.0 (Unreliable)
+	"Acute nonparalytic poliomyelitis"	"042"	0	2320363006	0.0 (Unreliable)
+	"Acute poliomyelitis, unspecified"	"043"	91	2320363006	0.0
+	"Late effects of acute poliomyelitis"	"044"	966	2320363006	0.0
+	"Coxsackie virus"	"045.0"	6	2320363006	0.0 (Unreliable)
+	"ECHO virus"	"045.1"	1	2320363006	0.0 (Unreliable)
+	"Aseptic meningitis, unspecified"	"045.9"	504	2320363006	0.0
+	"Other enterovirus diseases of central nervous system"	"046"	462	2320363006	0.0
+	"Variola major"	"050.0"	0	2320363006	0.0 (Unreliable)
+	"Variola minor"	"050.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"050.9"	0	2320363006	0.0 (Unreliable)
+	"Cowpox"	"051"	0	2320363006	0.0 (Unreliable)
+	"Chickenpox"	"052"	1106	2320363006	0.0
+	"Of eye"	"053.0"	36	2320363006	0.0
+	"Of other parts of face"	"053.1"	37	2320363006	0.0
+	"Of trunk"	"053.2"	8	2320363006	0.0 (Unreliable)
+	"Of other and unspecified sites"	"053.9"	1031	2320363006	0.0
+	"Herpes simplex"	"054"	1256	2320363006	0.1
+	"Measles"	"055"	369	2320363006	0.0
+	"Rubella"	"056"	209	2320363006	0.0
+	"Erythema infectiosum"	"057.0"	0	2320363006	0.0 (Unreliable)
+	"Exanthema subitum"	"057.1"	0	2320363006	0.0 (Unreliable)
+	"Other"	"057.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified"	"057.9"	2	2320363006	0.0 (Unreliable)
+	"Sylvatic"	"060.0"	0	2320363006	0.0 (Unreliable)
+	"Urban"	"060.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"060.9"	2	2320363006	0.0 (Unreliable)
+	"Dengue"	"061"	1	2320363006	0.0 (Unreliable)
+	"Japanese encephalitis"	"062.0"	1	2320363006	0.0 (Unreliable)
+	"Western equine encephalitis"	"062.1"	5	2320363006	0.0 (Unreliable)
+	"Eastern equine encephalitis"	"062.2"	13	2320363006	0.0 (Unreliable)
+	"St. Louis encephalitis"	"062.3"	97	2320363006	0.0
+	"Murray Valley encephalitis"	"062.4"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"062.9"	7	2320363006	0.0 (Unreliable)
+	"Russian spring-summer (taiga) encephalitis"	"063.0"	0	2320363006	0.0 (Unreliable)
+	"Louping ill"	"063.1"	0	2320363006	0.0 (Unreliable)
+	"Central European encephalitis"	"063.2"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"063.9"	0	2320363006	0.0 (Unreliable)
+	"Viral encephalitis transmitted by other arthropods"	"064"	1	2320363006	0.0 (Unreliable)
+	"Viral encephalitis, unspecified"	"065"	3122	2320363006	0.1
+	"Late effects of viral encephalitis"	"066"	305	2320363006	0.0
+	"Crimean hemorrhagic fever"	"067.0"	0	2320363006	0.0 (Unreliable)
+	"Omsk hemorrhagic fever"	"067.1"	0	2320363006	0.0 (Unreliable)
+	"Kyasanur Forest disease"	"067.2"	0	2320363006	0.0 (Unreliable)
+	"Other tick-borne hemorrhagic fever"	"067.3"	0	2320363006	0.0 (Unreliable)
+	"Mosquito-borne hemorrhagic fever"	"067.4"	0	2320363006	0.0 (Unreliable)
+	"Hemorrhagic nephroso-nephritis"	"067.5"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified arthropod-borne hemorrhagic fever"	"067.9"	0	2320363006	0.0 (Unreliable)
+	"Phlebotomous fever"	"068.0"	0	2320363006	0.0 (Unreliable)
+	"Tick-borne fever"	"068.1"	1	2320363006	0.0 (Unreliable)
+	"Mosquito-borne fever"	"068.2"	0	2320363006	0.0 (Unreliable)
+	"Other arthropod-borne viral diseases"	"068.9"	16	2320363006	0.0 (Unreliable)
+	"Infectious hepatitis"	"070"	8067	2320363006	0.3
+	"Rabies"	"071"	14	2320363006	0.0 (Unreliable)
+	"Mumps"	"072"	136	2320363006	0.0
+	"Psittacosis"	"073"	4	2320363006	0.0 (Unreliable)
+	"Herpangina"	"074.0"	3	2320363006	0.0 (Unreliable)
+	"Epidemic pleurodynia"	"074.1"	2	2320363006	0.0 (Unreliable)
+	"Coxsackie myocarditis"	"074.2"	90	2320363006	0.0
+	"Other"	"074.9"	5	2320363006	0.0 (Unreliable)
+	"Infectious mononucleosis"	"075"	202	2320363006	0.0
+	"Trachoma, active"	"076"	0	2320363006	0.0 (Unreliable)
+	"Late effects of trachoma"	"077"	0	2320363006	0.0 (Unreliable)
+	"Inclusion conjunctivitis"	"078.0"	0	2320363006	0.0 (Unreliable)
+	"Epidemic keratoconjunctivitis"	"078.1"	0	2320363006	0.0 (Unreliable)
+	"Acute adenoviral follicular conjunctivitis"	"078.2"	1	2320363006	0.0 (Unreliable)
+	"Other"	"078.8"	0	2320363006	0.0 (Unreliable)
+	"Viral conjunctivitis, unspecified"	"078.9"	0	2320363006	0.0 (Unreliable)
+	"Molluscum contagiosum"	"079.0"	0	2320363006	0.0 (Unreliable)
+	"Viral warts"	"079.1"	3	2320363006	0.0 (Unreliable)
+	"Lymphocytic choriomeningitis"	"079.2"	51	2320363006	0.0
+	"Cat-scratch disease"	"079.3"	2	2320363006	0.0 (Unreliable)
+	"Foot and mouth disease"	"079.4"	0	2320363006	0.0 (Unreliable)
+	"Cytomegalic inclusion disease"	"079.5"	319	2320363006	0.0
+	"Other"	"079.8"	36	2320363006	0.0
+	"Viral infection, unspecified"	"079.9"	4930	2320363006	0.2
+	"Epidemic louse-borne typhus"	"080"	0	2320363006	0.0 (Unreliable)
+	"Endemic flea-borne"	"081.0"	2	2320363006	0.0 (Unreliable)
+	"Brill's disease"	"081.1"	0	2320363006	0.0 (Unreliable)
+	"Mite-borne"	"081.2"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"081.9"	8	2320363006	0.0 (Unreliable)
+	"Spotted fevers"	"082.0"	402	2320363006	0.0
+	"Boutonneuse fever"	"082.1"	0	2320363006	0.0 (Unreliable)
+	"North Asian tick-borne typhus fever"	"082.2"	0	2320363006	0.0 (Unreliable)
+	"Other"	"082.9"	0	2320363006	0.0 (Unreliable)
+	"Rickettsial pox"	"083.0"	0	2320363006	0.0 (Unreliable)
+	"Q-fever"	"083.1"	0	2320363006	0.0 (Unreliable)
+	"Wolhynian fever"	"083.2"	0	2320363006	0.0 (Unreliable)
+	"Other"	"083.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"083.9"	13	2320363006	0.0 (Unreliable)
+	"Falicparum malaria (malignant tertian)"	"084.0"	28	2320363006	0.0
+	"Vivax malaria (benign tertian)"	"084.1"	0	2320363006	0.0 (Unreliable)
+	"Malariae malaria (quartan)"	"084.2"	1	2320363006	0.0 (Unreliable)
+	"Ovale malaria"	"084.3"	0	2320363006	0.0 (Unreliable)
+	"Blackwater fever"	"084.4"	0	2320363006	0.0 (Unreliable)
+	"Recurrent induced malaria"	"084.5"	0	2320363006	0.0 (Unreliable)
+	"Other"	"084.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified forms"	"084.9"	26	2320363006	0.0
+	"Visceral (Kala-azar)"	"085.0"	1	2320363006	0.0 (Unreliable)
+	"Cutaneous (oriental sore)"	"085.1"	0	2320363006	0.0 (Unreliable)
+	"Mucocutaneous (American)"	"085.2"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"085.9"	1	2320363006	0.0 (Unreliable)
+	"With heart involvement"	"086.0"	1	2320363006	0.0 (Unreliable)
+	"With other organ involvement"	"086.8"	0	2320363006	0.0 (Unreliable)
+	"Without mention of organ involvement"	"086.9"	2	2320363006	0.0 (Unreliable)
+	"Gambian"	"087.0"	0	2320363006	0.0 (Unreliable)
+	"Rhodesian"	"087.1"	0	2320363006	0.0 (Unreliable)
+	"African trypanosomiasis, unspecified"	"087.8"	0	2320363006	0.0 (Unreliable)
+	"Trypanosomiasis, unspecified"	"087.9"	1	2320363006	0.0 (Unreliable)
+	"Louse-borne"	"088.0"	1	2320363006	0.0 (Unreliable)
+	"Tick-borne"	"088.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"088.9"	2	2320363006	0.0 (Unreliable)
+	"Bartonellosis"	"089.0"	0	2320363006	0.0 (Unreliable)
+	"Other"	"089.9"	0	2320363006	0.0 (Unreliable)
+	"Early congenital syphilis, symptomatic"	"090.0"	24	2320363006	0.0
+	"Early congenital syphilis, latent"	"090.1"	0	2320363006	0.0 (Unreliable)
+	"Early congenital syphilis, unspecified"	"090.2"	24	2320363006	0.0
+	"Interstitial keratitis"	"090.3"	0	2320363006	0.0 (Unreliable)
+	"Juvenile neurosyphilis"	"090.4"	44	2320363006	0.0
+	"Other late congenital syphilis, symptomatic"	"090.5"	6	2320363006	0.0 (Unreliable)
+	"Late congenital syphilis, latent"	"090.6"	0	2320363006	0.0 (Unreliable)
+	"Late congenital syphilis, unspecified"	"090.7"	8	2320363006	0.0 (Unreliable)
+	"Congenital syphilis, unspecified"	"090.9"	67	2320363006	0.0
+	"Primary syphilis, except extragenital chancre"	"091.0"	1	2320363006	0.0 (Unreliable)
+	"Extragenital chancre"	"091.1"	0	2320363006	0.0 (Unreliable)
+	"Secondary syphilis of skin and mucous membranes"	"091.2"	3	2320363006	0.0 (Unreliable)
+	"Secondary syphilis, relapse (treated, untreated)"	"091.3"	0	2320363006	0.0 (Unreliable)
+	"Other recently acquired syphilis, symptomatic"	"091.8"	0	2320363006	0.0 (Unreliable)
+	"Early syphilis, unspecified"	"091.9"	0	2320363006	0.0 (Unreliable)
+	"Aneurysm of aorta, specified as syphilitic"	"093.0"	271	2320363006	0.0
+	"Other cardiovascular syphilis"	"093.9"	1865	2320363006	0.1
+	"Tabes dorsalis"	"094.0"	258	2320363006	0.0
+	"General paresis"	"094.1"	315	2320363006	0.0
+	"Other syphilis of central nervous system"	"094.9"	743	2320363006	0.0
+	"Other forms of late syphilis, with symptoms"	"095"	41	2320363006	0.0
+	"Late syphilis, unspecified"	"097.0"	108	2320363006	0.0
+	"Syphilis, unspecified"	"097.9"	86	2320363006	0.0
+	"Acute of genitourinary tract"	"098.0"	19	2320363006	0.0 (Unreliable)
+	"Chronic of genitourinary system"	"098.1"	17	2320363006	0.0 (Unreliable)
+	"Of eye"	"098.2"	0	2320363006	0.0 (Unreliable)
+	"Of joint"	"098.3"	0	2320363006	0.0 (Unreliable)
+	"Of other sites"	"098.8"	13	2320363006	0.0 (Unreliable)
+	"Site unspecified"	"098.9"	5	2320363006	0.0 (Unreliable)
+	"Chancroid"	"099.0"	0	2320363006	0.0 (Unreliable)
+	"Lymphogranuloma verereum"	"099.1"	19	2320363006	0.0 (Unreliable)
+	"Granuloma inguinale"	"099.2"	7	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"099.9"	24	2320363006	0.0
+	"Leptospurosis icterohemorrhagica"	"100.0"	21	2320363006	0.0
+	"Other"	"100.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified"	"100.9"	53	2320363006	0.0
+	"Vincent's angina"	"101"	7	2320363006	0.0 (Unreliable)
+	"Initial lesions"	"102.0"	0	2320363006	0.0 (Unreliable)
+	"Multiple papillomata and wet crab yaws"	"102.1"	0	2320363006	0.0 (Unreliable)
+	"Other early skin lesions"	"102.2"	0	2320363006	0.0 (Unreliable)
+	"Hyperkeratosis"	"102.3"	0	2320363006	0.0 (Unreliable)
+	"Gummata, ulcers"	"102.4"	0	2320363006	0.0 (Unreliable)
+	"Gangosa"	"102.5"	0	2320363006	0.0 (Unreliable)
+	"Bone and joint lesions"	"102.6"	0	2320363006	0.0 (Unreliable)
+	"Other manifestations"	"102.7"	0	2320363006	0.0 (Unreliable)
+	"Latent yaws"	"102.8"	0	2320363006	0.0 (Unreliable)
+	"Yaws, unspecified"	"102.9"	0	2320363006	0.0 (Unreliable)
+	"Primary lesions"	"103.0"	0	2320363006	0.0 (Unreliable)
+	"Intermediate lesions"	"103.1"	0	2320363006	0.0 (Unreliable)
+	"Late lesions"	"103.2"	0	2320363006	0.0 (Unreliable)
+	"Mixed lesions"	"103.3"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"103.9"	0	2320363006	0.0 (Unreliable)
+	"Nonvenereal endemic syphilis"	"104.0"	0	2320363006	0.0 (Unreliable)
+	"Other"	"104.9"	0	2320363006	0.0 (Unreliable)
+	"Of scalp and beard"	"110.0"	0	2320363006	0.0 (Unreliable)
+	"Of foot"	"110.1"	0	2320363006	0.0 (Unreliable)
+	"Of other and unspecified sites"	"110.9"	6	2320363006	0.0 (Unreliable)
+	"Pityriasis versicolor"	"111.0"	1	2320363006	0.0 (Unreliable)
+	"Tinea nigra"	"111.1"	0	2320363006	0.0 (Unreliable)
+	"Tinea blanca"	"111.2"	0	2320363006	0.0 (Unreliable)
+	"Other"	"111.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"111.9"	3	2320363006	0.0 (Unreliable)
+	"Moniliasis"	"112"	1975	2320363006	0.1
+	"Actinomycosis"	"113"	135	2320363006	0.0
+	"Coccidioidomycosis"	"114"	587	2320363006	0.0
+	"Histoplasmosis"	"115"	622	2320363006	0.0
+	"European"	"116.0"	1361	2320363006	0.1
+	"North American"	"116.1"	15	2320363006	0.0 (Unreliable)
+	"South American"	"116.2"	2	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"116.9"	165	2320363006	0.0
+	"Rhinosporidiosis"	"117.0"	0	2320363006	0.0 (Unreliable)
+	"Sporotrichosis"	"117.1"	18	2320363006	0.0 (Unreliable)
+	"Chromomycosis"	"117.2"	2	2320363006	0.0 (Unreliable)
+	"Aspergillosis"	"117.3"	620	2320363006	0.0
+	"Maduromycosis"	"117.4"	11	2320363006	0.0 (Unreliable)
+	"Other"	"117.8"	298	2320363006	0.0
+	"Unspecified"	"117.9"	559	2320363006	0.0
+	"Schistosoma hematobium"	"120.0"	0	2320363006	0.0 (Unreliable)
+	"Schistosoma Mansoni"	"120.1"	1	2320363006	0.0 (Unreliable)
+	"Schistosoma japonicum"	"120.2"	0	2320363006	0.0 (Unreliable)
+	"Cutaneous"	"120.3"	0	2320363006	0.0 (Unreliable)
+	"Other"	"120.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"120.9"	12	2320363006	0.0 (Unreliable)
+	"Opisthorchiasis"	"121.0"	0	2320363006	0.0 (Unreliable)
+	"Clonorchiasis"	"121.1"	3	2320363006	0.0 (Unreliable)
+	"Paragonomiasis"	"121.2"	0	2320363006	0.0 (Unreliable)
+	"Fascioliasis"	"121.3"	3	2320363006	0.0 (Unreliable)
+	"Fasciolopsiasis"	"121.4"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"121.9"	0	2320363006	0.0 (Unreliable)
+	"Of liver"	"122.0"	21	2320363006	0.0
+	"Of lung"	"122.1"	2	2320363006	0.0 (Unreliable)
+	"Of other specified sites"	"122.8"	8	2320363006	0.0 (Unreliable)
+	"Of unspecified site"	"122.9"	19	2320363006	0.0 (Unreliable)
+	"Taenia solium infection, intestinal form"	"123.0"	0	2320363006	0.0 (Unreliable)
+	"Cysticercosis"	"123.1"	37	2320363006	0.0
+	"Taenia saginata infection"	"123.2"	0	2320363006	0.0 (Unreliable)
+	"Taeniasis, unspecified"	"123.3"	0	2320363006	0.0 (Unreliable)
+	"Diphyllobothriasis, intestinal"	"123.4"	0	2320363006	0.0 (Unreliable)
+	"Sparganosis (larval diphyllobothriasis)"	"123.5"	0	2320363006	0.0 (Unreliable)
+	"Hymenolepiasis"	"123.6"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"123.9"	2	2320363006	0.0 (Unreliable)
+	"Trichiniasis"	"124"	9	2320363006	0.0 (Unreliable)
+	"Wuchereriasis"	"125.0"	0	2320363006	0.0 (Unreliable)
+	"Brugia filariasis"	"125.1"	0	2320363006	0.0 (Unreliable)
+	"Loiasis"	"125.2"	0	2320363006	0.0 (Unreliable)
+	"Onchocercosis"	"125.3"	0	2320363006	0.0 (Unreliable)
+	"Acanthocheilonemiasis"	"125.4"	0	2320363006	0.0 (Unreliable)
+	"Mansonellosis"	"125.5"	0	2320363006	0.0 (Unreliable)
+	"Other filariasis"	"125.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"125.9"	3	2320363006	0.0 (Unreliable)
+	"Ancylostoma duodenale"	"126.0"	0	2320363006	0.0 (Unreliable)
+	"Necator americanus"	"126.1"	0	2320363006	0.0 (Unreliable)
+	"Other Ancylostoma"	"126.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"126.9"	3	2320363006	0.0 (Unreliable)
+	"Ascariasis"	"127.0"	41	2320363006	0.0
+	"Strongyloidiasis"	"127.1"	20	2320363006	0.0
+	"Trichuriasis"	"127.2"	1	2320363006	0.0 (Unreliable)
+	"Enterobiasis"	"127.3"	0	2320363006	0.0 (Unreliable)
+	"Other intestinal nematode infection"	"127.4"	0	2320363006	0.0 (Unreliable)
+	"Mixed intestinal helminthiasis"	"127.5"	2	2320363006	0.0 (Unreliable)
+	"Intestinal helminthiasis, unspecified"	"127.9"	2	2320363006	0.0 (Unreliable)
+	"Larva migrans, visceralis"	"128.0"	3	2320363006	0.0 (Unreliable)
+	"Other"	"128.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"128.9"	3	2320363006	0.0 (Unreliable)
+	"Intestinal parasitism, unspecified"	"129"	9	2320363006	0.0 (Unreliable)
+	"Acquired"	"130.0"	2	2320363006	0.0 (Unreliable)
+	"Congenital active"	"130.1"	101	2320363006	0.0
+	"Late effects of intrauterine infection"	"130.2"	4	2320363006	0.0 (Unreliable)
+	"Unspecified"	"130.9"	65	2320363006	0.0
+	"Trichomoniasis urogenitalis"	"131"	0	2320363006	0.0 (Unreliable)
+	"Pediculosis"	"132"	6	2320363006	0.0 (Unreliable)
+	"Scabies"	"133.0"	0	2320363006	0.0 (Unreliable)
+	"Other"	"133.9"	2	2320363006	0.0 (Unreliable)
+	"Myiasis"	"134.0"	4	2320363006	0.0 (Unreliable)
+	"Phthirus infestation"	"134.1"	0	2320363006	0.0 (Unreliable)
+	"Other arthropod infestation"	"134.2"	0	2320363006	0.0 (Unreliable)
+	"Hirudiniasis"	"134.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"134.9"	2	2320363006	0.0 (Unreliable)
+	"Sarcoidosis"	"135"	2843	2320363006	0.1
+	"Other and unspecified infective and parasitic diseases"	"136"	2806	2320363006	0.1
+	"Upper lip"	"140.0"	53	2320363006	0.0
+	"Lower lip"	"140.1"	453	2320363006	0.0
+	"Both lips"	"140.2"	13	2320363006	0.0 (Unreliable)
+	"Lip unspecified"	"140.9"	1409	2320363006	0.1
+	"Base of tongue"	"141.0"	2173	2320363006	0.1
+	"Dorsal surface of tongue"	"141.1"	12	2320363006	0.0 (Unreliable)
+	"Borders and tip of tongue"	"141.2"	23	2320363006	0.0
+	"Ventral surface of tongue"	"141.3"	3	2320363006	0.0 (Unreliable)
+	"Part unspecified"	"141.9"	18011	2320363006	0.8
+	"Parotid gland"	"142.0"	5247	2320363006	0.2
+	"Other specified salivary gland"	"142.8"	808	2320363006	0.0
+	"Unspecified salivary gland"	"142.9"	761	2320363006	0.0
+	"Upper gum"	"143.0"	83	2320363006	0.0
+	"Lower gum"	"143.1"	289	2320363006	0.0
+	"Gum unspecified"	"143.9"	1092	2320363006	0.0
+	"Malignant neoplasm of floor of mouth"	"144"	5587	2320363006	0.2
+	"Buccal mucosa"	"145.0"	1089	2320363006	0.0
+	"Palate (hard) (soft)"	"145.1"	3262	2320363006	0.1
+	"Other specified parts"	"145.8"	196	2320363006	0.0
+	"Part unspecified"	"145.9"	7836	2320363006	0.3
+	"Tonsils"	"146.0"	7747	2320363006	0.3
+	"Other specified parts"	"146.8"	417	2320363006	0.0
+	"Part unspecified"	"146.9"	2640	2320363006	0.1
+	"Malignant neoplasm of nasopharynx"	"147"	6672	2320363006	0.3
+	"Postcricoid region"	"148.0"	16	2320363006	0.0 (Unreliable)
+	"Pyriform fossa"	"148.1"	2180	2320363006	0.1
+	"Other specified parts"	"148.8"	12	2320363006	0.0 (Unreliable)
+	"Part unspecified"	"148.9"	3922	2320363006	0.2
+	"Malignant neoplasm of pharynx, unspecified"	"149"	14494	2320363006	0.6
+	"Malignant neoplasm of esophagus"	"150"	72228	2320363006	3.1
+	"Cardia"	"151.0"	2602	2320363006	0.1
+	"Pylorus"	"151.1"	373	2320363006	0.0
+	"Other specified parts"	"151.8"	910	2320363006	0.0
+	"Part unspecified"	"151.9"	165526	2320363006	7.1
+	"Duodenum"	"152.0"	2466	2320363006	0.1
+	"Jejunum"	"152.1"	1050	2320363006	0.0
+	"Ileum"	"152.2"	989	2320363006	0.0
+	"Part unspecified"	"152.9"	2897	2320363006	0.1
+	"Cecum, appendix and ascending colon"	"153.0"	45858	2320363006	2.0
+	"Transverse colon, including hepatic and splenic flexures"	"153.1"	12901	2320363006	0.6
+	"Descending colon"	"153.2"	10404	2320363006	0.4
+	"Sigmoid colon"	"153.3"	48139	2320363006	2.1
+	"Large intestine (including colon), part unspecified"	"153.8"	285269	2320363006	12.3
+	"Intestinal tract, part unspecified"	"153.9"	19846	2320363006	0.9
+	"Rectosigmoid junction"	"154.0"	16456	2320363006	0.7
+	"Rectum"	"154.1"	92037	2320363006	4.0
+	"Anal canal"	"154.2"	600	2320363006	0.0
+	"Liver"	"155.0"	24588	2320363006	1.1
+	"Intrahepatic bile ducts"	"155.1"	2283	2320363006	0.1
+	"Gallbladder"	"156.0"	27698	2320363006	1.2
+	"Extraheptic bile ducts"	"156.1"	13094	2320363006	0.6
+	"Ampulla of Vater"	"156.2"	3660	2320363006	0.2
+	"Biliary tract, unspecified"	"156.9"	3272	2320363006	0.1
+	"Head"	"157.0"	23353	2320363006	1.0
+	"Other specified parts"	"157.8"	4111	2320363006	0.2
+	"Unspecified"	"157.9"	179372	2320363006	7.7
+	"Retroperitoneal tissue"	"158.0"	5523	2320363006	0.2
+	"Other parts"	"158.9"	3016	2320363006	0.1
+	"Malignant neoplasm of unspecified digestive organs"	"159"	7651	2320363006	0.3
+	"Nose (internal) and nasal cavities"	"160.0"	1428	2320363006	0.1
+	"Eustachian tube and middle ear"	"160.1"	310	2320363006	0.0
+	"Maxiliary sinus"	"160.2"	3352	2320363006	0.1
+	"Other sinus"	"160.8"	743	2320363006	0.0
+	"Unspecified sinus"	"160.9"	639	2320363006	0.0
+	"Glottis, true vocal cord"	"161.0"	620	2320363006	0.0
+	"Other specified parts"	"161.8"	1715	2320363006	0.1
+	"Part unspecified"	"161.9"	32237	2320363006	1.4
+	"Trachea"	"162.0"	1582	2320363006	0.1
+	"Bronchus and lung"	"162.1"	833877	2320363006	35.9
+	"Pleura"	"163.0"	3313	2320363006	0.1
+	"Mediastinum"	"163.1"	3342	2320363006	0.1
+	"Site unspecified"	"163.9"	1474	2320363006	0.1
+	"Bones of skull and face"	"170.0"	2861	2320363006	0.1
+	"Lower jaw bone"	"170.1"	1923	2320363006	0.1
+	"Vertebral column (excluding sacrum and coccyx)"	"170.2"	2665	2320363006	0.1
+	"Ribs, sternum, and clavicle"	"170.3"	718	2320363006	0.0
+	"Long bones of upper limb and scapula"	"170.4"	777	2320363006	0.0
+	"Upper limb, short bones"	"170.5"	17	2320363006	0.0 (Unreliable)
+	"Pelvic bones, sacrum, coccyx"	"170.6"	1651	2320363006	0.1
+	"Lower limb, long bones"	"170.7"	2361	2320363006	0.1
+	"Lower limb, short bones"	"170.8"	120	2320363006	0.0
+	"Site unspecified"	"170.9"	6567	2320363006	0.3
+	"Head, face, and neck"	"171.0"	520	2320363006	0.0
+	"Trunk"	"171.1"	2883	2320363006	0.1
+	"Upper limb (including shoulder)"	"171.2"	690	2320363006	0.0
+	"Lower limb (including hip)"	"171.3"	2525	2320363006	0.1
+	"Site unspecified"	"171.9"	10060	2320363006	0.4
+	"Lips"	"172.0"	37	2320363006	0.0
+	"Eyelids, including canthi"	"172.1"	32	2320363006	0.0
+	"Ear and external auricular canal"	"172.2"	259	2320363006	0.0
+	"Other and unspecified parts of face"	"172.3"	839	2320363006	0.0
+	"Scalp and neck"	"172.4"	981	2320363006	0.0
+	"Scrotum"	"172.5"	12	2320363006	0.0 (Unreliable)
+	"Trunk, except scrotum"	"172.6"	2765	2320363006	0.1
+	"Upper limb"	"172.7"	1458	2320363006	0.1
+	"Lower limb"	"172.8"	2480	2320363006	0.1
+	"Site unspecified"	"172.9"	30890	2320363006	1.3
+	"Lips"	"173.0"	214	2320363006	0.0
+	"Eyelids, including canthi"	"173.1"	130	2320363006	0.0
+	"Ear and external auricular canal"	"173.2"	846	2320363006	0.0
+	"Other and unspecified part of face"	"173.3"	6160	2320363006	0.3
+	"Scalp and neck"	"173.4"	2757	2320363006	0.1
+	"Scrotum"	"173.5"	158	2320363006	0.0
+	"Trunk, except scrotum"	"173.6"	2546	2320363006	0.1
+	"Upper limb"	"173.7"	456	2320363006	0.0
+	"Lower limb"	"173.8"	586	2320363006	0.0
+	"Site unspecified"	"173.9"	2136	2320363006	0.1
+	"Malignant neoplasm of breast"	"174"	349594	2320363006	15.1
+	"Malignant neoplasm of cervix uteri"	"180"	66899	2320363006	2.9
+	"Chorionepithelioma"	"181"	441	2320363006	0.0
+	"Corpus uteri"	"182.0"	24806	2320363006	1.1
+	"Uterus, unspecified"	"182.9"	37090	2320363006	1.6
+	"Ovary"	"183.0"	111037	2320363006	4.8
+	"Fallopian tube and broad ligament"	"183.1"	1438	2320363006	0.1
+	"Part unspecified"	"183.9"	36	2320363006	0.0
+	"Vagina"	"184.0"	3785	2320363006	0.2
+	"Vulva"	"184.1"	5711	2320363006	0.2
+	"Other specified sites"	"184.8"	21	2320363006	0.0
+	"Site unspecified"	"184.9"	798	2320363006	0.0
+	"Malignant neoplasm of prostate"	"185"	207193	2320363006	8.9
+	"Malignant neoplasm of testis"	"186"	7995	2320363006	0.3
+	"Penis"	"187.0"	2436	2320363006	0.1
+	"Other specified sites"	"187.8"	152	2320363006	0.0
+	"Site unspecified"	"187.9"	240	2320363006	0.0
+	"Malignant neoplasm of bladder"	"188"	101008	2320363006	4.4
+	"Kidney, except pelvis"	"189.0"	70565	2320363006	3.0
+	"Pelvis of kidney"	"189.1"	958	2320363006	0.0
+	"Ureter"	"189.2"	2506	2320363006	0.1
+	"Other and unspecified"	"189.9"	1995	2320363006	0.1
+	"Malignant neoplasm of eye"	"190"	3712	2320363006	0.2
+	"Malignant neoplasm of brain"	"191"	70658	2320363006	3.0
+	"Cranial nerves (including optic)"	"192.0"	205	2320363006	0.0
+	"Cerebral meninges"	"192.1"	440	2320363006	0.0
+	"Spinal cord"	"192.2"	1393	2320363006	0.1
+	"Spinal meninges"	"192.3"	20	2320363006	0.0
+	"Peripheral nerves"	"192.4"	1551	2320363006	0.1
+	"Sympathetic nervous system"	"192.5"	3034	2320363006	0.1
+	"Site unspecified"	"192.9"	15667	2320363006	0.7
+	"Malignant neoplasm of thyroid gland"	"193"	11108	2320363006	0.5
+	"Suprarenal gland"	"194.0"	3022	2320363006	0.1
+	"Parathyroid gland"	"194.1"	131	2320363006	0.0
+	"Thymus"	"194.2"	911	2320363006	0.0
+	"Pituitary gland and craniopharyngeal duct"	"194.3"	373	2320363006	0.0
+	"Pineal gland"	"194.4"	144	2320363006	0.0
+	"Other"	"194.8"	168	2320363006	0.0
+	"Unspecified endocrine gland"	"194.9"	24	2320363006	0.0
+	"Abdomen, intra-abdominal cancer"	"195.0"	17203	2320363006	0.7
+	"Pelvis, pelvic viscera, rectovaginal septum"	"195.1"	3841	2320363006	0.2
+	"Other"	"195.9"	10091	2320363006	0.4
+	"Head, face, and neck"	"196.0"	721	2320363006	0.0
+	"Intrathoracic"	"196.1"	100	2320363006	0.0
+	"Intra-abdominal"	"196.2"	76	2320363006	0.0
+	"Axillary and upper limb"	"196.3"	65	2320363006	0.0
+	"Inguinal and lower limb"	"196.4"	102	2320363006	0.0
+	"Other specified sites"	"196.7"	86	2320363006	0.0
+	"Multiple sites"	"196.8"	103	2320363006	0.0
+	"Site unspecified"	"196.9"	640	2320363006	0.0
+	"Lung, specified as secondary"	"197.0"	9477	2320363006	0.4
+	"Mediastinum, specified as secondary"	"197.1"	273	2320363006	0.0
+	"Pleura, specified as secondary"	"197.2"	1944	2320363006	0.1
+	"Other respiratory organs, specified as secondary"	"197.3"	320	2320363006	0.0
+	"Small intestine, including duodenum, specified as secondary"	"197.4"	102	2320363006	0.0
+	"Large intestine and rectum, specified as secondary"	"197.5"	691	2320363006	0.0
+	"Peritoneum, specified as secondary"	"197.6"	1271	2320363006	0.1
+	"Liver, specified as secondary"	"197.7"	22341	2320363006	1.0
+	"Liver, unspecified"	"197.8"	30765	2320363006	1.3
+	"Other digestive organs, specified as secondary"	"197.9"	623	2320363006	0.0
+	"Bladder specified as secondary"	"198.0"	143	2320363006	0.0
+	"Other urinary organs, specified as secondary"	"198.1"	146	2320363006	0.0
+	"Skin, specified as secondary"	"198.2"	389	2320363006	0.0
+	"Brain, specified as secondary"	"198.3"	7328	2320363006	0.3
+	"Other parts of nervous system, specified as secondary"	"198.4"	618	2320363006	0.0
+	"Bone, specified as secondary"	"198.5"	4879	2320363006	0.2
+	"Other sites, specified as secondary"	"198.9"	9418	2320363006	0.4
+	"Multiple"	"199.0"	122264	2320363006	5.3
+	"Other"	"199.1"	18980	2320363006	0.8
+	"Reticulum-cell sarcoma"	"200.0"	28000	2320363006	1.2
+	"Lymphosarcoma"	"200.1"	41891	2320363006	1.8
+	"Hodgkin's disease"	"201"	31553	2320363006	1.4
+	"Giant follicular lymphoma"	"202.0"	685	2320363006	0.0
+	"Mycosis fungoides"	"202.1"	1214	2320363006	0.1
+	"Other primary malignant neoplasms of lymphoid tissue"	"202.2"	40958	2320363006	1.8
+	"Other forms of lymphoma"	"202.9"	39	2320363006	0.0
+	"Multiple myeloma"	"203"	55487	2320363006	2.4
+	"Acute"	"204.0"	17776	2320363006	0.8
+	"Chronic"	"204.1"	25818	2320363006	1.1
+	"Unspecified"	"204.9"	8078	2320363006	0.3
+	"Acute"	"205.0"	44332	2320363006	1.9
+	"Chronic"	"205.1"	18954	2320363006	0.8
+	"Unspecified"	"205.9"	6233	2320363006	0.3
+	"Acute"	"206.0"	4195	2320363006	0.2
+	"Chronic"	"206.1"	214	2320363006	0.0
+	"Unspecified"	"206.9"	1372	2320363006	0.1
+	"Leukemia, acute"	"207.0"	18129	2320363006	0.8
+	"Leukemia, chronic"	"207.1"	1449	2320363006	0.1
+	"Acute erythremia"	"207.2"	1972	2320363006	0.1
+	"Leukemia, unspecified"	"207.9"	13249	2320363006	0.6
+	"Polycythemia vera"	"208"	5905	2320363006	0.3
+	"Myelofibrosis"	"209"	10443	2320363006	0.5
+	"Lip"	"210.0"	0	2320363006	0.0 (Unreliable)
+	"Tongue"	"210.1"	5	2320363006	0.0 (Unreliable)
+	"Salivary gland"	"210.2"	64	2320363006	0.0
+	"Floor of mouth"	"210.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified parts of mouth"	"210.4"	30	2320363006	0.0
+	"Tonsil"	"210.5"	2	2320363006	0.0 (Unreliable)
+	"Other parts of oropharynx"	"210.6"	4	2320363006	0.0 (Unreliable)
+	"Nasopharynx"	"210.7"	4	2320363006	0.0 (Unreliable)
+	"Hypopharynx"	"210.8"	2	2320363006	0.0 (Unreliable)
+	"Pharynx unspecified"	"210.9"	3	2320363006	0.0 (Unreliable)
+	"Esophagus"	"211.0"	23	2320363006	0.0
+	"Stomach"	"211.1"	311	2320363006	0.0
+	"Small intestine"	"211.2"	214	2320363006	0.0
+	"Large intestine, except rectum"	"211.3"	1209	2320363006	0.1
+	"Rectum"	"211.4"	235	2320363006	0.0
+	"Liver and biliary passages"	"211.5"	171	2320363006	0.0
+	"Pancreas"	"211.6"	132	2320363006	0.0
+	"Peritoneum and retroperitoneal tissue"	"211.7"	53	2320363006	0.0
+	"Unspecified site"	"211.9"	31	2320363006	0.0
+	"Nose, nasal cavities, middle ear, and accessory sinuses"	"212.0"	15	2320363006	0.0 (Unreliable)
+	"Larynx"	"212.1"	62	2320363006	0.0
+	"Trachea"	"212.2"	25	2320363006	0.0
+	"Bronchus and lung"	"212.3"	720	2320363006	0.0
+	"Pleura"	"212.4"	24	2320363006	0.0
+	"Mediastinum"	"212.5"	59	2320363006	0.0
+	"Unspecified site"	"212.9"	135	2320363006	0.0
+	"Exostosis"	"213.0"	28	2320363006	0.0
+	"Osteoma"	"213.1"	9	2320363006	0.0 (Unreliable)
+	"Chondroma, enchondroma, myxochondroma"	"213.2"	19	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"213.9"	64	2320363006	0.0
+	"Skin and subcutaneous tissue"	"214.0"	1	2320363006	0.0 (Unreliable)
+	"Spermatic cord"	"214.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"214.9"	118	2320363006	0.0
+	"Other benign neoplasm of muscular and connective tissue"	"215"	485	2320363006	0.0
+	"Epidermis"	"216.0"	2	2320363006	0.0 (Unreliable)
+	"Hair follicles and sebaceous glands"	"216.1"	1	2320363006	0.0 (Unreliable)
+	"Sweat glands and sweat ducts"	"216.2"	6	2320363006	0.0 (Unreliable)
+	"Other"	"216.8"	123	2320363006	0.0
+	"Unspecified"	"216.9"	9	2320363006	0.0 (Unreliable)
+	"Benign neoplasm of breast"	"217"	37	2320363006	0.0
+	"Uterine fibroma"	"218"	1031	2320363006	0.0
+	"Papiloma, polyp"	"219.0"	25	2320363006	0.0
+	"Benign cyst"	"219.1"	12	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"219.9"	32	2320363006	0.0
+	"Teratoma (dermoid) not specified as malignant"	"220.0"	60	2320363006	0.0
+	"Cystadenoma; benign ovarian cyst"	"220.1"	572	2320363006	0.0
+	"Fibroma"	"220.2"	17	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"220.9"	74	2320363006	0.0
+	"Fallopian tube and broad ligament"	"221.0"	15	2320363006	0.0 (Unreliable)
+	"Vagina"	"221.1"	4	2320363006	0.0 (Unreliable)
+	"Vulva"	"221.2"	6	2320363006	0.0 (Unreliable)
+	"Other specified sites"	"221.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"221.9"	7	2320363006	0.0 (Unreliable)
+	"Testis"	"222.0"	3	2320363006	0.0 (Unreliable)
+	"Penis"	"222.1"	1	2320363006	0.0 (Unreliable)
+	"Other specified sites"	"222.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"222.9"	0	2320363006	0.0 (Unreliable)
+	"Kidney, except pelvis"	"223.0"	68	2320363006	0.0
+	"Pelvis of kidney"	"223.1"	1	2320363006	0.0 (Unreliable)
+	"Ureter"	"223.2"	6	2320363006	0.0 (Unreliable)
+	"Bladder"	"223.3"	72	2320363006	0.0
+	"Other specified sites"	"223.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"223.9"	1	2320363006	0.0 (Unreliable)
+	"Benign neoplasm of eye"	"224"	5	2320363006	0.0 (Unreliable)
+	"Brain"	"225.0"	1697	2320363006	0.1
+	"Cranial nerves (including optic)"	"225.1"	883	2320363006	0.0
+	"Cerebral meninges"	"225.2"	3735	2320363006	0.2
+	"Spinal cord"	"225.3"	108	2320363006	0.0
+	"Spinal meninges"	"225.4"	62	2320363006	0.0
+	"Peripheral nerves"	"225.5"	244	2320363006	0.0
+	"Sympathetic nervous system"	"225.6"	30	2320363006	0.0
+	"Unspecified site"	"225.9"	2072	2320363006	0.1
+	"Suprarenal gland"	"226.0"	211	2320363006	0.0
+	"Thymus"	"226.1"	174	2320363006	0.0
+	"Pituitary gland and craniopharyngeal duct (pouch)"	"226.2"	1740	2320363006	0.1
+	"Pineal gland"	"226.3"	206	2320363006	0.0
+	"Carotid body"	"226.4"	11	2320363006	0.0 (Unreliable)
+	"Other specified endocrine glands"	"226.8"	65	2320363006	0.0
+	"Unspecified site"	"226.9"	10	2320363006	0.0 (Unreliable)
+	"Hemangioma (of skin)"	"227.0"	159	2320363006	0.0
+	"Hemangioma of other sites"	"227.1"	364	2320363006	0.0
+	"Lymphangioma"	"227.2"	428	2320363006	0.0
+	"Benign neoplasm of other and unspecified organs and tissues"	"228"	1212	2320363006	0.1
+	"Esophagus"	"230.0"	128	2320363006	0.0
+	"Stomach"	"230.1"	442	2320363006	0.0
+	"Small intestine"	"230.2"	111	2320363006	0.0
+	"Large intestine, excluding rectum"	"230.3"	800	2320363006	0.0
+	"Rectum"	"230.4"	121	2320363006	0.0
+	"Liver and biliary passages"	"230.5"	638	2320363006	0.0
+	"Pancreas"	"230.6"	441	2320363006	0.0
+	"Peritoneum"	"230.7"	294	2320363006	0.0
+	"Unspecified site"	"230.9"	220	2320363006	0.0
+	"Nose, nasal cavities, middle ear, and accessory sinuses"	"231.0"	25	2320363006	0.0
+	"Larynx"	"231.1"	67	2320363006	0.0
+	"Trachea"	"231.2"	32	2320363006	0.0
+	"Bronchus and lung"	"231.3"	3031	2320363006	0.1
+	"Pleura"	"231.4"	41	2320363006	0.0
+	"Mediastinum"	"231.5"	593	2320363006	0.0
+	"Unspecified site"	"231.9"	129	2320363006	0.0
+	"Bone and cartilage"	"232.0"	183	2320363006	0.0
+	"Muscular and connective tissue"	"232.1"	137	2320363006	0.0
+	"Skin"	"232.2"	43	2320363006	0.0
+	"Neoplasm of unspecified nature of breast"	"233"	44	2320363006	0.0
+	"Carcinoma in situ of cervix uteri"	"234.0"	55	2320363006	0.0
+	"Cervix uteri, other"	"234.1"	12	2320363006	0.0 (Unreliable)
+	"Other and unspecified part"	"234.9"	93	2320363006	0.0
+	"Neoplasm of unspecified nature of ovary"	"235"	193	2320363006	0.0
+	"Fallopian tube and broad ligaments"	"236.0"	0	2320363006	0.0 (Unreliable)
+	"Vagina"	"236.1"	3	2320363006	0.0 (Unreliable)
+	"Vulva"	"236.2"	2	2320363006	0.0 (Unreliable)
+	"Other specified sites"	"236.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"236.9"	15	2320363006	0.0 (Unreliable)
+	"Testis"	"237.0"	15	2320363006	0.0 (Unreliable)
+	"Penis"	"237.1"	1	2320363006	0.0 (Unreliable)
+	"Other and unspecified male genital organs"	"237.2"	5	2320363006	0.0 (Unreliable)
+	"Kidney, except pelvis"	"237.3"	481	2320363006	0.0
+	"Pelvis of kidney"	"237.4"	3	2320363006	0.0 (Unreliable)
+	"Ureter"	"237.5"	15	2320363006	0.0 (Unreliable)
+	"Bladder"	"237.6"	517	2320363006	0.0
+	"Other and unspecified urinary orgsans"	"237.9"	6	2320363006	0.0 (Unreliable)
+	"Eye"	"238.0"	10	2320363006	0.0 (Unreliable)
+	"Brain"	"238.1"	21731	2320363006	0.9
+	"Cranial nerves (including optic nerve)"	"238.2"	40	2320363006	0.0
+	"Cerebral meninges"	"238.3"	5	2320363006	0.0 (Unreliable)
+	"Spinal cord"	"238.4"	476	2320363006	0.0
+	"Spinal meninges"	"238.5"	0	2320363006	0.0 (Unreliable)
+	"Peripheral nerves"	"238.6"	8	2320363006	0.0 (Unreliable)
+	"Sympathetic nervous system"	"238.7"	3	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"238.9"	99	2320363006	0.0
+	"Buccal cavity and pharynx"	"239.0"	207	2320363006	0.0
+	"Endocrine glands"	"239.1"	253	2320363006	0.0
+	"Other and unspecified sites"	"239.9"	2364	2320363006	0.1
+	"Endemic"	"240.0"	0	2320363006	0.0 (Unreliable)
+	"Sporadic"	"240.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"240.9"	300	2320363006	0.0
+	"Endemic"	"241.0"	0	2320363006	0.0 (Unreliable)
+	"Sporadic"	"241.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"241.9"	145	2320363006	0.0
+	"Toxic diffuse goiter"	"242.0"	272	2320363006	0.0
+	"Toxic nodular goiter"	"242.1"	155	2320363006	0.0
+	"Thyrotoxicosis without mention of goiter"	"242.2"	2786	2320363006	0.1
+	"Cretinism of congenital origin"	"243"	109	2320363006	0.0
+	"Myxedema"	"244"	4459	2320363006	0.2
+	"Acute"	"245.0"	18	2320363006	0.0 (Unreliable)
+	"Chronic"	"245.1"	70	2320363006	0.0
+	"Unspecified"	"245.9"	39	2320363006	0.0
+	"Other diseases of thyroid gland"	"246"	260	2320363006	0.0
+	"With mention of acidosis or coma"	"250.0"	40078	2320363006	1.7
+	"Without mention of acidosis or coma"	"250.9"	364174	2320363006	15.7
+	"Disorders of pancreatic internal secretion other than diabetes mellitus"	"251"	2305	2320363006	0.1
+	"Hyperparathyroidism"	"252.0"	763	2320363006	0.0
+	"Hypoparathyroidism"	"252.1"	145	2320363006	0.0
+	"Other and unspecified"	"252.9"	33	2320363006	0.0
+	"Anterior pituitary hyperfunction"	"253.0"	229	2320363006	0.0
+	"Anterior pituitary hypofunction"	"253.1"	628	2320363006	0.0
+	"Chromophobe adenoma, pituitary"	"253.2"	699	2320363006	0.0
+	"Other and unspecified"	"253.9"	994	2320363006	0.0
+	"Diseases of thymus gland"	"254"	361	2320363006	0.0
+	"Adrenal cortical hyperfunction"	"255.0"	152	2320363006	0.0
+	"Adrenal cortical hypofunction"	"255.1"	1620	2320363006	0.1
+	"Pheochromocytoma"	"255.2"	439	2320363006	0.0
+	"Other and unspecified"	"255.9"	2160	2320363006	0.1
+	"Hyperfunction"	"256.0"	71	2320363006	0.0
+	"Hypofunction"	"256.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"256.9"	9	2320363006	0.0 (Unreliable)
+	"Hyperfunction"	"257.0"	1	2320363006	0.0 (Unreliable)
+	"Hypofunction"	"257.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"257.9"	0	2320363006	0.0 (Unreliable)
+	"Cushing's syndrome"	"258.0"	496	2320363006	0.0
+	"Polyglandular dysfunction"	"258.1"	46	2320363006	0.0
+	"Other and unspecified diseases of endocrine system"	"258.9"	3265	2320363006	0.1
+	"Night blindness"	"260.0"	0	2320363006	0.0 (Unreliable)
+	"Xerophthalmia, keratomalacia"	"260.1"	0	2320363006	0.0 (Unreliable)
+	"Other manifestation"	"260.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"260.9"	0	2320363006	0.0 (Unreliable)
+	"Thiamine deficiency"	"261"	84	2320363006	0.0
+	"Niacin deficiency"	"262"	50	2320363006	0.0
+	"Ariboflavinosis"	"263.0"	1	2320363006	0.0 (Unreliable)
+	"Vitamin B6 deficiency"	"263.1"	0	2320363006	0.0 (Unreliable)
+	"Other"	"263.8"	51	2320363006	0.0
+	"Unspecified"	"263.9"	171	2320363006	0.0
+	"Ascorbic acid deficiency"	"264"	26	2320363006	0.0
+	"Rickets active"	"265.0"	20	2320363006	0.0
+	"Rickets, late effect"	"265.1"	1	2320363006	0.0 (Unreliable)
+	"Osteomalacia"	"265.2"	59	2320363006	0.0
+	"Unspecified"	"265.9"	1	2320363006	0.0 (Unreliable)
+	"Vitamin K deficiency"	"266.0"	3	2320363006	0.0 (Unreliable)
+	"Other"	"266.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"266.9"	108	2320363006	0.0
+	"Protein malnutrition"	"267"	89	2320363006	0.0
+	"Nutritional marasmus"	"268"	6216	2320363006	0.3
+	"Sprue and steatorrhea"	"269.0"	229	2320363006	0.0
+	"Malabsorption syndrome, unspecified"	"269.1"	1334	2320363006	0.1
+	"Other and unspecified"	"269.9"	19976	2320363006	0.9
+	"Phenylketonuria"	"270.0"	36	2320363006	0.0
+	"Cystinuria"	"270.1"	7	2320363006	0.0 (Unreliable)
+	"Other disorders of amino-acid transport"	"270.2"	46	2320363006	0.0
+	"Cystinosis"	"270.3"	72	2320363006	0.0
+	"Maple syrup disease"	"270.4"	28	2320363006	0.0
+	"Disorders of purine and pyrimidine metabolism"	"270.5"	13	2320363006	0.0 (Unreliable)
+	"Alkaptonuria"	"270.6"	4	2320363006	0.0 (Unreliable)
+	"Other"	"270.8"	230	2320363006	0.0
+	"Unspecified"	"270.9"	7	2320363006	0.0 (Unreliable)
+	"Von Gierke's disease"	"271.0"	33	2320363006	0.0
+	"Other and unspecified glycogen storage disease"	"271.1"	276	2320363006	0.0
+	"Galactosemia"	"271.2"	34	2320363006	0.0
+	"Fructosuria"	"271.3"	1	2320363006	0.0 (Unreliable)
+	"Other"	"271.8"	42	2320363006	0.0
+	"Unspecified"	"271.9"	3	2320363006	0.0 (Unreliable)
+	"Xanhomatosis"	"272.0"	593	2320363006	0.0
+	"Familial lipoprotein deficiency disorders"	"272.1"	4	2320363006	0.0 (Unreliable)
+	"Lipid storage disorders"	"272.2"	463	2320363006	0.0
+	"Other and unspecified"	"272.9"	42	2320363006	0.0
+	"Cystic fibrosis"	"273.0"	6003	2320363006	0.3
+	"Disorders of porphyrin metabolism"	"273.1"	214	2320363006	0.0
+	"Hemochromatosis"	"273.2"	1165	2320363006	0.1
+	"Hepatolenticular degeneration"	"273.3"	200	2320363006	0.0
+	"Other disorders involving metabolism of minerals"	"273.4"	71	2320363006	0.0
+	"Defective bilirubin excretion"	"273.5"	20	2320363006	0.0
+	"Disorders of steroid metabolism"	"273.6"	72	2320363006	0.0
+	"Other"	"273.8"	1030	2320363006	0.0
+	"Unspecified"	"273.9"	87	2320363006	0.0
+	"Gout"	"274"	2892	2320363006	0.1
+	"Agammaglobulinemia"	"275.0"	243	2320363006	0.0
+	"Hypogammaglobulinemia"	"275.1"	575	2320363006	0.0
+	"Analbuminemia"	"275.2"	1	2320363006	0.0 (Unreliable)
+	"Bisalbuminemia"	"275.3"	0	2320363006	0.0 (Unreliable)
+	"Cryoglobulinemia"	"275.4"	73	2320363006	0.0
+	"Macroglobulinemia"	"275.5"	1230	2320363006	0.1
+	"Other and unspecified"	"275.9"	1424	2320363006	0.1
+	"Amyloidosis"	"276"	3012	2320363006	0.1
+	"Obesity not specified as of endocrine origin"	"277"	12767	2320363006	0.6
+	"Hypervitaminosis A"	"278.0"	2	2320363006	0.0 (Unreliable)
+	"Carotinemia"	"278.1"	2	2320363006	0.0 (Unreliable)
+	"Hypervitaminosis D"	"278.2"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"278.9"	81	2320363006	0.0
+	"Other and unspecified metabolic diseases"	"279"	5817	2320363006	0.3
+	"Iron deficiency anemias"	"280"	1086	2320363006	0.0
+	"Pernicious anemia"	"281.0"	2762	2320363006	0.1
+	"Other vitamin B12 deficiency anemias"	"281.1"	5	2320363006	0.0 (Unreliable)
+	"Folic acid deficiency anemia"	"281.2"	349	2320363006	0.0
+	"Vitamin B6 deficiency anemia"	"281.3"	1	2320363006	0.0 (Unreliable)
+	"Protein deficiency anemia"	"281.4"	3	2320363006	0.0 (Unreliable)
+	"Other and unspecified deficiency anemia"	"281.9"	1047	2320363006	0.0
+	"Familial acholuric jaundice"	"282.0"	71	2320363006	0.0
+	"Hereditary elliptocytosis"	"282.1"	4	2320363006	0.0 (Unreliable)
+	"Anemias due to glucose-6-phosphate dehydrogenase deficiency"	"282.2"	11	2320363006	0.0 (Unreliable)
+	"Other hereditary nonspherocytic hemolytic anemia"	"282.3"	2	2320363006	0.0 (Unreliable)
+	"Mediterranean anemia"	"282.4"	338	2320363006	0.0
+	"Hemoglobinopathies"	"282.5"	3753	2320363006	0.2
+	"Other"	"282.9"	2327	2320363006	0.1
+	"Acute"	"283.0"	241	2320363006	0.0
+	"Other"	"283.9"	1039	2320363006	0.0
+	"Aplastic anemia"	"284"	12293	2320363006	0.5
+	"Hypochromic anemia with iron loading"	"285.0"	667	2320363006	0.0
+	"Other specified anemia"	"285.8"	56	2320363006	0.0
+	"Anemia, unspecified"	"285.9"	10487	2320363006	0.5
+	"Hemophilia"	"286.0"	466	2320363006	0.0
+	"Christmas disease"	"286.1"	51	2320363006	0.0
+	"Plasma thromboplastin antecedent deficiency"	"286.2"	5	2320363006	0.0 (Unreliable)
+	"Vascular hemophilia"	"286.3"	62	2320363006	0.0
+	"Hemorrhagic fibrinolysis"	"286.4"	60	2320363006	0.0
+	"Circulating anticoagulants"	"286.5"	19	2320363006	0.0 (Unreliable)
+	"Other"	"286.9"	6613	2320363006	0.3
+	"Allergic purpura"	"287.0"	600	2320363006	0.0
+	"Thrombocytopenia"	"287.1"	5052	2320363006	0.2
+	"Hemorrhagic thrombocythemia"	"287.2"	10	2320363006	0.0 (Unreliable)
+	"Thrombocytopathy"	"287.3"	18	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"287.9"	913	2320363006	0.0
+	"Agranulocytosis"	"288"	3515	2320363006	0.2
+	"Polycythemia, secondary"	"289.0"	188	2320363006	0.0
+	"Chronic lymphadenitis"	"289.1"	7	2320363006	0.0 (Unreliable)
+	"Nonspecific mesenteric lymphadenitis"	"289.2"	157	2320363006	0.0
+	"Lymphadenitis, unspecified, except mesenteric"	"289.3"	76	2320363006	0.0
+	"Hypersplenism"	"289.4"	363	2320363006	0.0
+	"Other disease of spleen"	"289.5"	1032	2320363006	0.0
+	"Other and unspecified"	"289.9"	1743	2320363006	0.1
+	"Senile dementia"	"290.0"	4708	2320363006	0.2
+	"Presenile dementia"	"290.1"	4021	2320363006	0.2
+	"Delirium tremens"	"291.0"	4886	2320363006	0.2
+	"Korsakov's psychosis (alcoholic)"	"291.1"	227	2320363006	0.0
+	"Other alcoholic hallucinosis"	"291.2"	23	2320363006	0.0
+	"Alcoholic paranoia"	"291.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"291.9"	153	2320363006	0.0
+	"Childbirth"	"294.4"	0	2320363006	0.0 (Unreliable)
+	"Unspecified physical condition"	"294.9"	53	2320363006	0.0
+	"Simple type"	"295.0"	9	2320363006	0.0 (Unreliable)
+	"Hebephrenic type"	"295.1"	30	2320363006	0.0
+	"Catatonic type"	"295.2"	266	2320363006	0.0
+	"Paranoid type"	"295.3"	151	2320363006	0.0
+	"Acute schizophrenia episode"	"295.4"	13	2320363006	0.0 (Unreliable)
+	"Latent schizophrenia"	"295.5"	0	2320363006	0.0 (Unreliable)
+	"Residual schizophrenia"	"295.6"	0	2320363006	0.0 (Unreliable)
+	"Schizo-affective type"	"295.7"	11	2320363006	0.0 (Unreliable)
+	"Other"	"295.8"	250	2320363006	0.0
+	"Unspecified type"	"295.9"	463	2320363006	0.0
+	"Involutional melancholia"	"296.0"	83	2320363006	0.0
+	"Manic-depression psychosis, manic type"	"296.1"	23	2320363006	0.0
+	"Manic depressive psychosis, depressed type"	"296.2"	274	2320363006	0.0
+	"Manic-depressive psychosis, circular type"	"296.3"	1	2320363006	0.0 (Unreliable)
+	"Other"	"296.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"296.9"	74	2320363006	0.0
+	"Paranoia"	"297.0"	14	2320363006	0.0 (Unreliable)
+	"Involutional paraphrenia"	"297.1"	4	2320363006	0.0 (Unreliable)
+	"Other"	"297.9"	19	2320363006	0.0 (Unreliable)
+	"Reactive depressive psychosis"	"298.0"	17	2320363006	0.0 (Unreliable)
+	"Reactive excitation"	"298.1"	0	2320363006	0.0 (Unreliable)
+	"Reactive confusion"	"298.2"	108	2320363006	0.0
+	"Acute paranoid reaction"	"298.3"	0	2320363006	0.0 (Unreliable)
+	"Reactive psychosis, unspecified"	"298.9"	2	2320363006	0.0 (Unreliable)
+	"Unspecified psychosis"	"299"	1558	2320363006	0.1
+	"Anxiety neurosis"	"300.0"	25	2320363006	0.0
+	"Hysterical neurosis"	"300.1"	6	2320363006	0.0 (Unreliable)
+	"Phobic neurosis"	"300.2"	0	2320363006	0.0 (Unreliable)
+	"Obsessive compulsive neurosis"	"300.3"	2	2320363006	0.0 (Unreliable)
+	"Depressive neurosis"	"300.4"	84	2320363006	0.0
+	"Neurasthenia"	"300.5"	2	2320363006	0.0 (Unreliable)
+	"Depersonalisation syndrome"	"300.6"	0	2320363006	0.0 (Unreliable)
+	"Hypochondriacal neurosis"	"300.7"	0	2320363006	0.0 (Unreliable)
+	"Other"	"300.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified neurosis"	"300.9"	26	2320363006	0.0
+	"Paranoid"	"301.0"	0	2320363006	0.0 (Unreliable)
+	"Affective"	"301.1"	0	2320363006	0.0 (Unreliable)
+	"Schizoid"	"301.2"	1	2320363006	0.0 (Unreliable)
+	"Explosive"	"301.3"	0	2320363006	0.0 (Unreliable)
+	"Anankastic"	"301.4"	0	2320363006	0.0 (Unreliable)
+	"Hysterical"	"301.5"	1	2320363006	0.0 (Unreliable)
+	"Asthenic"	"301.6"	2	2320363006	0.0 (Unreliable)
+	"Antisocial"	"301.7"	0	2320363006	0.0 (Unreliable)
+	"Other"	"301.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"301.9"	2	2320363006	0.0 (Unreliable)
+	"Homosexuality"	"302.0"	0	2320363006	0.0 (Unreliable)
+	"Fetishism"	"302.1"	0	2320363006	0.0 (Unreliable)
+	"Pedophilia"	"302.2"	0	2320363006	0.0 (Unreliable)
+	"Transvestitism"	"302.3"	0	2320363006	0.0 (Unreliable)
+	"Exhibitionism"	"302.4"	0	2320363006	0.0 (Unreliable)
+	"Voyeurism"	"302.5"	0	2320363006	0.0 (Unreliable)
+	"Sadism"	"302.6"	0	2320363006	0.0 (Unreliable)
+	"Masochism"	"302.7"	0	2320363006	0.0 (Unreliable)
+	"Other"	"302.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"302.9"	1	2320363006	0.0 (Unreliable)
+	"Episodic excessive drinking"	"303.0"	3	2320363006	0.0 (Unreliable)
+	"Habitual excessive drinking"	"303.1"	21	2320363006	0.0
+	"Alcoholic addiction"	"303.2"	27821	2320363006	1.2
+	"Other and unspecified alcoholism"	"303.9"	22927	2320363006	1.0
+	"Opium, opium alkaloids, and their derivatives"	"304.0"	950	2320363006	0.0
+	"Synthetic analgesics with morphine-like effects"	"304.1"	76	2320363006	0.0
+	"Barbiturates"	"304.2"	71	2320363006	0.0
+	"Other hypnotics and sedatives or tranquillisers"	"304.3"	53	2320363006	0.0
+	"Cocaine"	"304.4"	17	2320363006	0.0 (Unreliable)
+	"Cannabis sativa"	"304.5"	1	2320363006	0.0 (Unreliable)
+	"Other psycho-stimulants"	"304.6"	20	2320363006	0.0
+	"Hallucinogenics"	"304.7"	3	2320363006	0.0 (Unreliable)
+	"Other"	"304.8"	184	2320363006	0.0
+	"Unspecified"	"304.9"	8130	2320363006	0.4
+	"Skin"	"305.0"	0	2320363006	0.0 (Unreliable)
+	"Musculoskeletal"	"305.1"	1	2320363006	0.0 (Unreliable)
+	"Respiratory"	"305.2"	0	2320363006	0.0 (Unreliable)
+	"Cardiovascular"	"305.3"	163	2320363006	0.0
+	"Hemic and lymphatic"	"305.4"	0	2320363006	0.0 (Unreliable)
+	"Gastrointestinal"	"305.5"	33	2320363006	0.0
+	"Genitourinary"	"305.6"	4	2320363006	0.0 (Unreliable)
+	"Endocrine"	"305.7"	0	2320363006	0.0 (Unreliable)
+	"Organs of special sense"	"305.8"	0	2320363006	0.0 (Unreliable)
+	"Other"	"305.9"	4	2320363006	0.0 (Unreliable)
+	"Stammering and stuttering"	"306.0"	1	2320363006	0.0 (Unreliable)
+	"Specific learning disturbance"	"306.1"	0	2320363006	0.0 (Unreliable)
+	"Tics"	"306.2"	2	2320363006	0.0 (Unreliable)
+	"Other psychomotor disorders"	"306.3"	3	2320363006	0.0 (Unreliable)
+	"Specific disorders of sleep"	"306.4"	2	2320363006	0.0 (Unreliable)
+	"Feeding disturbance"	"306.5"	797	2320363006	0.0
+	"Enuresis"	"306.6"	0	2320363006	0.0 (Unreliable)
+	"Encopresis"	"306.7"	1	2320363006	0.0 (Unreliable)
+	"Cephalalgia"	"306.8"	3	2320363006	0.0 (Unreliable)
+	"Other"	"306.9"	45	2320363006	0.0
+	"Transient situational disturbances"	"307"	27	2320363006	0.0
+	"Behavior disorders of childhood"	"308"	3	2320363006	0.0 (Unreliable)
+	"Other or unspecified physical condition"	"309.9"	14513	2320363006	0.6
+	"Following infections and intoxications"	"310.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"310.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"310.9"	0	2320363006	0.0 (Unreliable)
+	"Following infections and intoxications"	"311.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"311.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"311.9"	10	2320363006	0.0 (Unreliable)
+	"Following infections and intoxications"	"312.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"312.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"312.9"	7	2320363006	0.0 (Unreliable)
+	"Following infections and intoxications"	"313.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"313.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"313.9"	638	2320363006	0.0
+	"Following infections and intoxications"	"314.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"314.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"314.9"	294	2320363006	0.0
+	"Following infections and intoxications"	"315.0"	0	2320363006	0.0 (Unreliable)
+	"With psycho-social (environmental) deprivation"	"315.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"315.9"	1779	2320363006	0.1
+	"H. influenzae"	"320.0"	2481	2320363006	0.1
+	"Pneumococcus"	"320.1"	3326	2320363006	0.1
+	"Due to other specified organism"	"320.8"	1919	2320363006	0.1
+	"With no organism specified as cause"	"320.9"	9803	2320363006	0.4
+	"Phlebitis and thrombophlebitis of intracranial venous sinuses"	"321"	463	2320363006	0.0
+	"Intracranial and intraspinal abscess"	"322"	3180	2320363006	0.1
+	"Encephalitis, myelitis, and encephalomyelitis"	"323"	3494	2320363006	0.2
+	"Late effects of intracranial abscess or pyogenic infection"	"324"	888	2320363006	0.0
+	"Neuropathic muscular atrophy"	"330.0"	126	2320363006	0.0
+	"Familial progressive spinal muscular atrophy"	"330.1"	1218	2320363006	0.1
+	"Amyotonia congenita"	"330.2"	336	2320363006	0.0
+	"Progressive muscular dystrophy"	"330.3"	1246	2320363006	0.1
+	"Myotonia atrophica"	"330.4"	5402	2320363006	0.2
+	"Other"	"330.9"	74	2320363006	0.0
+	"Hereditary chorea"	"331.0"	2803	2320363006	0.1
+	"Dystonia musculorum deformans"	"331.1"	68	2320363006	0.0
+	"Progressive familial myoclonic epilepsy"	"331.2"	24	2320363006	0.0
+	"Other"	"331.9"	30	2320363006	0.0
+	"Hereditary spinal ataxia"	"332.0"	354	2320363006	0.0
+	"Hereditary cerebellar ataxia"	"332.1"	52	2320363006	0.0
+	"Other and unspecified"	"332.9"	15	2320363006	0.0 (Unreliable)
+	"Amaurotic family idiocy"	"333.0"	407	2320363006	0.0
+	"Progressive cerebral leukodystrophy"	"333.1"	688	2320363006	0.0
+	"Other and unspecified"	"333.9"	916	2320363006	0.0
+	"Multiple sclerosis"	"340"	16843	2320363006	0.7
+	"Other demyelinating diseases of central nervous system"	"341"	2438	2320363006	0.1
+	"Paralysis agitans"	"342"	35458	2320363006	1.5
+	"Spastic hemiplegia"	"343.0"	48	2320363006	0.0
+	"Other spastic paralyis"	"343.1"	1448	2320363006	0.1
+	"Athetoid"	"343.2"	22	2320363006	0.0
+	"Other and unspecified"	"343.9"	5787	2320363006	0.2
+	"Monoplegia"	"344.0"	7	2320363006	0.0 (Unreliable)
+	"Hemiplegia"	"344.1"	2757	2320363006	0.1
+	"Paraplegia"	"344.2"	1746	2320363006	0.1
+	"Quadriplegia"	"344.3"	1195	2320363006	0.1
+	"Other and unspecified"	"344.9"	3125	2320363006	0.1
+	"Generalised nonconvulsive"	"345.0"	69	2320363006	0.0
+	"Generalised convulsive"	"345.1"	4064	2320363006	0.2
+	"Status epilepticus"	"345.2"	6037	2320363006	0.3
+	"Partial (focalized), temporal lobe or psychomotor"	"345.3"	25	2320363006	0.0
+	"Partial (focalized), motor type"	"345.4"	6	2320363006	0.0 (Unreliable)
+	"Partial (focalized), other and unspecified type"	"345.5"	82	2320363006	0.0
+	"Other and unspecified"	"345.9"	9334	2320363006	0.4
+	"Migraine"	"346"	20	2320363006	0.0
+	"Cataplexy and narcolepsy"	"347.0"	12	2320363006	0.0 (Unreliable)
+	"Cerebral and cortical atrophy"	"347.1"	4226	2320363006	0.2
+	"Other and unspecified"	"347.9"	22604	2320363006	1.0
+	"Amyotrophic lateral sclerosis"	"348.0"	19524	2320363006	0.8
+	"Progressive bulbar palsy"	"348.1"	948	2320363006	0.0
+	"Other progressive muscular atrophy"	"348.2"	613	2320363006	0.0
+	"Other and unspecified manifestations"	"348.9"	700	2320363006	0.0
+	"Syringomyelia and syringobulbia"	"349.0"	449	2320363006	0.0
+	"Spinal paralysis, monoplegic"	"349.1"	2	2320363006	0.0 (Unreliable)
+	"Spinal paralysis, hemiplegic"	"349.2"	1	2320363006	0.0 (Unreliable)
+	"Spinal paralysis, paraplegic"	"349.3"	6	2320363006	0.0 (Unreliable)
+	"Spinal paralysis, quadriplegic"	"349.4"	3	2320363006	0.0 (Unreliable)
+	"Spinal paralysis, other and unspecified"	"349.5"	152	2320363006	0.0
+	"Compression, old or not specified as traumatic"	"349.6"	187	2320363006	0.0
+	"Other and unspecified"	"349.9"	1253	2320363006	0.1
+	"Facial paralysis"	"350"	248	2320363006	0.0
+	"Trigeminal neuralgia"	"351"	116	2320363006	0.0
+	"Brachial neuritis"	"352"	2	2320363006	0.0 (Unreliable)
+	"Sciatica"	"353"	12	2320363006	0.0 (Unreliable)
+	"Polyneuritis and polyradiculitis"	"354"	2150	2320363006	0.1
+	"Cranial NEC"	"355.0"	16	2320363006	0.0 (Unreliable)
+	"Spinal NEC"	"355.1"	20	2320363006	0.0
+	"Other and unspecified"	"355.9"	129	2320363006	0.0
+	"Other diseases of cranial nerves"	"356"	97	2320363006	0.0
+	"Cervical and brachial plexus"	"357.0"	11	2320363006	0.0 (Unreliable)
+	"Axillary nerve"	"357.1"	0	2320363006	0.0 (Unreliable)
+	"Median nerve"	"357.2"	5	2320363006	0.0 (Unreliable)
+	"Ulnar nerve"	"357.3"	2	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"357.9"	669	2320363006	0.0
+	"Horner's syndrome"	"358.0"	5	2320363006	0.0 (Unreliable)
+	"Carotid sinus syndrome"	"358.1"	13	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"358.9"	16	2320363006	0.0 (Unreliable)
+	"Conjunctivitis and ophthalmia"	"360"	17	2320363006	0.0 (Unreliable)
+	"Blepharitis"	"361"	3	2320363006	0.0 (Unreliable)
+	"Hordeolum"	"362"	2	2320363006	0.0 (Unreliable)
+	"With ulceration"	"363.0"	3	2320363006	0.0 (Unreliable)
+	"Without mention of ulcer"	"363.9"	3	2320363006	0.0 (Unreliable)
+	"Iritis"	"364"	0	2320363006	0.0 (Unreliable)
+	"Choroiditis"	"365"	3	2320363006	0.0 (Unreliable)
+	"Other inflammation of uveal tract"	"366"	19	2320363006	0.0 (Unreliable)
+	"Inflammation of optic nerve and retina"	"367"	27	2320363006	0.0
+	"Inflammation of lachrymal glands and ducts"	"368"	4	2320363006	0.0 (Unreliable)
+	"Abscess and cellulitis of orbit"	"369.0"	56	2320363006	0.0
+	"Other and unspecified"	"369.9"	5	2320363006	0.0 (Unreliable)
+	"Myopia"	"370.0"	0	2320363006	0.0 (Unreliable)
+	"Hyperopia"	"370.1"	0	2320363006	0.0 (Unreliable)
+	"Presbyopia"	"370.2"	0	2320363006	0.0 (Unreliable)
+	"Astigmatism"	"370.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"370.9"	2	2320363006	0.0 (Unreliable)
+	"Postoperative"	"371.0"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"371.9"	2	2320363006	0.0 (Unreliable)
+	"Pterygium"	"372"	1	2320363006	0.0 (Unreliable)
+	"Esotropia"	"373.0"	6	2320363006	0.0 (Unreliable)
+	"Exotropia"	"373.1"	7	2320363006	0.0 (Unreliable)
+	"Hypertropia"	"373.2"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"373.9"	29	2320363006	0.0
+	"Traumatic"	"374.0"	1	2320363006	0.0 (Unreliable)
+	"Secondary"	"374.1"	1	2320363006	0.0 (Unreliable)
+	"Other specified type, excluding senile"	"374.8"	0	2320363006	0.0 (Unreliable)
+	"Senile and unspecified type"	"374.9"	426	2320363006	0.0
+	"Primary, acute"	"375.0"	8	2320363006	0.0 (Unreliable)
+	"Chronic (primary)"	"375.1"	3	2320363006	0.0 (Unreliable)
+	"Secondary"	"375.2"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"375.9"	55	2320363006	0.0
+	"Detachment of retina"	"376"	29	2320363006	0.0
+	"Vascular lesions of retina"	"377.0"	7	2320363006	0.0 (Unreliable)
+	"Degeneration of retina"	"377.1"	3	2320363006	0.0 (Unreliable)
+	"Amblyopia"	"377.2"	2	2320363006	0.0 (Unreliable)
+	"Color blindness"	"377.3"	0	2320363006	0.0 (Unreliable)
+	"Other diseases of retina"	"377.4"	6	2320363006	0.0 (Unreliable)
+	"Papillendema"	"377.5"	0	2320363006	0.0 (Unreliable)
+	"Other diseases of optic nerve"	"377.6"	4	2320363006	0.0 (Unreliable)
+	"Unspecified"	"377.9"	0	2320363006	0.0 (Unreliable)
+	"Chalazion"	"378.0"	3	2320363006	0.0 (Unreliable)
+	"Trichiasis and entropion"	"378.1"	2	2320363006	0.0 (Unreliable)
+	"Other disease of eyelid"	"378.2"	5	2320363006	0.0 (Unreliable)
+	"Disease of conjunctiva and lachrymal tract NEC"	"378.3"	1	2320363006	0.0 (Unreliable)
+	"Disease of cornea NEC"	"378.4"	8	2320363006	0.0 (Unreliable)
+	"Prolapse of iris"	"378.5"	0	2320363006	0.0 (Unreliable)
+	"Other and of iris, choroid, and uveal tract"	"378.6"	12	2320363006	0.0 (Unreliable)
+	"Aphakia, acquired"	"378.7"	0	2320363006	0.0 (Unreliable)
+	"Other diseases of lens"	"378.8"	2	2320363006	0.0 (Unreliable)
+	"Diseases of eyeball, ocular muscle, and orbit NEC"	"378.9"	39	2320363006	0.0
+	"Blindness, both eyes, specifically defined"	"379.0"	0	2320363006	0.0 (Unreliable)
+	"Blindness, both eyes, not specifically defined"	"379.1"	92	2320363006	0.0
+	"Blindness, one eye, specifically defined"	"379.2"	1	2320363006	0.0 (Unreliable)
+	"Blindness, one eye, not specifically defined"	"379.3"	0	2320363006	0.0 (Unreliable)
+	"Otitis externa"	"380"	47	2320363006	0.0
+	"Acute"	"381.0"	102	2320363006	0.0
+	"Chronic"	"381.1"	162	2320363006	0.0
+	"Unspecified"	"381.9"	908	2320363006	0.0
+	"Acute"	"382.0"	23	2320363006	0.0
+	"Chronic"	"382.1"	38	2320363006	0.0
+	"Unspecified"	"382.9"	57	2320363006	0.0
+	"Acute"	"383.0"	23	2320363006	0.0
+	"Chronic"	"383.1"	53	2320363006	0.0
+	"Unspecified"	"383.9"	148	2320363006	0.0
+	"Labyrinthitis"	"384.0"	33	2320363006	0.0
+	"Other and unspecified"	"384.9"	1	2320363006	0.0 (Unreliable)
+	"Ménière's disease"	"385"	16	2320363006	0.0 (Unreliable)
+	"Otosclerosis"	"386"	3	2320363006	0.0 (Unreliable)
+	"Cholesteatoma of ear"	"387.0"	23	2320363006	0.0
+	"Wax in ear"	"387.1"	1	2320363006	0.0 (Unreliable)
+	"Perforation of tympanic membrane, nontraumatic"	"387.2"	4	2320363006	0.0 (Unreliable)
+	"Other"	"387.9"	23	2320363006	0.0
+	"Deaf mutism"	"388"	5	2320363006	0.0 (Unreliable)
+	"Deafness, both ears"	"389.0"	0	2320363006	0.0 (Unreliable)
+	"Deafness, one ear, and partial deafness in other"	"389.1"	0	2320363006	0.0 (Unreliable)
+	"Deafness, one ear"	"389.2"	0	2320363006	0.0 (Unreliable)
+	"Impairment of hearing, one or both ears"	"389.9"	12	2320363006	0.0 (Unreliable)
+	"Rheumatic fever without mention of heart involvement"	"390"	280	2320363006	0.0
+	"Active rheumatic pericarditis"	"391.0"	1224	2320363006	0.1
+	"Active rheumatic endocarditis"	"391.1"	116	2320363006	0.0
+	"Active rheumatic myocarditis"	"391.2"	73	2320363006	0.0
+	"Other active rheumatic heart disease"	"391.9"	529	2320363006	0.0
+	"With heart involvement"	"392.0"	1	2320363006	0.0 (Unreliable)
+	"Without mention of heart involvement"	"392.9"	51	2320363006	0.0
+	"Diseases of pericardium"	"393"	722	2320363006	0.0
+	"Specified as rheumatic"	"394.0"	23744	2320363006	1.0
+	"Not specified as rheumatic"	"394.9"	17507	2320363006	0.8
+	"Specified as rheumatic"	"395.0"	10499	2320363006	0.5
+	"Not specified as rheumatic"	"395.9"	34593	2320363006	1.5
+	"Specified as rheumatic"	"396.0"	8691	2320363006	0.4
+	"Not specified as rheumatic"	"396.9"	4227	2320363006	0.2
+	"Of tricuspid valve"	"397.0"	505	2320363006	0.0
+	"Of other and unspecified endocardial structures, specified as rheumatic"	"397.9"	6520	2320363006	0.3
+	"Other heart disease, specified as rheumatic"	"398"	45412	2320363006	2.0
+	"Without mention of organ damage"	"400.0"	820	2320363006	0.0
+	"With heart involvement"	"400.1"	677	2320363006	0.0
+	"With cerebrovascular involvement"	"400.2"	4385	2320363006	0.2
+	"With renal involvement"	"400.3"	2686	2320363006	0.1
+	"With multiple organ involvement"	"400.9"	2810	2320363006	0.1
+	"Essential benign hypertension"	"401"	13062	2320363006	0.6
+	"Hypertensive heart disease"	"402"	84610	2320363006	3.6
+	"Hypertensive renal disease"	"403"	54850	2320363006	2.4
+	"Hypertensive heart and renal disease"	"404"	59307	2320363006	2.6
+	"With hypertensive disease"	"410.0"	339737	2320363006	14.6
+	"Without mention of hypertensive disease"	"410.9"	3403304	2320363006	146.7
+	"With hypertensive disease"	"411.0"	2890	2320363006	0.1
+	"Without mention of hypertensive disease"	"411.9"	44380	2320363006	1.9
+	"With or without cardiovascular disease with hypertension"	"412.1"	225678	2320363006	9.7
+	"Cardiovascular disease without mention of chronic ischemic heart disease with hypertensive disease"	"412.2"	247520	2320363006	10.7
+	"With or without cardiovascular disease without mention of hypertensive disease"	"412.3"	2437197	2320363006	105.0
+	"Cardiovascular disease without mention of chronic ischemic heart disease without mention of hypertensive disease"	"412.4"	585489	2320363006	25.2
+	"With hypertensive disease"	"413.0"	432	2320363006	0.0
+	"Without mention of hypertensive disease"	"413.9"	1739	2320363006	0.1
+	"Acute pericarditis, nonrheumatic"	"420"	603	2320363006	0.0
+	"Acute and subacute bacterial endocarditis"	"421.0"	7134	2320363006	0.3
+	"Other acute endocarditis"	"421.9"	211	2320363006	0.0
+	"Acute myocarditis"	"422"	4560	2320363006	0.2
+	"Chronic disease of pericardium, nonrheumatic"	"423"	5790	2320363006	0.2
+	"Of mitral valve, nonrheumatic"	"424.0"	688	2320363006	0.0
+	"Of aortic valve, nonrheumatic"	"424.1"	2296	2320363006	0.1
+	"Of other endocardial structures"	"424.9"	10108	2320363006	0.4
+	"Cardiomyopathy"	"425"	29483	2320363006	1.3
+	"Pulmonary heart disease"	"426"	14288	2320363006	0.6
+	"Congestive heart failure"	"427.0"	153941	2320363006	6.6
+	"Left ventricular failure"	"427.1"	3652	2320363006	0.2
+	"Cardiac arrest NOS"	"427.2"	108287	2320363006	4.7
+	"Other heart block"	"427.3"	6100	2320363006	0.3
+	"Atrial fibrillation or flutter"	"427.4"	13257	2320363006	0.6
+	"Paroxysmal tachycardia (atrial)"	"427.5"	580	2320363006	0.0
+	"Ventricular fibrillation or flutter"	"427.6"	7147	2320363006	0.3
+	"Other and unspecified disorders or heart rhythm"	"427.9"	13473	2320363006	0.6
+	"Other myocardial insufficiency"	"428"	47402	2320363006	2.0
+	"Cardiac enlargement and hypertrohy"	"429.0"	3588	2320363006	0.2
+	"Other and unspecified heart disease"	"429.9"	82831	2320363006	3.6
+	"With hypertension (benign)"	"430.0"	14928	2320363006	0.6
+	"Without mention of hypertension"	"430.9"	80760	2320363006	3.5
+	"With hypertension (benign)"	"431.0"	103570	2320363006	4.5
+	"Without mention of hypertension"	"431.9"	266021	2320363006	11.5
+	"With hypertension (benign)"	"432.0"	2705	2320363006	0.1
+	"Without mention of hypertension"	"432.9"	30292	2320363006	1.3
+	"With hypertension (benign)"	"433.0"	40380	2320363006	1.7
+	"Without mention of hypertension"	"433.9"	535431	2320363006	23.1
+	"With hypertension (benign)"	"434.0"	627	2320363006	0.0
+	"Without mention of hypertension"	"434.9"	9333	2320363006	0.4
+	"With hypertension (benign)"	"435.0"	38	2320363006	0.0
+	"Without mention of hypertension"	"435.9"	672	2320363006	0.0
+	"With hypertension (benign)"	"436.0"	93309	2320363006	4.0
+	"Without mention of hypertension"	"436.9"	611810	2320363006	26.4
+	"With hypertension (benign)"	"437.0"	18905	2320363006	0.8
+	"Without mention of hypertension"	"437.9"	364768	2320363006	15.7
+	"With hypertension (benign)"	"438.0"	4251	2320363006	0.2
+	"Without mention of hypertension"	"438.9"	32332	2320363006	1.4
+	"Of aorta"	"440.0"	939	2320363006	0.0
+	"Of renal artery"	"440.1"	273	2320363006	0.0
+	"Of arteries of the extremities"	"440.2"	1347	2320363006	0.1
+	"Of other specified arteries"	"440.3"	297	2320363006	0.0
+	"Generalized and unspecified"	"440.9"	340267	2320363006	14.7
+	"Dissecting aneurysm of aorta (any part)"	"441.0"	31296	2320363006	1.3
+	"Aneurysm of thoracic aorta"	"441.1"	13001	2320363006	0.6
+	"Aneurysm of abdominal aorta"	"441.2"	70788	2320363006	3.1
+	"Unspecified aortic aneurysm"	"441.9"	36427	2320363006	1.6
+	"Other aneurysm"	"442"	14531	2320363006	0.6
+	"Raynaud's syndrome"	"443.0"	144	2320363006	0.0
+	"Thrombo-angiitis obliterans (Buerger's disease)"	"443.1"	459	2320363006	0.0
+	"Chilblains"	"443.2"	5	2320363006	0.0 (Unreliable)
+	"Other"	"443.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified"	"443.9"	7108	2320363006	0.3
+	"Of abdominal aorta"	"444.0"	2398	2320363006	0.1
+	"Of other aorta"	"444.1"	2721	2320363006	0.1
+	"Of mesenteric artery"	"444.2"	42316	2320363006	1.8
+	"Of renal artery"	"444.3"	1128	2320363006	0.0
+	"Of arteries of the extremities"	"444.4"	7108	2320363006	0.3
+	"Of other and unspecified arteries"	"444.9"	8192	2320363006	0.4
+	"Arteriosclerotic gangrene"	"445.0"	22589	2320363006	1.0
+	"Gangrene not elsewhere classified"	"445.9"	8529	2320363006	0.4
+	"Polyarteritis nodosa"	"446.0"	2435	2320363006	0.1
+	"Hemorrhagic pulmonary renal syndrome"	"446.1"	518	2320363006	0.0
+	"Other hypersensitivity angiitis"	"446.2"	651	2320363006	0.0
+	"Wegener's granulomatosis"	"446.3"	794	2320363006	0.0
+	"Cranial arteritis"	"446.4"	358	2320363006	0.0
+	"Thrombotic microangiopathy"	"446.5"	1195	2320363006	0.1
+	"Pulseless disease"	"446.6"	57	2320363006	0.0
+	"Other"	"446.9"	883	2320363006	0.0
+	"Other diseases of arteries and arterioles"	"447"	7251	2320363006	0.3
+	"Diseases of capillaries"	"448"	416	2320363006	0.0
+	"Pulmonary embolism and infarction"	"450"	121121	2320363006	5.2
+	"Of lower extremities"	"451.0"	13830	2320363006	0.6
+	"Of other and unspecified sites"	"451.9"	12668	2320363006	0.5
+	"Portal vein thrombosis"	"452"	664	2320363006	0.0
+	"Other venous embolism and thrombosis"	"453"	17411	2320363006	0.8
+	"With ulcer"	"454.0"	585	2320363006	0.0
+	"With stasis dermatitis, without ulcer"	"454.1"	64	2320363006	0.0
+	"Other and unspecified, without ulcer"	"454.9"	2158	2320363006	0.1
+	"Hemorrhoids"	"455"	310	2320363006	0.0
+	"Of esophagus"	"456.0"	4972	2320363006	0.2
+	"Of scrotum"	"456.1"	4	2320363006	0.0 (Unreliable)
+	"Of other sites"	"456.9"	783	2320363006	0.0
+	"Noninfective disease of lymphatic channels"	"457"	330	2320363006	0.0
+	"Hypotension"	"458.0"	1783	2320363006	0.1
+	"Obstruction of inferior and superior vena cava"	"458.1"	218	2320363006	0.0
+	"Other and unspecified circulatory diseases"	"458.9"	9770	2320363006	0.4
+	"Acute nasopharyngitis (common cold)"	"460"	282	2320363006	0.0
+	"Acute maxillary sinusitis"	"461.0"	5	2320363006	0.0 (Unreliable)
+	"Acute frontal sinusitis"	"461.1"	11	2320363006	0.0 (Unreliable)
+	"Acute sinusitis, other and unspecified"	"461.9"	57	2320363006	0.0
+	"Acute pharyngitis"	"462"	472	2320363006	0.0
+	"Acute tonsillitis"	"463"	259	2320363006	0.0
+	"Acute laryngitis and tracheitis"	"464"	1597	2320363006	0.1
+	"Acute upper respiratory infection of multiple or unspecified sites"	"465"	2567	2320363006	0.1
+	"Acute bronchitis and bronchiolitis"	"466"	11027	2320363006	0.5
+	"Influenza, unqualified"	"470"	17634	2320363006	0.8
+	"Influenza with pneumonia"	"471"	28116	2320363006	1.2
+	"Influenza with other respiratory manifestations"	"472"	1700	2320363006	0.1
+	"Influenza with digestive manifestations"	"473"	432	2320363006	0.0
+	"Influenza with nervous manifestations"	"474"	190	2320363006	0.0
+	"Viral pneumonia"	"480"	16690	2320363006	0.7
+	"Pneumococcal pneumonia"	"481"	57757	2320363006	2.5
+	"Friedländer's bacillus"	"482.0"	3691	2320363006	0.2
+	"Hemophilus influenzae"	"482.1"	279	2320363006	0.0
+	"Streptococcus"	"482.2"	745	2320363006	0.0
+	"Staphylococcus"	"482.3"	4723	2320363006	0.2
+	"Other"	"482.9"	8979	2320363006	0.4
+	"Pneumonia due to other specified organism"	"483"	1525	2320363006	0.1
+	"Acute interstitial pneumonia"	"484"	10655	2320363006	0.5
+	"Bronchopneumonia, unspecified"	"485"	243115	2320363006	10.5
+	"Pneumonia, unspecified"	"486"	272517	2320363006	11.7
+	"Bronchitis, unspecified"	"490"	8324	2320363006	0.4
+	"Chronic bronchitis"	"491"	49707	2320363006	2.1
+	"Emphysema"	"492"	225714	2320363006	9.7
+	"Asthma"	"493"	23122	2320363006	1.0
+	"Hypertrophy of tonsils and adenoids"	"500"	368	2320363006	0.0
+	"Peritonsillar abscess"	"501"	93	2320363006	0.0
+	"Chronic pharyngitis"	"502.0"	6	2320363006	0.0 (Unreliable)
+	"Chronic nasopharyngitis"	"502.1"	24	2320363006	0.0
+	"Maxillary sinusitis (chronic)"	"503.0"	36	2320363006	0.0
+	"Frontal sinusitis (chronic)"	"503.1"	65	2320363006	0.0
+	"Sinusitis (chronic), other and unspecified"	"503.9"	366	2320363006	0.0
+	"Deflected nasal septum"	"504"	8	2320363006	0.0 (Unreliable)
+	"Nasal polyp"	"505"	20	2320363006	0.0
+	"Chronic laryngitis"	"506"	54	2320363006	0.0
+	"Hay fever"	"507"	20	2320363006	0.0
+	"Paralysis of vocal cords or larynx"	"508.0"	287	2320363006	0.0
+	"Polyp of vocal cords or larynx"	"508.1"	27	2320363006	0.0
+	"Edema of larynx"	"508.2"	780	2320363006	0.0
+	"Other disease of vocal cords or larynx, not elsewhere classified"	"508.3"	2114	2320363006	0.1
+	"Retropharyngeal abscess"	"508.4"	55	2320363006	0.0
+	"Other and unspecified diseases of upper respiratory tract"	"508.9"	977	2320363006	0.0
+	"Empyema"	"510"	4116	2320363006	0.2
+	"Without mention of effusion or tuberculosis"	"511.0"	1034	2320363006	0.0
+	"With effusion, with mention of a bacterial cause other than tuberculosis"	"511.1"	14	2320363006	0.0 (Unreliable)
+	"Other specified forms of effusion, except tuberculous"	"511.2"	3025	2320363006	0.1
+	"Spontaneous pneumothorax"	"512"	2865	2320363006	0.1
+	"Abscess of lung"	"513"	9440	2320363006	0.4
+	"Pulmonary congestion and hypostasis"	"514"	11055	2320363006	0.5
+	"Silicosis"	"515.0"	2994	2320363006	0.1
+	"Anthracosilicosis"	"515.1"	11114	2320363006	0.5
+	"Asbestosis"	"515.2"	483	2320363006	0.0
+	"Other, including pneumoconiosis, unspecified"	"515.9"	3589	2320363006	0.2
+	"Due to inhalation of other inorganic dust"	"516.0"	88	2320363006	0.0
+	"Due to inhalation of other dust"	"516.1"	91	2320363006	0.0
+	"Due to inhalation of fumes"	"516.2"	16	2320363006	0.0 (Unreliable)
+	"Other chronic interstitial pneumonia"	"517"	35700	2320363006	1.5
+	"Bronchiectasis"	"518"	9580	2320363006	0.4
+	"Pulmonary collapse"	"519.0"	4188	2320363006	0.2
+	"Acute edema of lung"	"519.1"	3892	2320363006	0.2
+	"Other diseases of lung"	"519.2"	21376	2320363006	0.9
+	"Chronic obstructive lung disease without mention of asthma, bronchitis, or emphysema"	"519.3"	138952	2320363006	6.0
+	"Other"	"519.9"	8335	2320363006	0.4
+	"Anodontia"	"520.0"	0	2320363006	0.0 (Unreliable)
+	"Supernumerary teeth"	"520.1"	1	2320363006	0.0 (Unreliable)
+	"Abnormalities of size and form"	"520.2"	0	2320363006	0.0 (Unreliable)
+	"Mottled teeth"	"520.3"	0	2320363006	0.0 (Unreliable)
+	"Enamel hypoplasia"	"520.4"	0	2320363006	0.0 (Unreliable)
+	"Hereditary disturbances in tooth structure, not elsewhere classified"	"520.5"	0	2320363006	0.0 (Unreliable)
+	"Disturbances in tooth eruption"	"520.6"	8	2320363006	0.0 (Unreliable)
+	"Teething syndrome"	"520.7"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"520.9"	0	2320363006	0.0 (Unreliable)
+	"Dental caries"	"521.0"	29	2320363006	0.0
+	"Attrition"	"521.1"	0	2320363006	0.0 (Unreliable)
+	"Abrasion"	"521.2"	0	2320363006	0.0 (Unreliable)
+	"Erosion"	"521.3"	0	2320363006	0.0 (Unreliable)
+	"Resorption"	"521.4"	0	2320363006	0.0 (Unreliable)
+	"Hypercementosis"	"521.5"	0	2320363006	0.0 (Unreliable)
+	"Ankylosis"	"521.6"	0	2320363006	0.0 (Unreliable)
+	"Posteruptive color changes"	"521.7"	0	2320363006	0.0 (Unreliable)
+	"Irradiated enamel"	"521.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"521.9"	0	2320363006	0.0 (Unreliable)
+	"Pulpitis"	"522.0"	0	2320363006	0.0 (Unreliable)
+	"Necrosis of the pulp"	"522.1"	0	2320363006	0.0 (Unreliable)
+	"Pulp degenerations"	"522.2"	0	2320363006	0.0 (Unreliable)
+	"Abnormal hard tissue formation in pulp"	"522.3"	0	2320363006	0.0 (Unreliable)
+	"Acute apical periodontitis"	"522.4"	29	2320363006	0.0
+	"Periapical abscess"	"522.5"	77	2320363006	0.0
+	"Chronic apical periodontitis"	"522.6"	0	2320363006	0.0 (Unreliable)
+	"Fistula from periapical lesions"	"522.7"	1	2320363006	0.0 (Unreliable)
+	"Radicular cyst"	"522.8"	1	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"522.9"	1	2320363006	0.0 (Unreliable)
+	"Acute gingivitis"	"523.0"	0	2320363006	0.0 (Unreliable)
+	"Chronic gingivitis"	"523.1"	9	2320363006	0.0 (Unreliable)
+	"Gingival recession"	"523.2"	0	2320363006	0.0 (Unreliable)
+	"Acute periodontitis"	"523.3"	9	2320363006	0.0 (Unreliable)
+	"Chronic periodontitis"	"523.4"	13	2320363006	0.0 (Unreliable)
+	"Periodontosis"	"523.5"	0	2320363006	0.0 (Unreliable)
+	"Accretions on teeth"	"523.6"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"523.9"	10	2320363006	0.0 (Unreliable)
+	"Major anomalies of jaw size"	"524.0"	24	2320363006	0.0
+	"Anomalies of jaw-cranial base relationships"	"524.1"	4	2320363006	0.0 (Unreliable)
+	"Anomalies of dental arch relationship"	"524.2"	0	2320363006	0.0 (Unreliable)
+	"Anomalies of tooth position"	"524.3"	0	2320363006	0.0 (Unreliable)
+	"Malocculusion, unqualified"	"524.4"	0	2320363006	0.0 (Unreliable)
+	"Dento-facial functional abnormalities"	"524.5"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"524.9"	8	2320363006	0.0 (Unreliable)
+	"Acquired absence of teeth"	"525.0"	3	2320363006	0.0 (Unreliable)
+	"Atrophy of edentulous alveolar ridge"	"525.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"525.9"	187	2320363006	0.0
+	"Developmental dental cysts"	"526.0"	1	2320363006	0.0 (Unreliable)
+	"Fissural cysts"	"526.1"	3	2320363006	0.0 (Unreliable)
+	"Other cysts of jaws"	"526.2"	3	2320363006	0.0 (Unreliable)
+	"Reparative giant cell granuloma"	"526.3"	2	2320363006	0.0 (Unreliable)
+	"Inflammatory conditions"	"526.4"	38	2320363006	0.0
+	"Alveolitis"	"526.5"	114	2320363006	0.0
+	"Other and unspecified"	"526.9"	6	2320363006	0.0 (Unreliable)
+	"Atrophy"	"527.0"	1	2320363006	0.0 (Unreliable)
+	"Hypertrophy"	"527.1"	1	2320363006	0.0 (Unreliable)
+	"Sialoadenitis"	"527.2"	515	2320363006	0.0
+	"Abscess"	"527.3"	99	2320363006	0.0
+	"Fistula"	"527.4"	1	2320363006	0.0 (Unreliable)
+	"Sialolithiasis"	"527.5"	6	2320363006	0.0 (Unreliable)
+	"Mucocele"	"527.6"	2	2320363006	0.0 (Unreliable)
+	"Disturbances of salivary secretion"	"527.7"	2	2320363006	0.0 (Unreliable)
+	"Sialosis"	"527.8"	7	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"527.9"	4	2320363006	0.0 (Unreliable)
+	"Stomatitis"	"528.0"	30	2320363006	0.0
+	"Cancrum oris"	"528.1"	3	2320363006	0.0 (Unreliable)
+	"Oral aphthous ulcerations"	"528.2"	2	2320363006	0.0 (Unreliable)
+	"Cellulitis and abscess"	"528.3"	76	2320363006	0.0
+	"Cysts"	"528.4"	0	2320363006	0.0 (Unreliable)
+	"Disease of lips"	"528.5"	3	2320363006	0.0 (Unreliable)
+	"Leukoplakia of oral mucosa"	"528.6"	1	2320363006	0.0 (Unreliable)
+	"Other disturbances of keratinisation"	"528.7"	0	2320363006	0.0 (Unreliable)
+	"Oral submucous fibrosis"	"528.8"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"528.9"	176	2320363006	0.0
+	"Glossitis"	"529.0"	21	2320363006	0.0
+	"Geographic tongue"	"529.1"	0	2320363006	0.0 (Unreliable)
+	"Median rhomboid glossitis"	"529.2"	0	2320363006	0.0 (Unreliable)
+	"Hypertrophy of tongue papillae"	"529.3"	2	2320363006	0.0 (Unreliable)
+	"Atrophy of tongue papillae"	"529.4"	0	2320363006	0.0 (Unreliable)
+	"Plicated tongue"	"529.5"	0	2320363006	0.0 (Unreliable)
+	"Glossodynia"	"529.6"	0	2320363006	0.0 (Unreliable)
+	"Leukoplakia and other disturbances of keratinisation of the tongue"	"529.7"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"529.9"	12	2320363006	0.0 (Unreliable)
+	"Functional disorders of esophagus"	"530.0"	745	2320363006	0.0
+	"Inflammatory diseases of esophagus"	"530.1"	3152	2320363006	0.1
+	"Diverticulum, acquired, of esophagus"	"530.2"	349	2320363006	0.0
+	"Obstruction of esophagus"	"530.3"	2724	2320363006	0.1
+	"Rupture of esophagus"	"530.4"	2157	2320363006	0.1
+	"Other"	"530.9"	3150	2320363006	0.1
+	"With hemorrhage only"	"531.0"	20498	2320363006	0.9
+	"With perforation only"	"531.1"	7928	2320363006	0.3
+	"With hemorrhage and perforation"	"531.2"	1545	2320363006	0.1
+	"Other and unspecified"	"531.9"	4982	2320363006	0.2
+	"With hemorrage only"	"532.0"	18392	2320363006	0.8
+	"With perforation only"	"532.1"	11719	2320363006	0.5
+	"With hemorrage and perforation"	"532.2"	2242	2320363006	0.1
+	"Other and unspecified"	"532.9"	4308	2320363006	0.2
+	"With perforation"	"533.0"	5059	2320363006	0.2
+	"Without mention of perforation"	"533.9"	6115	2320363006	0.3
+	"With hemorrhage only"	"534.0"	7071	2320363006	0.3
+	"With perforation only"	"534.1"	369	2320363006	0.0
+	"With hemorrhage and perforation"	"534.2"	205	2320363006	0.0
+	"Other and unspecified"	"534.9"	328	2320363006	0.0
+	"Gastritis and duodenitis"	"535"	6351	2320363006	0.3
+	"Disorders of gastric secretion"	"536.0"	47	2320363006	0.0
+	"Disorders of gastric motility"	"536.1"	892	2320363006	0.0
+	"Other"	"536.9"	342	2320363006	0.0
+	"Pyloric stenosis, acquired"	"537.0"	1170	2320363006	0.1
+	"Other and unspecified"	"537.9"	5081	2320363006	0.2
+	"With peritonitis"	"540.0"	10024	2320363006	0.4
+	"Without mention of peritonitis"	"540.9"	795	2320363006	0.0
+	"Appendicitis, unqualified"	"541"	876	2320363006	0.0
+	"Other appendicitis"	"542"	12	2320363006	0.0 (Unreliable)
+	"Other diseases of appendix"	"543"	69	2320363006	0.0
+	"Inguinal hernia without mention of obstruction"	"550"	1279	2320363006	0.1
+	"Femoral"	"551.0"	88	2320363006	0.0
+	"Umbilical"	"551.1"	1341	2320363006	0.1
+	"Ventral"	"551.2"	1295	2320363006	0.1
+	"Diaphragmatic"	"551.3"	8398	2320363006	0.4
+	"Of other specified site"	"551.8"	234	2320363006	0.0
+	"Of unspecified site"	"551.9"	1427	2320363006	0.1
+	"Inguinal hernia with obstruction"	"552"	3646	2320363006	0.2
+	"Femoral"	"553.0"	1642	2320363006	0.1
+	"Umbilical"	"553.1"	1264	2320363006	0.1
+	"Ventral"	"553.2"	2379	2320363006	0.1
+	"Diaphragmatic"	"553.3"	989	2320363006	0.0
+	"Of other specified site"	"553.8"	985	2320363006	0.0
+	"Of unspecfifed site"	"553.9"	2596	2320363006	0.1
+	"Intussusception"	"560.0"	624	2320363006	0.0
+	"Paralytic ileus"	"560.1"	3242	2320363006	0.1
+	"Volvulus"	"560.2"	9459	2320363006	0.4
+	"Impaction of intestine"	"560.3"	1649	2320363006	0.1
+	"Adhesions with obstruction"	"560.4"	5297	2320363006	0.2
+	"Other and unspecified"	"560.9"	25054	2320363006	1.1
+	"Gastroenteritis and colitis, except ulcerative, of non-infectious origin"	"561"	624	2320363006	0.0
+	"Small intestine"	"562.0"	480	2320363006	0.0
+	"Colon"	"562.1"	34693	2320363006	1.5
+	"Regional enteritis"	"563.0"	3599	2320363006	0.2
+	"Ulcerative colitis"	"563.1"	6755	2320363006	0.3
+	"Other"	"563.9"	843	2320363006	0.0
+	"Constipation"	"564.0"	198	2320363006	0.0
+	"Irritable colon"	"564.1"	451	2320363006	0.0
+	"Other"	"564.9"	228	2320363006	0.0
+	"Anal fissure"	"565.0"	22	2320363006	0.0
+	"Anal fistula"	"565.1"	45	2320363006	0.0
+	"Abscess of anal and rectal regions"	"566"	1285	2320363006	0.1
+	"With abscess"	"567.0"	3205	2320363006	0.1
+	"Unspecified"	"567.9"	8939	2320363006	0.4
+	"Peritoneal adhesions"	"568"	1407	2320363006	0.1
+	"Proctitis"	"569.0"	83	2320363006	0.0
+	"Prolapse of rectum"	"569.1"	196	2320363006	0.0
+	"Other rectal and anal diseases"	"569.2"	1890	2320363006	0.1
+	"Fistula of intestine"	"569.3"	2496	2320363006	0.1
+	"Perforation or ulceration of intestine NOS"	"569.4"	6991	2320363006	0.3
+	"Other"	"569.9"	48560	2320363006	2.1
+	"Acute and subacute necrosis of liver"	"570"	6192	2320363006	0.3
+	"Alcoholic"	"571.0"	134084	2320363006	5.8
+	"Other specified"	"571.8"	53675	2320363006	2.3
+	"Unspecified"	"571.9"	157732	2320363006	6.8
+	"Suppurative hepatitis and liver abscess"	"572"	1796	2320363006	0.1
+	"Hepatitis NOS"	"573.0"	6268	2320363006	0.3
+	"Other and unspecified"	"573.9"	23466	2320363006	1.0
+	"With acute cholecystitis"	"574.0"	3308	2320363006	0.1
+	"With cholecystitis, other"	"574.1"	8185	2320363006	0.4
+	"Other and unspecified"	"574.9"	9499	2320363006	0.4
+	"Cholecystitis and cholangitis, without mention of calculus"	"575"	17503	2320363006	0.8
+	"Obstruction"	"576.0"	6075	2320363006	0.3
+	"Fistula"	"576.1"	476	2320363006	0.0
+	"Other and unspecified"	"576.9"	8563	2320363006	0.4
+	"Acute pancreatitis"	"577.0"	28001	2320363006	1.2
+	"Chronic pancreatitis"	"577.1"	2858	2320363006	0.1
+	"Other diseases of pancreas"	"577.9"	1904	2320363006	0.1
+	"Acute nephritis"	"580"	13468	2320363006	0.6
+	"Nephrotic syndrome"	"581"	3738	2320363006	0.2
+	"Chronic nephritis"	"582"	68558	2320363006	3.0
+	"Nephritis, unqualified"	"583"	8084	2320363006	0.3
+	"Renal sclerosis, unqualified"	"584"	1152	2320363006	0.0
+	"Chronic pyelonephritis"	"590.0"	38970	2320363006	1.7
+	"Other pyelonephritis, pyelitis and pyelocystitis"	"590.1"	26355	2320363006	1.1
+	"Abscess of kidney and perirenal tissue"	"590.2"	1271	2320363006	0.1
+	"Other"	"590.9"	1155	2320363006	0.0
+	"Hydronephrosis"	"591"	1871	2320363006	0.1
+	"Calculus of kidney and ureter"	"592"	7141	2320363006	0.3
+	"Renal dwarfism"	"593.0"	26	2320363006	0.0
+	"Acute tubular nephrosis"	"593.1"	3253	2320363006	0.1
+	"Other renal disease"	"593.2"	48675	2320363006	2.1
+	"Obstruction of ureter, not elsewhere classified"	"593.3"	1288	2320363006	0.1
+	"Hydroureter"	"593.4"	94	2320363006	0.0
+	"Other diseases of ureter"	"593.5"	254	2320363006	0.0
+	"Calculus of other parts of urinary system"	"594"	705	2320363006	0.0
+	"Cystitis"	"595"	3343	2320363006	0.1
+	"Fistula of bladder"	"596.0"	657	2320363006	0.0
+	"Diverticulum of bladder (acquired)"	"596.1"	155	2320363006	0.0
+	"Contracture of bladder (sphincter)"	"596.2"	1051	2320363006	0.0
+	"Paralysis of bladder"	"596.3"	50	2320363006	0.0
+	"Other and unspecified diseases of bladder"	"596.9"	2048	2320363006	0.1
+	"Urethritis (nonvenereal)"	"597"	59	2320363006	0.0
+	"Stricture of urethra"	"598"	1346	2320363006	0.1
+	"Urinary tract infection NEC"	"599.0"	29693	2320363006	1.3
+	"Fistula, urinary NEC"	"599.1"	78	2320363006	0.0
+	"Caruncle of urethra"	"599.2"	7	2320363006	0.0 (Unreliable)
+	"Other and unspecified diseases of urinary tract"	"599.9"	2870	2320363006	0.1
+	"Hyperplasia of prostate"	"600"	18210	2320363006	0.8
+	"Prostatitis"	"601"	1339	2320363006	0.1
+	"Other diseases of prostate"	"602"	3722	2320363006	0.2
+	"Hydrocele"	"603"	36	2320363006	0.0
+	"Orchitis and epididymitis"	"604"	163	2320363006	0.0
+	"Redundant prepuce and phimosis"	"605"	20	2320363006	0.0
+	"Sterility, male"	"606"	0	2320363006	0.0 (Unreliable)
+	"Leukoplakia of penis"	"607.0"	0	2320363006	0.0 (Unreliable)
+	"Erythroplasia of penis"	"607.1"	0	2320363006	0.0 (Unreliable)
+	"Chronic ulceration of penis"	"607.2"	4	2320363006	0.0 (Unreliable)
+	"Balanitis"	"607.3"	10	2320363006	0.0 (Unreliable)
+	"Seminal vesiculitis"	"607.4"	9	2320363006	0.0 (Unreliable)
+	"Other inflammatory diseases"	"607.5"	459	2320363006	0.0
+	"Spermatocele"	"607.6"	3	2320363006	0.0 (Unreliable)
+	"Torsion of testis"	"607.7"	7	2320363006	0.0 (Unreliable)
+	"Atrophy of testicle"	"607.8"	1	2320363006	0.0 (Unreliable)
+	"Other"	"607.9"	1219	2320363006	0.1
+	"Chronic cystic disease of breast"	"610"	14	2320363006	0.0 (Unreliable)
+	"Acute mastitis not associated with lactation"	"611.0"	35	2320363006	0.0
+	"Hypertrophy of breast"	"611.1"	4	2320363006	0.0 (Unreliable)
+	"Fissure of nipple"	"611.2"	0	2320363006	0.0 (Unreliable)
+	"Other"	"611.9"	259	2320363006	0.0
+	"Acute salpingitis and oophoritis"	"612"	34	2320363006	0.0
+	"Chronic salpingitis and oophoritis"	"613"	8	2320363006	0.0 (Unreliable)
+	"Salpingitis and oophoritis, unqualified"	"614"	503	2320363006	0.0
+	"Prolapse of ovary"	"615.0"	4	2320363006	0.0 (Unreliable)
+	"Hydrosalpinx"	"615.1"	8	2320363006	0.0 (Unreliable)
+	"Ovarian cyst, retention"	"615.2"	21	2320363006	0.0
+	"Other"	"615.9"	96	2320363006	0.0
+	"Pelvic inflammatory disease"	"616.0"	1660	2320363006	0.1
+	"Pelvic peritoneal adhesions, female"	"616.1"	48	2320363006	0.0
+	"Pelvic congestion, female"	"616.2"	18	2320363006	0.0 (Unreliable)
+	"Other"	"616.9"	66	2320363006	0.0
+	"Chronic cervicitis"	"620.0"	16	2320363006	0.0 (Unreliable)
+	"Other cervicitis"	"620.9"	22	2320363006	0.0
+	"Leukoplakia of cervix"	"621.0"	0	2320363006	0.0 (Unreliable)
+	"Erythroplasia of cervix"	"621.1"	0	2320363006	0.0 (Unreliable)
+	"Hyperplastic endometritis of cervix"	"621.2"	0	2320363006	0.0 (Unreliable)
+	"Chronic erosion and ulceration of cervix"	"621.3"	2	2320363006	0.0 (Unreliable)
+	"Old laceration of cervix"	"621.4"	1	2320363006	0.0 (Unreliable)
+	"Stricture of cervix"	"621.5"	4	2320363006	0.0 (Unreliable)
+	"Atrophy of cervix"	"621.6"	0	2320363006	0.0 (Unreliable)
+	"Other"	"621.9"	38	2320363006	0.0
+	"Infective diseases of uterus, except cervix"	"622.0"	218	2320363006	0.0
+	"Vaginitis and vulvitis"	"622.1"	107	2320363006	0.0
+	"Cystocele"	"623.0"	148	2320363006	0.0
+	"Rectocele"	"623.1"	10	2320363006	0.0 (Unreliable)
+	"Urethrocele"	"623.2"	2	2320363006	0.0 (Unreliable)
+	"Vaginal enterocele"	"623.3"	4	2320363006	0.0 (Unreliable)
+	"Uterine prolapse"	"623.4"	260	2320363006	0.0
+	"Other and unspecified"	"623.9"	68	2320363006	0.0
+	"Retroversion and retroflexion"	"624.0"	4	2320363006	0.0 (Unreliable)
+	"Other"	"624.1"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"624.9"	12	2320363006	0.0 (Unreliable)
+	"Atrophy of uterus"	"625.0"	2	2320363006	0.0 (Unreliable)
+	"Subinvolution of uterus"	"625.1"	1	2320363006	0.0 (Unreliable)
+	"Hyperplasia of endometrium"	"625.2"	33	2320363006	0.0
+	"Endometriosis"	"625.3"	105	2320363006	0.0
+	"Other"	"625.9"	1414	2320363006	0.1
+	"Absent"	"626.0"	1	2320363006	0.0 (Unreliable)
+	"Scanty"	"626.1"	0	2320363006	0.0 (Unreliable)
+	"Excessive"	"626.2"	55	2320363006	0.0
+	"Painful"	"626.3"	3	2320363006	0.0 (Unreliable)
+	"Frequent"	"626.4"	0	2320363006	0.0 (Unreliable)
+	"Irregular"	"626.5"	1	2320363006	0.0 (Unreliable)
+	"Intermenstrual bleeding"	"626.6"	55	2320363006	0.0
+	"Postmenopausal bleeding"	"626.7"	24	2320363006	0.0
+	"Other"	"626.9"	110	2320363006	0.0
+	"Menopausal symptoms"	"627"	7	2320363006	0.0 (Unreliable)
+	"Sterility, female"	"628"	0	2320363006	0.0 (Unreliable)
+	"Leukoplakia of vagina"	"629.0"	0	2320363006	0.0 (Unreliable)
+	"Erythroplasia of vagina and vulva"	"629.1"	0	2320363006	0.0 (Unreliable)
+	"Kraurosis of vulva"	"629.2"	6	2320363006	0.0 (Unreliable)
+	"Leukorrhea"	"629.3"	0	2320363006	0.0 (Unreliable)
+	"Unspecified infection"	"629.4"	815	2320363006	0.0
+	"Vaginal bleeding"	"629.5"	183	2320363006	0.0
+	"Old laceration"	"629.6"	5	2320363006	0.0 (Unreliable)
+	"Stricture or atresia of vagina and hymen"	"629.7"	3	2320363006	0.0 (Unreliable)
+	"Rectovaginal fistula"	"629.8"	201	2320363006	0.0
+	"Other"	"629.9"	270	2320363006	0.0
+	"Infections of genital tract during pregnancy"	"630"	35	2320363006	0.0
+	"Abdominal pregnancy, with sepsis"	"631.0"	5	2320363006	0.0 (Unreliable)
+	"Tubal pregnancy, with sepsis"	"631.1"	10	2320363006	0.0 (Unreliable)
+	"Ovarian pregnancy, with sepsis"	"631.2"	0	2320363006	0.0 (Unreliable)
+	"Other or unspecified ectopic pregnancy, with sepsis"	"631.3"	19	2320363006	0.0 (Unreliable)
+	"Abdominal pregnancy, without mention of sepsis"	"631.4"	11	2320363006	0.0 (Unreliable)
+	"Tubal pregnancy, without mention of sepsis"	"631.5"	249	2320363006	0.0
+	"Ovarian pregnancy, without mention of sepsis"	"631.6"	3	2320363006	0.0 (Unreliable)
+	"Other or unspecified ectopic pregnancy, without mention of sepsis"	"631.9"	281	2320363006	0.0
+	"Placenta previa"	"632.0"	8	2320363006	0.0 (Unreliable)
+	"Premature separation of placenta"	"632.1"	17	2320363006	0.0 (Unreliable)
+	"Hemorrrhage from marginal sinus"	"632.2"	1	2320363006	0.0 (Unreliable)
+	"Threatened abortion"	"632.3"	0	2320363006	0.0 (Unreliable)
+	"Due to afibrogenemia"	"632.4"	34	2320363006	0.0
+	"Other and unspecified"	"632.9"	67	2320363006	0.0
+	"Macrocytic anemia of pregnancy"	"633.0"	0	2320363006	0.0 (Unreliable)
+	"Iron deficiency anemia of pregnancy"	"633.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified anemia of pregnancy"	"633.9"	11	2320363006	0.0 (Unreliable)
+	"Hydatidiform mole"	"634.0"	30	2320363006	0.0
+	"Placental abnormalities not elsewhere classified"	"634.1"	9	2320363006	0.0 (Unreliable)
+	"Missed abotion and missed delivery"	"634.2"	21	2320363006	0.0
+	"Hydramnios"	"634.3"	6	2320363006	0.0 (Unreliable)
+	"Premature rupture of membrane without delivery"	"634.4"	16	2320363006	0.0 (Unreliable)
+	"Rh incompatibility"	"634.5"	1	2320363006	0.0 (Unreliable)
+	"Habitual aborter, undelivered"	"634.6"	0	2320363006	0.0 (Unreliable)
+	"False labour"	"634.7"	2	2320363006	0.0 (Unreliable)
+	"Air embolism during pregnancy"	"634.8"	38	2320363006	0.0
+	"Other"	"634.9"	355	2320363006	0.0
+	"Pyelitis and pyelonephritis"	"635.0"	16	2320363006	0.0 (Unreliable)
+	"Cystitis"	"635.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"635.9"	2	2320363006	0.0 (Unreliable)
+	"Renal disease arising during pregnancy and the puerperium"	"636"	63	2320363006	0.0
+	"Pre-eclampsia"	"637.0"	167	2320363006	0.0
+	"Eclampsia"	"637.1"	530	2320363006	0.0
+	"Toxemia, unspecified"	"637.9"	266	2320363006	0.0
+	"With neuritis"	"638.0"	0	2320363006	0.0 (Unreliable)
+	"Without mention of neuritis"	"638.9"	6	2320363006	0.0 (Unreliable)
+	"Acute and subacute necrosis of liver"	"639.0"	65	2320363006	0.0
+	"Other"	"639.9"	8	2320363006	0.0 (Unreliable)
+	"With sepsis"	"640.0"	24	2320363006	0.0
+	"With toxemia"	"640.1"	0	2320363006	0.0 (Unreliable)
+	"With sepsis and toxemia"	"640.2"	0	2320363006	0.0 (Unreliable)
+	"Without mention of sepsis or toxemia"	"640.9"	41	2320363006	0.0
+	"With sepsis"	"641.0"	1	2320363006	0.0 (Unreliable)
+	"With toxemia"	"641.1"	0	2320363006	0.0 (Unreliable)
+	"With sepsis and toxemia"	"641.2"	0	2320363006	0.0 (Unreliable)
+	"Without mention of sepsis or toxemia"	"641.9"	5	2320363006	0.0 (Unreliable)
+	"With sepsis"	"642.0"	138	2320363006	0.0
+	"With hemorrhage"	"642.1"	5	2320363006	0.0 (Unreliable)
+	"With sepsis and hemorrhage"	"642.2"	8	2320363006	0.0 (Unreliable)
+	"With laceration of pelvic organ (with or without mention of sepsis or hemorrhage)"	"642.3"	24	2320363006	0.0
+	"Without mention of sepsis, hemorrhage, or laceration"	"642.9"	78	2320363006	0.0
+	"With sepsis"	"643.0"	51	2320363006	0.0
+	"With toxemia"	"643.1"	5	2320363006	0.0 (Unreliable)
+	"With sepsis and toxemia"	"643.2"	7	2320363006	0.0 (Unreliable)
+	"Without mention of sepsis or toxemia"	"643.9"	29	2320363006	0.0
+	"With sepsis"	"644.0"	201	2320363006	0.0
+	"With toxemia"	"644.1"	2	2320363006	0.0 (Unreliable)
+	"With sepsis and toxemia"	"644.2"	15	2320363006	0.0 (Unreliable)
+	"Without mention of sepsis or toxemia"	"644.9"	64	2320363006	0.0
+	"With sepsis"	"645.0"	6	2320363006	0.0 (Unreliable)
+	"With toxemia"	"645.1"	0	2320363006	0.0 (Unreliable)
+	"With sepsis and toxemia"	"645.2"	0	2320363006	0.0 (Unreliable)
+	"Without mention of sepsis or toxemia"	"645.9"	0	2320363006	0.0 (Unreliable)
+	"Delivery without mention of complication"	"650"	27	2320363006	0.0
+	"Placenta previa"	"651.0"	82	2320363006	0.0
+	"Premature separation of placenta"	"651.1"	227	2320363006	0.0
+	"Other antepartum hemorrhage"	"651.9"	21	2320363006	0.0
+	"Delivery complicated by retained placenta"	"652"	55	2320363006	0.0
+	"Delivery complicated by other postpartum hemorrhage"	"653"	258	2320363006	0.0
+	"Android"	"654.0"	0	2320363006	0.0 (Unreliable)
+	"Anthropoid"	"654.1"	0	2320363006	0.0 (Unreliable)
+	"Flat"	"654.2"	0	2320363006	0.0 (Unreliable)
+	"Combined type"	"654.3"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"654.9"	7	2320363006	0.0 (Unreliable)
+	"Delivery complicated by fetopelvic disproportion"	"655"	51	2320363006	0.0
+	"Breech presentation"	"656.0"	20	2320363006	0.0
+	"Transverse presentation"	"656.1"	15	2320363006	0.0 (Unreliable)
+	"Brow presentation"	"656.2"	3	2320363006	0.0 (Unreliable)
+	"Face presentation"	"656.3"	1	2320363006	0.0 (Unreliable)
+	"Compound or shoulder presentation"	"656.4"	9	2320363006	0.0 (Unreliable)
+	"Other specified"	"656.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified"	"656.9"	3	2320363006	0.0 (Unreliable)
+	"Multiple pregnancy"	"657.0"	16	2320363006	0.0 (Unreliable)
+	"Uterine inertia"	"657.1"	48	2320363006	0.0
+	"Cervical dystocia"	"657.2"	3	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"657.9"	19	2320363006	0.0 (Unreliable)
+	"First degree"	"658.0"	5	2320363006	0.0 (Unreliable)
+	"Second degree"	"658.1"	0	2320363006	0.0 (Unreliable)
+	"Third degree"	"658.2"	1	2320363006	0.0 (Unreliable)
+	"Unspecified"	"658.9"	2	2320363006	0.0 (Unreliable)
+	"Delivery with rupture of uterus"	"659"	150	2320363006	0.0
+	"Laceration of urethra"	"660.0"	0	2320363006	0.0 (Unreliable)
+	"Laceration of cervix"	"660.1"	31	2320363006	0.0
+	"Other and unspecified obstetrical trauma"	"660.9"	27	2320363006	0.0
+	"Premature rupture of membranes"	"661.0"	33	2320363006	0.0
+	"Precipitate labor"	"661.1"	6	2320363006	0.0 (Unreliable)
+	"Previous cesarean section"	"661.2"	21	2320363006	0.0
+	"Umbilical cord complication"	"661.3"	9	2320363006	0.0 (Unreliable)
+	"Specified complications"	"661.8"	88	2320363006	0.0
+	"Unspecified complication"	"661.9"	279	2320363006	0.0
+	"Anesthetic death in uncomplicated delivery"	"662"	44	2320363006	0.0
+	"Sepsis of childbirth and the puerperium"	"670"	206	2320363006	0.0
+	"Lower extremities"	"671.0"	16	2320363006	0.0 (Unreliable)
+	"Other and unspecified sites"	"671.9"	94	2320363006	0.0
+	"Pyrexia of unknown origin during the puerperium"	"672"	0	2320363006	0.0 (Unreliable)
+	"Air embolism"	"673.0"	28	2320363006	0.0
+	"Amniotic fluid embolism"	"673.1"	538	2320363006	0.0
+	"Other and unspecified"	"673.9"	314	2320363006	0.0
+	"Cerebral hemorrhage in the puerperium"	"674"	131	2320363006	0.0
+	"Puerperal blood dyscrasias"	"675"	78	2320363006	0.0
+	"Anemia of the puerperium"	"676"	3	2320363006	0.0 (Unreliable)
+	"Sudden death from unknowm cause in the puerperium"	"677.0"	6	2320363006	0.0 (Unreliable)
+	"Retained placenta, complicating puerperium"	"677.1"	5	2320363006	0.0 (Unreliable)
+	"Other delayed postpartum hemorrhage"	"677.2"	5	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"677.9"	128	2320363006	0.0
+	"Mastitis and other disorders of lactation"	"678"	0	2320363006	0.0 (Unreliable)
+	"Of face"	"680.0"	16	2320363006	0.0 (Unreliable)
+	"Of neck"	"680.1"	9	2320363006	0.0 (Unreliable)
+	"Of trunk"	"680.2"	17	2320363006	0.0 (Unreliable)
+	"Of upper arm and forearm"	"680.3"	4	2320363006	0.0 (Unreliable)
+	"Of hand"	"680.4"	1	2320363006	0.0 (Unreliable)
+	"Of buttock"	"680.5"	7	2320363006	0.0 (Unreliable)
+	"Of other parts of lower extremity"	"680.6"	5	2320363006	0.0 (Unreliable)
+	"Of other and multiple sites"	"680.8"	14	2320363006	0.0 (Unreliable)
+	"Of unspecified site"	"680.9"	44	2320363006	0.0
+	"Cellulitis of finger and toe"	"681"	22	2320363006	0.0
+	"Of head and neck"	"682.0"	251	2320363006	0.0
+	"Of trunk"	"682.1"	1101	2320363006	0.0
+	"Of upper arm and forearm"	"682.2"	248	2320363006	0.0
+	"Of hand, except fingers"	"682.3"	38	2320363006	0.0
+	"Of leg"	"682.4"	1143	2320363006	0.0
+	"Of foot, except toes"	"682.5"	195	2320363006	0.0
+	"Of other, multiple, and unspecified sites"	"682.9"	783	2320363006	0.0
+	"Acute lymphadenitis"	"683"	21	2320363006	0.0
+	"Impetigo"	"684"	20	2320363006	0.0
+	"Pilonidal cyst"	"685"	32	2320363006	0.0
+	"Pyoderma"	"686.0"	165	2320363006	0.0
+	"Pyogenic granuloma"	"686.1"	374	2320363006	0.0
+	"Dermatitis infection eczematoides"	"686.2"	2	2320363006	0.0 (Unreliable)
+	"Other"	"686.9"	1004	2320363006	0.0
+	"Seborrheic dermatitis"	"690"	1	2320363006	0.0 (Unreliable)
+	"Infantile eczema and related conditions"	"691"	16	2320363006	0.0 (Unreliable)
+	"Due to detergents"	"692.0"	0	2320363006	0.0 (Unreliable)
+	"Due to oils and greases"	"692.1"	0	2320363006	0.0 (Unreliable)
+	"Due to solvents"	"692.2"	0	2320363006	0.0 (Unreliable)
+	"Due to drugs"	"692.3"	4	2320363006	0.0 (Unreliable)
+	"Due to other chemicals"	"692.4"	3	2320363006	0.0 (Unreliable)
+	"Due to food"	"692.5"	35	2320363006	0.0
+	"Due to plants (except food)"	"692.6"	2	2320363006	0.0 (Unreliable)
+	"Due to radiation, except sunburn"	"692.7"	2	2320363006	0.0 (Unreliable)
+	"Due to sunburn"	"692.8"	5	2320363006	0.0 (Unreliable)
+	"Due to other and unspecified cause"	"692.9"	362	2320363006	0.0
+	"Dermatitis herpetiformis"	"693"	25	2320363006	0.0
+	"Pemphigus"	"694"	1121	2320363006	0.0
+	"Toxic erythema"	"695.0"	4	2320363006	0.0 (Unreliable)
+	"Erythema multiforme"	"695.1"	593	2320363006	0.0
+	"Erythema nodosum"	"695.2"	9	2320363006	0.0 (Unreliable)
+	"Rosacea"	"695.3"	1	2320363006	0.0 (Unreliable)
+	"Lupus erythematosus"	"695.4"	2568	2320363006	0.1
+	"Other and unspecified"	"695.9"	340	2320363006	0.0
+	"Psoriatic arthropathy"	"696.0"	26	2320363006	0.0
+	"Other psoriasis"	"696.1"	182	2320363006	0.0
+	"Parapsoriasis"	"696.2"	5	2320363006	0.0 (Unreliable)
+	"Pityriasis rosea"	"696.3"	0	2320363006	0.0 (Unreliable)
+	"Pityriasis rubra pilaris"	"696.4"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified pityriasis"	"696.5"	0	2320363006	0.0 (Unreliable)
+	"Other disorders"	"696.9"	1	2320363006	0.0 (Unreliable)
+	"Planus"	"697.0"	7	2320363006	0.0 (Unreliable)
+	"Nitidus"	"697.1"	0	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"697.9"	1	2320363006	0.0 (Unreliable)
+	"Pruritus ani"	"698.0"	0	2320363006	0.0 (Unreliable)
+	"Pruritus of genital organs"	"698.1"	0	2320363006	0.0 (Unreliable)
+	"Prurigo"	"698.2"	0	2320363006	0.0 (Unreliable)
+	"Lichenification and lichen simplex chronicus"	"698.3"	13	2320363006	0.0 (Unreliable)
+	"Dermatitis factitia (artifacta)"	"698.4"	2	2320363006	0.0 (Unreliable)
+	"Other pruritic conditions"	"698.9"	2	2320363006	0.0 (Unreliable)
+	"Corns and callosities"	"700"	2	2320363006	0.0 (Unreliable)
+	"Circumscribed scleroderma"	"701.0"	5	2320363006	0.0 (Unreliable)
+	"Keratoderma, acquired"	"701.1"	11	2320363006	0.0 (Unreliable)
+	"Striae atrophicae"	"701.2"	0	2320363006	0.0 (Unreliable)
+	"Keloid scar"	"701.3"	3	2320363006	0.0 (Unreliable)
+	"Other hypertrophic and atrophic conditions of skin"	"701.9"	7	2320363006	0.0 (Unreliable)
+	"Other dermatoses"	"702"	3	2320363006	0.0 (Unreliable)
+	"Ingrowing nail"	"703.0"	2	2320363006	0.0 (Unreliable)
+	"Other"	"703.9"	0	2320363006	0.0 (Unreliable)
+	"Diseases of hair and hair follicles"	"704"	2	2320363006	0.0 (Unreliable)
+	"Anhidrosis"	"705.0"	0	2320363006	0.0 (Unreliable)
+	"Prickly heat"	"705.1"	1	2320363006	0.0 (Unreliable)
+	"Other"	"705.9"	20	2320363006	0.0
+	"Acne varioliformis"	"706.0"	0	2320363006	0.0 (Unreliable)
+	"Other acne"	"706.1"	1	2320363006	0.0 (Unreliable)
+	"Sebaceous cyst"	"706.2"	11	2320363006	0.0 (Unreliable)
+	"Seborrhea"	"706.3"	0	2320363006	0.0 (Unreliable)
+	"Other"	"706.9"	0	2320363006	0.0 (Unreliable)
+	"Decubitus ulcer"	"707.0"	9954	2320363006	0.4
+	"Lower extremity, except decubitus ulcer"	"707.1"	798	2320363006	0.0
+	"Other"	"707.9"	812	2320363006	0.0
+	"Angioneurotic edema"	"708.0"	81	2320363006	0.0
+	"Other and unspecified"	"708.9"	5	2320363006	0.0 (Unreliable)
+	"Cicatrix"	"709.0"	11	2320363006	0.0 (Unreliable)
+	"Tattoo"	"709.1"	0	2320363006	0.0 (Unreliable)
+	"Other diseases of skin"	"709.9"	71	2320363006	0.0
+	"Of spine"	"710.0"	1	2320363006	0.0 (Unreliable)
+	"Of upper extremity (including shoulder)"	"710.1"	23	2320363006	0.0
+	"Of hip"	"710.2"	67	2320363006	0.0
+	"Of other parts of lower extremity"	"710.3"	90	2320363006	0.0
+	"Of other and unspecified sites"	"710.9"	212	2320363006	0.0
+	"Acute nonpyogenic arthritis"	"711"	0	2320363006	0.0 (Unreliable)
+	"Juvenile rheumatoid arthritis"	"712.0"	60	2320363006	0.0
+	"Rheumatoid arthritis with spleno-adenomegaly and leukopenia"	"712.1"	241	2320363006	0.0
+	"Palindromic rheumatism"	"712.2"	2	2320363006	0.0 (Unreliable)
+	"Other rheumatoid arthritis"	"712.3"	13974	2320363006	0.6
+	"Spondylitis ankylopoietica"	"712.4"	382	2320363006	0.0
+	"Chronic rheumatoid nodular fibrositis"	"712.5"	0	2320363006	0.0 (Unreliable)
+	"Osteoarthritis"	"713.0"	3225	2320363006	0.1
+	"Spondylitis osteoarthritica"	"713.1"	485	2320363006	0.0
+	"Traumatic spondylopathy"	"713.2"	4	2320363006	0.0 (Unreliable)
+	"Traumatic arthritis"	"714.0"	21	2320363006	0.0
+	"Other"	"714.9"	138	2320363006	0.0
+	"Arthritis, unspecified"	"715"	2810	2320363006	0.1
+	"Dermatomyositis"	"716.0"	992	2320363006	0.0
+	"Polymyositis"	"716.1"	994	2320363006	0.0
+	"Lumbago"	"717.0"	0	2320363006	0.0 (Unreliable)
+	"Scapulohumeral myofibrosis"	"717.1"	1	2320363006	0.0 (Unreliable)
+	"Torticollis not specified as congential, pyschogenic, or traumatic"	"717.2"	13	2320363006	0.0 (Unreliable)
+	"Other muscular rheumatism, fibrositis, and myalgia"	"717.9"	162	2320363006	0.0
+	"Rheumatism, unspecified"	"718"	64	2320363006	0.0
+	"Acute osteomyelitis"	"720.0"	95	2320363006	0.0
+	"Chronic osteomyelitis"	"720.1"	371	2320363006	0.0
+	"Unspecified ostemyelitis"	"720.2"	1503	2320363006	0.1
+	"Periostitis without mention of osteomyelitis"	"720.3"	9	2320363006	0.0 (Unreliable)
+	"Osteitis deformans"	"721"	1038	2320363006	0.0
+	"Juvenile osteochondrosis of spine"	"722.0"	0	2320363006	0.0 (Unreliable)
+	"Juvenile osteochondrosis of hip"	"722.1"	14	2320363006	0.0 (Unreliable)
+	"Other juvenile osteochondrosis"	"722.2"	6	2320363006	0.0 (Unreliable)
+	"Slipped upper femoral epiphysis, nontraumatic"	"722.3"	3	2320363006	0.0 (Unreliable)
+	"Apophysitis, calcaneal"	"722.4"	1	2320363006	0.0 (Unreliable)
+	"Osteochondritis dissecans"	"722.5"	2	2320363006	0.0 (Unreliable)
+	"Unspecified forms of osteochondrosis"	"722.9"	1	2320363006	0.0 (Unreliable)
+	"Osteoporosis"	"723.0"	2023	2320363006	0.1
+	"Hypertrophic pulmonary osteoarthropathy"	"723.1"	3	2320363006	0.0 (Unreliable)
+	"Spontaneous fracture"	"723.2"	764	2320363006	0.0
+	"Cyst of bone, except jaw"	"723.3"	15	2320363006	0.0 (Unreliable)
+	"Hyperostosis of skull"	"723.4"	7	2320363006	0.0 (Unreliable)
+	"Aseptic necrosis, bone"	"723.5"	61	2320363006	0.0
+	"Arrest of growth"	"723.6"	0	2320363006	0.0 (Unreliable)
+	"Calcaneal spur"	"723.7"	0	2320363006	0.0 (Unreliable)
+	"Other diseases of bone"	"723.9"	548	2320363006	0.0
+	"Recurrent dislocation of shoulder"	"724.0"	3	2320363006	0.0 (Unreliable)
+	"Other shoulder derangement"	"724.1"	0	2320363006	0.0 (Unreliable)
+	"Recurrent dislocation of elbow"	"724.2"	0	2320363006	0.0 (Unreliable)
+	"Other elbow derangement"	"724.3"	0	2320363006	0.0 (Unreliable)
+	"Recurrent dislocation of knee"	"724.4"	1	2320363006	0.0 (Unreliable)
+	"Other knee derangement"	"724.5"	18	2320363006	0.0 (Unreliable)
+	"Derangement of other joints"	"724.9"	5	2320363006	0.0 (Unreliable)
+	"Cervical"	"725.0"	86	2320363006	0.0
+	"Lumbar and lumbosacral"	"725.1"	156	2320363006	0.0
+	"Other specified site"	"725.8"	9	2320363006	0.0 (Unreliable)
+	"Unspecified site"	"725.9"	231	2320363006	0.0
+	"Affection of sacroiliac joint"	"726"	2	2320363006	0.0 (Unreliable)
+	"Of spine"	"727.0"	44	2320363006	0.0
+	"Of shoulder"	"727.1"	0	2320363006	0.0 (Unreliable)
+	"Of elbow"	"727.2"	2	2320363006	0.0 (Unreliable)
+	"Of wrist"	"727.3"	1	2320363006	0.0 (Unreliable)
+	"Of finger"	"727.4"	1	2320363006	0.0 (Unreliable)
+	"Of hip"	"727.5"	9	2320363006	0.0 (Unreliable)
+	"Of knee"	"727.6"	4	2320363006	0.0 (Unreliable)
+	"Of ankle"	"727.7"	1	2320363006	0.0 (Unreliable)
+	"Of other and multiple sites"	"727.8"	4	2320363006	0.0 (Unreliable)
+	"Of unspecified site"	"727.9"	8	2320363006	0.0 (Unreliable)
+	"Cervicalgia"	"728.0"	1	2320363006	0.0 (Unreliable)
+	"Cervicocranial syndrome"	"728.1"	0	2320363006	0.0 (Unreliable)
+	"Diffuse syndrome cerviocobrachial"	"728.2"	0	2320363006	0.0 (Unreliable)
+	"Radicular syndrome of upper limbs"	"728.3"	0	2320363006	0.0 (Unreliable)
+	"Cervial myelopathy"	"728.4"	62	2320363006	0.0
+	"Pain in thoracic spine"	"728.5"	1	2320363006	0.0 (Unreliable)
+	"Thoracic myelopathy"	"728.6"	2	2320363006	0.0 (Unreliable)
+	"Lumbalgia"	"728.7"	12	2320363006	0.0 (Unreliable)
+	"Radicular syndrome of lower limbs"	"728.8"	2	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"728.9"	44	2320363006	0.0
+	"Pseudarthrosis of spine following fusion"	"729.0"	1	2320363006	0.0 (Unreliable)
+	"Other diseases of spine NEC"	"729.1"	62	2320363006	0.0
+	"Disease shoulder NEC"	"729.2"	5	2320363006	0.0 (Unreliable)
+	"Disease elbow NEC"	"729.3"	1	2320363006	0.0 (Unreliable)
+	"Flexion contracture of fingers"	"729.4"	0	2320363006	0.0 (Unreliable)
+	"Disease hip NEC"	"729.5"	1746	2320363006	0.1
+	"Loose body in knee"	"729.6"	11	2320363006	0.0 (Unreliable)
+	"Chondromalacia of knee"	"729.7"	2	2320363006	0.0 (Unreliable)
+	"Disease knee NEC"	"729.8"	239	2320363006	0.0
+	"Disease joint NEC"	"729.9"	139	2320363006	0.0
+	"Bunion"	"730"	14	2320363006	0.0 (Unreliable)
+	"Of spine"	"731.0"	0	2320363006	0.0 (Unreliable)
+	"Of shoulder"	"731.1"	6	2320363006	0.0 (Unreliable)
+	"Of elbow"	"731.2"	8	2320363006	0.0 (Unreliable)
+	"Of wrist"	"731.3"	4	2320363006	0.0 (Unreliable)
+	"Of hand and fingers"	"731.4"	1	2320363006	0.0 (Unreliable)
+	"Of hip and buttock"	"731.5"	6	2320363006	0.0 (Unreliable)
+	"Of knee"	"731.6"	20	2320363006	0.0
+	"Of ankle"	"731.7"	0	2320363006	0.0 (Unreliable)
+	"Of foot and toe"	"731.8"	2	2320363006	0.0 (Unreliable)
+	"Of other and unspecified sites"	"731.9"	28	2320363006	0.0
+	"Infective myositis and other inflammatory diseases of tendon and fascia"	"732"	367	2320363006	0.0
+	"Myasthenia gravis"	"733.0"	2377	2320363006	0.1
+	"Muscular atrophy (idiopathic)"	"733.1"	171	2320363006	0.0
+	"Myositis ossificans"	"733.2"	25	2320363006	0.0
+	"Calcium deposit in tendon"	"733.3"	0	2320363006	0.0 (Unreliable)
+	"Short Achilles tendon"	"733.4"	4	2320363006	0.0 (Unreliable)
+	"Contracture of palmar fascia"	"733.5"	2	2320363006	0.0 (Unreliable)
+	"Residual foreign body in tissue or bone"	"733.6"	5	2320363006	0.0 (Unreliable)
+	"Other and unspecified diseases of muscle, tendon, and fascia"	"733.9"	921	2320363006	0.0
+	"Progressive systemic sclerosis"	"734.0"	6519	2320363006	0.3
+	"Systemic lupus erythematosus"	"734.1"	8588	2320363006	0.4
+	"Other and unspecified"	"734.9"	1286	2320363006	0.1
+	"Scoliosis"	"735.0"	258	2320363006	0.0
+	"Kyphosis"	"735.1"	280	2320363006	0.0
+	"Kyphoscoliosis"	"735.2"	1083	2320363006	0.0
+	"Other and unspecified curvature of spine"	"735.9"	24	2320363006	0.0
+	"Flat foot"	"736"	0	2320363006	0.0 (Unreliable)
+	"Hallux valgus and unspecified hallux"	"737.0"	7	2320363006	0.0 (Unreliable)
+	"Hallux varus"	"737.1"	0	2320363006	0.0 (Unreliable)
+	"Of nasal bone"	"738.0"	0	2320363006	0.0 (Unreliable)
+	"Of head"	"738.1"	2	2320363006	0.0 (Unreliable)
+	"Of forearm, excluding fingers"	"738.2"	0	2320363006	0.0 (Unreliable)
+	"Of fingers"	"738.3"	0	2320363006	0.0 (Unreliable)
+	"Of hip"	"738.4"	5	2320363006	0.0 (Unreliable)
+	"Of leg NEC"	"738.5"	26	2320363006	0.0
+	"Of ankle and foot, excluding toes, acquired"	"738.6"	1	2320363006	0.0 (Unreliable)
+	"Of toes NEC"	"738.7"	5	2320363006	0.0 (Unreliable)
+	"Of other specified sites"	"738.8"	91	2320363006	0.0
+	"Of unspecified site"	"738.9"	15	2320363006	0.0 (Unreliable)
+	"Anencephalus"	"740"	9360	2320363006	0.4
+	"With hydrocephalus"	"741.0"	4442	2320363006	0.2
+	"Without mention of hydrocephalus"	"741.9"	2566	2320363006	0.1
+	"Congenital hydrocephalus"	"742"	8361	2320363006	0.4
+	"Encephalocele"	"743.0"	1128	2320363006	0.0
+	"Microcephalus"	"743.1"	2178	2320363006	0.1
+	"Other specified anomalies of brain"	"743.2"	1243	2320363006	0.1
+	"Other specified anomalies of spinal cord"	"743.3"	70	2320363006	0.0
+	"Neurofibromatosis"	"743.4"	506	2320363006	0.0
+	"Other specified anomalies of nervous system"	"743.8"	166	2320363006	0.0
+	"Unspecified anomalies of brain, spinal cord, and nervous system"	"743.9"	2327	2320363006	0.1
+	"Anophthalmos"	"744.0"	26	2320363006	0.0
+	"Microphthalmos"	"744.1"	0	2320363006	0.0 (Unreliable)
+	"Buphthalmos"	"744.2"	2	2320363006	0.0 (Unreliable)
+	"Congenital cataract"	"744.3"	8	2320363006	0.0 (Unreliable)
+	"Coloboma"	"744.4"	0	2320363006	0.0 (Unreliable)
+	"Aniridia"	"744.5"	0	2320363006	0.0 (Unreliable)
+	"Retinitis pigmentosa"	"744.6"	1	2320363006	0.0 (Unreliable)
+	"Congenital blepharoptosis"	"744.7"	0	2320363006	0.0 (Unreliable)
+	"Other specified anomalies of eye"	"744.8"	5	2320363006	0.0 (Unreliable)
+	"Unspecified anomalies of eye"	"744.9"	2	2320363006	0.0 (Unreliable)
+	"Anomalies of ear causing impairment of hearing"	"745.0"	4	2320363006	0.0 (Unreliable)
+	"Accessory auricle"	"745.1"	0	2320363006	0.0 (Unreliable)
+	"Other specified anomalies of ear"	"745.2"	1	2320363006	0.0 (Unreliable)
+	"Unspecified anomalies of ear"	"745.3"	3	2320363006	0.0 (Unreliable)
+	"Branchial cleft, cyst or fistula; preauricular sinus"	"745.4"	8	2320363006	0.0 (Unreliable)
+	"Webbing of neck"	"745.5"	2	2320363006	0.0 (Unreliable)
+	"Other specified anomalies of face and neck"	"745.8"	8	2320363006	0.0 (Unreliable)
+	"Unspecified anomalies of face and neck"	"745.9"	18	2320363006	0.0 (Unreliable)
+	"Common truncus"	"746.0"	1552	2320363006	0.1
+	"Transposition of great vessels"	"746.1"	4562	2320363006	0.2
+	"Tetralogy of Fallot"	"746.2"	4310	2320363006	0.2
+	"Ventricular septal defect"	"746.3"	6331	2320363006	0.3
+	"Atrial septal defect"	"746.4"	3691	2320363006	0.2
+	"Ostium atrioventriculare commune"	"746.5"	1097	2320363006	0.0
+	"Anomalies of heart valve"	"746.6"	8916	2320363006	0.4
+	"Fibroelastosis cordis"	"746.7"	1772	2320363006	0.1
+	"Other specified anomalies of heart"	"746.8"	5533	2320363006	0.2
+	"Unspecified anomalies of heart"	"746.9"	26863	2320363006	1.2
+	"Patent ductus arteriosus"	"747.0"	2441	2320363006	0.1
+	"Coarctation of aorta"	"747.1"	2214	2320363006	0.1
+	"Other anomalies of aorta"	"747.2"	804	2320363006	0.0
+	"Stenosis or atresia of pulmonary artery"	"747.3"	1725	2320363006	0.1
+	"Anomalies of great veins"	"747.4"	1235	2320363006	0.1
+	"Absence or hypoplasia of umbilical artery"	"747.5"	25	2320363006	0.0
+	"Other anomalies of peripheral vascular system"	"747.6"	2275	2320363006	0.1
+	"Other specified anomalies of circulatory system"	"747.8"	2258	2320363006	0.1
+	"Unspecified anomalies of circulatory system"	"747.9"	665	2320363006	0.0
+	"Choanal atresia"	"748.0"	72	2320363006	0.0
+	"Other anomalies of nose"	"748.1"	37	2320363006	0.0
+	"Web of larynx"	"748.2"	17	2320363006	0.0 (Unreliable)
+	"Other anomalies of larynx, trachea, and bronchus"	"748.3"	1639	2320363006	0.1
+	"Congenital cystic lung"	"748.4"	798	2320363006	0.0
+	"Agenesis of lung"	"748.5"	370	2320363006	0.0
+	"Other anomalies of lung"	"748.6"	4178	2320363006	0.2
+	"Other specified anomalies of respiratory system"	"748.8"	25	2320363006	0.0
+	"Unspecified anomalies of respiratory system"	"748.9"	227	2320363006	0.0
+	"Cleft palate"	"749.0"	185	2320363006	0.0
+	"Cleft lip"	"749.1"	21	2320363006	0.0
+	"Cleft palate with cleft lip"	"749.2"	133	2320363006	0.0
+	"Anomalies of tongue"	"750.0"	29	2320363006	0.0
+	"Pyloric stenosis"	"750.1"	127	2320363006	0.0
+	"Tracheo-esophageal fistula"	"750.2"	589	2320363006	0.0
+	"Esophageal atresia and stenosis"	"750.3"	418	2320363006	0.0
+	"Other specified anomalies of upper alimentary tract"	"750.8"	531	2320363006	0.0
+	"Unspecified anomalies of upper alimentary tract"	"750.9"	83	2320363006	0.0
+	"Meckel's diverticulum"	"751.0"	324	2320363006	0.0
+	"Anomalies of intestinal fixation"	"751.1"	494	2320363006	0.0
+	"Hirschsprung's disease"	"751.2"	627	2320363006	0.0
+	"Atresia and stenosis of rectum and anal canal"	"751.3"	353	2320363006	0.0
+	"Other anomalies of intestine"	"751.4"	1791	2320363006	0.1
+	"Atresia of biliary ducts"	"751.5"	1529	2320363006	0.1
+	"Other anomalies of gallbladder, bile ducts, and liver"	"751.6"	783	2320363006	0.0
+	"Anomalies of pancreas"	"751.7"	57	2320363006	0.0
+	"Other specified anomalies of digestive system"	"751.8"	53	2320363006	0.0
+	"Unspecified anomalies of digestive system"	"751.9"	114	2320363006	0.0
+	"Indeterminate sex"	"752.0"	8	2320363006	0.0 (Unreliable)
+	"Undescended testicle"	"752.1"	10	2320363006	0.0 (Unreliable)
+	"Hypospadias"	"752.2"	13	2320363006	0.0 (Unreliable)
+	"Epispadias"	"752.3"	5	2320363006	0.0 (Unreliable)
+	"Congenital hydrocele"	"752.4"	2	2320363006	0.0 (Unreliable)
+	"Anomalies of ovary, fallopian tube, and uterus"	"752.5"	9	2320363006	0.0 (Unreliable)
+	"Anomalies of vagina and external female genitalia"	"752.6"	4	2320363006	0.0 (Unreliable)
+	"Pseudohermaphroditism"	"752.7"	4	2320363006	0.0 (Unreliable)
+	"Other specified anomalies of genital organs"	"752.8"	19	2320363006	0.0 (Unreliable)
+	"Unspecified anomalies of genital organs"	"752.9"	76	2320363006	0.0
+	"Renal agenesis"	"753.0"	2047	2320363006	0.1
+	"Cystic kidney disease"	"753.1"	6919	2320363006	0.3
+	"Obstructive defects of urinary tract"	"753.2"	435	2320363006	0.0
+	"Other specified anomalies of kidney"	"753.3"	267	2320363006	0.0
+	"Other specified anomalies of ureter"	"753.4"	29	2320363006	0.0
+	"Extrophy of urinary bladder"	"753.5"	53	2320363006	0.0
+	"Atresia and stenosis of urethra and bladder neck"	"753.6"	165	2320363006	0.0
+	"Other specified anomalies of bladder and urethra"	"753.8"	99	2320363006	0.0
+	"Unspecified anomalies of urinary system"	"753.9"	580	2320363006	0.0
+	"Talipes cavus"	"754.0"	1	2320363006	0.0 (Unreliable)
+	"Talipes equinovarus"	"754.1"	6	2320363006	0.0 (Unreliable)
+	"Talipes calcaneovalgus"	"754.2"	0	2320363006	0.0 (Unreliable)
+	"Talipes, other specified types NEC"	"754.8"	0	2320363006	0.0 (Unreliable)
+	"Talipes, unspecified type"	"754.9"	16	2320363006	0.0 (Unreliable)
+	"Polydactyly"	"755.0"	3	2320363006	0.0 (Unreliable)
+	"Syndactyly"	"755.1"	3	2320363006	0.0 (Unreliable)
+	"Reduction deformity of upper limb"	"755.2"	3	2320363006	0.0 (Unreliable)
+	"Reduction deformity of lower limb"	"755.3"	7	2320363006	0.0 (Unreliable)
+	"Reduction deformity, unspecified limb"	"755.4"	12	2320363006	0.0 (Unreliable)
+	"Other anomaly of upper limb (including shoulder girdle)"	"755.5"	15	2320363006	0.0 (Unreliable)
+	"Congenital dislocation of hip"	"755.6"	10	2320363006	0.0 (Unreliable)
+	"Other anomaly of lower limb (including pelvic girdle)"	"755.7"	33	2320363006	0.0
+	"Generalised flexion contracture of limb joints"	"755.8"	105	2320363006	0.0
+	"Other and unspecified anomaly of unspecified limb"	"755.9"	11	2320363006	0.0 (Unreliable)
+	"Anomalies of skull and face bones"	"756.0"	717	2320363006	0.0
+	"Anomalies of lumbosacral joint"	"756.1"	44	2320363006	0.0
+	"Other anomalies of spine"	"756.2"	444	2320363006	0.0
+	"Cervical rib"	"756.3"	0	2320363006	0.0 (Unreliable)
+	"Other anomalies of ribs and sternum"	"756.4"	311	2320363006	0.0
+	"Chondrodystrophy"	"756.5"	474	2320363006	0.0
+	"Osteogenesis imperfecta"	"756.6"	481	2320363006	0.0
+	"Other generalized anomalies of skeleton"	"756.7"	191	2320363006	0.0
+	"Other specified anomalies of muscle, tendon, and fascia"	"756.8"	1205	2320363006	0.1
+	"Unspecified anomalies of musculoskeletal system"	"756.9"	186	2320363006	0.0
+	"Hereditary edema of legs"	"757.0"	6	2320363006	0.0 (Unreliable)
+	"Pigmented nevus"	"757.1"	9	2320363006	0.0 (Unreliable)
+	"Other specified anomalies of skin"	"757.2"	302	2320363006	0.0
+	"Specified anomalies of hair"	"757.3"	3	2320363006	0.0 (Unreliable)
+	"Specified anomalies of nails"	"757.4"	0	2320363006	0.0 (Unreliable)
+	"Unspecified anomalies of skin, hair, and nails"	"757.9"	10	2320363006	0.0 (Unreliable)
+	"Anomalies of spleen"	"758.0"	70	2320363006	0.0
+	"Anomalies of adrenal gland"	"758.1"	222	2320363006	0.0
+	"Anomalies of thyroid gland"	"758.2"	11	2320363006	0.0 (Unreliable)
+	"Anomalies of other endocrine glands"	"758.3"	98	2320363006	0.0
+	"Other specified congenital anomaly"	"758.8"	918	2320363006	0.0
+	"Unspecified congenital anomaly"	"758.9"	1338	2320363006	0.1
+	"Situs inversus"	"759.0"	95	2320363006	0.0
+	"Conjoined twins"	"759.1"	220	2320363006	0.0
+	"Other forms of monster"	"759.2"	351	2320363006	0.0
+	"Down's disease"	"759.3"	2467	2320363006	0.1
+	"Other syndromes due to autosomal abnormality"	"759.4"	3191	2320363006	0.1
+	"Syndromes due to sex chromosome abnormality"	"759.5"	105	2320363006	0.0
+	"Tuberous sclerosis"	"759.6"	237	2320363006	0.0
+	"Other specified syndromes"	"759.8"	1242	2320363006	0.1
+	"Multiple congenital anomalies, unspecified"	"759.9"	8841	2320363006	0.4
+	"Chronic rheumatic heart disease"	"760.0"	8	2320363006	0.0 (Unreliable)
+	"Congenital heart disease"	"760.1"	5	2320363006	0.0 (Unreliable)
+	"Chronic hypertension"	"760.2"	29	2320363006	0.0
+	"Other chronic diseases of circulatory system"	"760.3"	26	2320363006	0.0
+	"Chronic nephritis"	"760.4"	12	2320363006	0.0 (Unreliable)
+	"Other chronic diseases of genitourinary system"	"760.5"	23	2320363006	0.0
+	"Syphilis"	"761.0"	24	2320363006	0.0
+	"Diabetes mellitus"	"761.1"	1661	2320363006	0.1
+	"Influenza"	"761.2"	60	2320363006	0.0
+	"Rubella"	"761.3"	160	2320363006	0.0
+	"Toxoplasmosis"	"761.4"	8	2320363006	0.0 (Unreliable)
+	"Injury"	"761.5"	246	2320363006	0.0
+	"Operation"	"761.6"	62	2320363006	0.0
+	"Chemical substances transmitted through placenta"	"761.7"	120	2320363006	0.0
+	"Other maternal causes"	"761.9"	963	2320363006	0.0
+	"Renal disease arising during pregnancy"	"762.0"	113	2320363006	0.0
+	"Pre-eclampsia of pregnancy"	"762.1"	476	2320363006	0.0
+	"Eclampsia of pregnancy"	"762.2"	327	2320363006	0.0
+	"Toxemia unspecified"	"762.3"	575	2320363006	0.0
+	"Hyperemesis gravidarum"	"762.4"	5	2320363006	0.0 (Unreliable)
+	"Acute and subacute necrosis of liver arising during pregnancy"	"762.5"	26	2320363006	0.0
+	"Other toxemia of pregnancy"	"762.9"	10	2320363006	0.0 (Unreliable)
+	"Pyelitis and pyelonephritis of pregnancy"	"763.0"	102	2320363006	0.0
+	"Other infections of genitourinary tract during pregnancy"	"763.1"	209	2320363006	0.0
+	"Other"	"763.9"	2014	2320363006	0.1
+	"With birth injury to brain"	"764.0"	21	2320363006	0.0
+	"With birth injury to spinal cord"	"764.1"	1	2320363006	0.0 (Unreliable)
+	"With birth injury to bone or nerve"	"764.2"	1	2320363006	0.0 (Unreliable)
+	"With other or unspecified birth injury"	"764.3"	10	2320363006	0.0 (Unreliable)
+	"With asphyxia, anoxia, or hypoxia"	"764.4"	108	2320363006	0.0
+	"Without mention of birth injury, asphyxia, anoxia, or hypoxia"	"764.9"	129	2320363006	0.0
+	"With birth injury to brain"	"765.0"	88	2320363006	0.0
+	"With birth injury to spinal cord"	"765.1"	1	2320363006	0.0 (Unreliable)
+	"With birth injury to bone or nerve"	"765.2"	0	2320363006	0.0 (Unreliable)
+	"With other or unspecified birth injury"	"765.3"	24	2320363006	0.0
+	"With asphyxia, anoxia, or hypoxia"	"765.4"	170	2320363006	0.0
+	"Without mention of birth injury, asphyxia, anoxia, or hypoxia"	"765.9"	30	2320363006	0.0
+	"With birth injury to brain"	"766.0"	754	2320363006	0.0
+	"With birth injury to spinal cord"	"766.1"	18	2320363006	0.0 (Unreliable)
+	"With birth injury to bone or nerve"	"766.2"	22	2320363006	0.0
+	"With other or unspecified birth injury"	"766.3"	124	2320363006	0.0
+	"With asphyxia, anoxia, or hypoxia"	"766.4"	1561	2320363006	0.1
+	"Without mention of birth injury, asphyxia, anoxia, or hypoxia"	"766.9"	480	2320363006	0.0
+	"With birth injury to brain"	"767.0"	145	2320363006	0.0
+	"With birth injury to spinal cord"	"767.1"	1	2320363006	0.0 (Unreliable)
+	"With birth injury to bone or nerve"	"767.2"	2	2320363006	0.0 (Unreliable)
+	"With other or unspecified birth injury"	"767.3"	8	2320363006	0.0 (Unreliable)
+	"With asphyxia, anoxia, or hypoxia"	"767.4"	203	2320363006	0.0
+	"Without mention of birth injury, asphyxia, anoxia, or hypoxia"	"767.9"	123	2320363006	0.0
+	"With birth injury to brain"	"768.0"	440	2320363006	0.0
+	"With birth injury to spinal cord"	"768.1"	1	2320363006	0.0 (Unreliable)
+	"With birth injury to bone or nerve"	"768.2"	12	2320363006	0.0 (Unreliable)
+	"With other or unspecified birth injury"	"768.3"	45	2320363006	0.0
+	"With ashpyxia, anoxia, or hypoxia"	"768.4"	659	2320363006	0.0
+	"Without mention of birth injury, ashpyxia, anoxia, or hypoxia"	"768.9"	187	2320363006	0.0
+	"Incompetent cervix"	"769.0"	2515	2320363006	0.1
+	"Premature rupture of membranes"	"769.1"	7400	2320363006	0.3
+	"Hydramnios"	"769.2"	1050	2320363006	0.0
+	"Multiple pregnancy"	"769.4"	30204	2320363006	1.3
+	"Maternal death unspecified"	"769.5"	29	2320363006	0.0
+	"Other"	"769.9"	643	2320363006	0.0
+	"Placenta previa"	"770.0"	2893	2320363006	0.1
+	"Premature separation of placenta"	"770.1"	12368	2320363006	0.5
+	"Placental infarction"	"770.2"	178	2320363006	0.0
+	"Other"	"770.8"	490	2320363006	0.0
+	"Unspecified"	"770.9"	1104	2320363006	0.0
+	"Compression of cord"	"771.0"	545	2320363006	0.0
+	"Prolapse of cord without mention of compression"	"771.1"	1506	2320363006	0.1
+	"Other"	"771.9"	1606	2320363006	0.1
+	"To brain"	"772.0"	19092	2320363006	0.8
+	"To spinal cord"	"772.1"	37	2320363006	0.0
+	"To bone or nerve"	"772.2"	125	2320363006	0.0
+	"Other and unspecified"	"772.9"	1202	2320363006	0.1
+	"With Rh incompatibility"	"774.0"	29	2320363006	0.0
+	"With ABO incompatibility"	"774.1"	12	2320363006	0.0 (Unreliable)
+	"With other or unspecified blood incompatibility"	"774.2"	7	2320363006	0.0 (Unreliable)
+	"Without mention of cause"	"774.9"	122	2320363006	0.0
+	"With Rh incompatibility"	"775.0"	1542	2320363006	0.1
+	"With ABO incompatibility"	"775.1"	97	2320363006	0.0
+	"With other or unspecified blood incomatibility"	"775.2"	92	2320363006	0.0
+	"Without mention of cause"	"775.9"	3605	2320363006	0.2
+	"Aspiration of content of birth canal"	"776.0"	5985	2320363006	0.3
+	"Hyaline membrane disease"	"776.1"	46047	2320363006	2.0
+	"Respiratory distress syndrome"	"776.2"	43871	2320363006	1.9
+	"Fetal distress"	"776.3"	880	2320363006	0.0
+	"Intrauterine anoxia"	"776.4"	1039	2320363006	0.0
+	"Asphyxia of newborn, unspecified"	"776.9"	68197	2320363006	2.9
+	"Immaturity, unqualified"	"777"	66691	2320363006	2.9
+	"Fetal blood loss before birth"	"778.0"	36	2320363006	0.0
+	"Postmaturity"	"778.1"	32	2320363006	0.0
+	"Hemorrhagic disease of newborn"	"778.2"	5597	2320363006	0.2
+	"Cold injury syndrome"	"778.3"	6	2320363006	0.0 (Unreliable)
+	"Other"	"778.9"	19150	2320363006	0.8
+	"Coma and stupor"	"780.0"	267	2320363006	0.0
+	"Delirium"	"780.1"	2	2320363006	0.0 (Unreliable)
+	"Convulsions"	"780.2"	1983	2320363006	0.1
+	"Abnormal involuntary movement"	"780.3"	13	2320363006	0.0 (Unreliable)
+	"Disturbance of coordination"	"780.4"	10	2320363006	0.0 (Unreliable)
+	"Vertigo"	"780.5"	4	2320363006	0.0 (Unreliable)
+	"Disturbance of sleep"	"780.6"	0	2320363006	0.0 (Unreliable)
+	"Disturbance of memory"	"780.7"	0	2320363006	0.0 (Unreliable)
+	"Meningismus"	"780.8"	1	2320363006	0.0 (Unreliable)
+	"Disturbance of vision except defective sight"	"781.0"	0	2320363006	0.0 (Unreliable)
+	"Oculomotor disturbance"	"781.1"	1	2320363006	0.0 (Unreliable)
+	"Photophobia"	"781.2"	0	2320363006	0.0 (Unreliable)
+	"Disturbance of hearing except deafness"	"781.3"	0	2320363006	0.0 (Unreliable)
+	"Disturbance of cranial nerves except optic, oculomotor, and auditory"	"781.4"	3	2320363006	0.0 (Unreliable)
+	"Disturbance of speech"	"781.5"	1	2320363006	0.0 (Unreliable)
+	"Other disturbance of sensation"	"781.6"	0	2320363006	0.0 (Unreliable)
+	"Encephalopathy"	"781.7"	688	2320363006	0.0
+	"Hallucinations"	"781.8"	0	2320363006	0.0 (Unreliable)
+	"Precordial pain"	"782.0"	1	2320363006	0.0 (Unreliable)
+	"Palpitation"	"782.1"	0	2320363006	0.0 (Unreliable)
+	"Tachycardia"	"782.2"	19	2320363006	0.0 (Unreliable)
+	"Pallor and cyanosis"	"782.3"	3	2320363006	0.0 (Unreliable)
+	"Acute heart failure, undefined"	"782.4"	27555	2320363006	1.2
+	"Syncope or collapse"	"782.5"	210	2320363006	0.0
+	"Edema and dropsy"	"782.6"	68	2320363006	0.0
+	"Enlargment of lymph node"	"782.7"	62	2320363006	0.0
+	"Splenomegaly"	"782.8"	1	2320363006	0.0 (Unreliable)
+	"Shock without mention of trauma"	"782.9"	1326	2320363006	0.1
+	"Epistaxis"	"783.0"	57	2320363006	0.0
+	"Hemoptysis"	"783.1"	997	2320363006	0.0
+	"Dyspnea"	"783.2"	264	2320363006	0.0
+	"Cough"	"783.3"	4	2320363006	0.0 (Unreliable)
+	"Excess of sputum"	"783.4"	0	2320363006	0.0 (Unreliable)
+	"Change in voice"	"783.5"	0	2320363006	0.0 (Unreliable)
+	"Stridor"	"783.6"	0	2320363006	0.0 (Unreliable)
+	"Pain in chest"	"783.7"	122	2320363006	0.0
+	"Anorexia"	"784.0"	17	2320363006	0.0 (Unreliable)
+	"Nausea and vomiting"	"784.1"	107	2320363006	0.0
+	"Pylorospasm"	"784.2"	0	2320363006	0.0 (Unreliable)
+	"Heartburn"	"784.3"	0	2320363006	0.0 (Unreliable)
+	"Dysphagia"	"784.4"	16	2320363006	0.0 (Unreliable)
+	"Hematemesis"	"784.5"	973	2320363006	0.0
+	"Hiccough"	"784.6"	0	2320363006	0.0 (Unreliable)
+	"Eructation"	"784.7"	0	2320363006	0.0 (Unreliable)
+	"Abdominal swelling (not referable to any particular organ)"	"785.0"	3	2320363006	0.0 (Unreliable)
+	"Hepatomegaly"	"785.1"	28	2320363006	0.0
+	"Jaundice (not of newborn)"	"785.2"	114	2320363006	0.0
+	"Ascites"	"785.3"	68	2320363006	0.0
+	"Flatulence"	"785.4"	10	2320363006	0.0 (Unreliable)
+	"Abdominal pain"	"785.5"	193	2320363006	0.0
+	"Incontinence of feces"	"785.6"	0	2320363006	0.0 (Unreliable)
+	"Melena (not of newborn)"	"785.7"	10	2320363006	0.0 (Unreliable)
+	"Visible peristalsis"	"785.8"	0	2320363006	0.0 (Unreliable)
+	"Pain referable to urinary system"	"786.0"	1	2320363006	0.0 (Unreliable)
+	"Retention of urine"	"786.1"	45	2320363006	0.0
+	"Incontinence of urine"	"786.2"	6	2320363006	0.0 (Unreliable)
+	"Frequency of micturition"	"786.3"	0	2320363006	0.0 (Unreliable)
+	"Polyuria"	"786.4"	2	2320363006	0.0 (Unreliable)
+	"Oliguria, anuria (not of newborn)"	"786.5"	65	2320363006	0.0
+	"Priapism"	"786.6"	0	2320363006	0.0 (Unreliable)
+	"Pain referable to genital organs, including dyspareunia"	"786.7"	0	2320363006	0.0 (Unreliable)
+	"Transient paralysis of limb, cause unknown"	"787.0"	0	2320363006	0.0 (Unreliable)
+	"Pain in limb"	"787.1"	5	2320363006	0.0 (Unreliable)
+	"Swelling of limb"	"787.2"	0	2320363006	0.0 (Unreliable)
+	"Pain in joint"	"787.3"	0	2320363006	0.0 (Unreliable)
+	"Swelling of joint"	"787.4"	1	2320363006	0.0 (Unreliable)
+	"Difficulty in walking"	"787.5"	0	2320363006	0.0 (Unreliable)
+	"Abnormality of gait"	"787.6"	0	2320363006	0.0 (Unreliable)
+	"Electrolyte disorders"	"788.0"	1944	2320363006	0.1
+	"Excessive sweating"	"788.1"	0	2320363006	0.0 (Unreliable)
+	"Rash"	"788.2"	2	2320363006	0.0 (Unreliable)
+	"Subcutaneous nodules"	"788.3"	1	2320363006	0.0 (Unreliable)
+	"Loss of weight"	"788.4"	4	2320363006	0.0 (Unreliable)
+	"Tetany"	"788.5"	17	2320363006	0.0 (Unreliable)
+	"Pyrexia of unknown origin"	"788.6"	525	2320363006	0.0
+	"Other specified symptoms not classifiable elsewhere"	"788.9"	132	2320363006	0.0
+	"Albuminuria"	"789.0"	0	2320363006	0.0 (Unreliable)
+	"Pyuria and bacteriuria"	"789.1"	3	2320363006	0.0 (Unreliable)
+	"Chyluria"	"789.2"	0	2320363006	0.0 (Unreliable)
+	"Hematuria"	"789.3"	6	2320363006	0.0 (Unreliable)
+	"Hemoglobinuria"	"789.4"	0	2320363006	0.0 (Unreliable)
+	"Glycosuria"	"789.5"	1	2320363006	0.0 (Unreliable)
+	"Acetonuria"	"789.6"	0	2320363006	0.0 (Unreliable)
+	"Other"	"789.9"	0	2320363006	0.0 (Unreliable)
+	"Nervousness"	"790.0"	2	2320363006	0.0 (Unreliable)
+	"Debility and undue fatigue"	"790.1"	513	2320363006	0.0
+	"Depression"	"790.2"	15	2320363006	0.0 (Unreliable)
+	"Headache"	"791"	14	2320363006	0.0 (Unreliable)
+	"Uremia"	"792"	5606	2320363006	0.2
+	"Senility without mention of psychosis"	"794"	14736	2320363006	0.6
+	"Sudden death (cause unknown)"	"795"	6987	2320363006	0.3
+	"Sudden infant death syndrome, under one year of age"	"795.0"	25291	2320363006	1.1
+	"Sudden infant death syndrome, one year of age"	"795.1"	465	2320363006	0.0
+	"All other sudden death, age two years and over"	"795.2"	1193	2320363006	0.1
+	"Other ill-defined conditions"	"796.0"	21713	2320363006	0.9
+	"Found dead (cause unknown)"	"796.2"	4381	2320363006	0.2
+	"Died without sign of disease"	"796.3"	115296	2320363006	5.0
+	"Other unknown and unspecified causes"	"796.9"	83045	2320363006	3.6
+	"Railway employee"	"E800.0"	136	2320363006	0.0
+	"Passenger on railway"	"E800.1"	65	2320363006	0.0
+	"Pedestrian"	"E800.2"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E800.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E800.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E800.9"	11	2320363006	0.0 (Unreliable)
+	"Railway employee"	"E801.0"	13	2320363006	0.0 (Unreliable)
+	"Passenger on railway"	"E801.1"	0	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E801.2"	1	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E801.3"	70	2320363006	0.0
+	"Other specified person"	"E801.8"	30	2320363006	0.0
+	"Unspecified person"	"E801.9"	22	2320363006	0.0
+	"Railway employee"	"E802.0"	66	2320363006	0.0
+	"Passenger on railway"	"E802.1"	10	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E802.2"	5	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E802.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E802.8"	17	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E802.9"	36	2320363006	0.0
+	"Railway employee"	"E803.0"	9	2320363006	0.0 (Unreliable)
+	"Passenger on railway"	"E803.1"	6	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E803.2"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E803.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E803.8"	2	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E803.9"	14	2320363006	0.0 (Unreliable)
+	"Railway employee"	"E804.0"	128	2320363006	0.0
+	"Passenger on railway"	"E804.1"	57	2320363006	0.0
+	"Pedestrian"	"E804.2"	11	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E804.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E804.8"	78	2320363006	0.0
+	"Unspecified person"	"E804.9"	374	2320363006	0.0
+	"Railway employee"	"E805.0"	514	2320363006	0.0
+	"Passenger on railway"	"E805.1"	4	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E805.2"	5371	2320363006	0.2
+	"Pedal cyclist"	"E805.3"	15	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E805.8"	41	2320363006	0.0
+	"Unspecified person"	"E805.9"	400	2320363006	0.0
+	"Railway employee"	"E806.0"	31	2320363006	0.0
+	"Passenger on railway"	"E806.1"	9	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E806.2"	2	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E806.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E806.8"	11	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E806.9"	32	2320363006	0.0
+	"Railway employee"	"E807.0"	102	2320363006	0.0
+	"Passenger on railway"	"E807.1"	3	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E807.2"	14	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E807.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E807.8"	5	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E807.9"	154	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E810.0"	5363	2320363006	0.2
+	"Passenger in motor vehicle other than motorcycle"	"E810.1"	2912	2320363006	0.1
+	"Motorcyclist"	"E810.2"	185	2320363006	0.0
+	"Passenger on motorcycle"	"E810.3"	17	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E810.4"	0	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E810.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E810.6"	3	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E810.7"	24	2320363006	0.0
+	"Other specified person"	"E810.8"	27	2320363006	0.0
+	"Unspecified person"	"E810.9"	4817	2320363006	0.2
+	"Driver of motor vehicle other than motorcycle"	"E811.0"	8	2320363006	0.0 (Unreliable)
+	"Passenger in motor vehicle other than motorcycle"	"E811.1"	6	2320363006	0.0 (Unreliable)
+	"Motorcyclist"	"E811.2"	2	2320363006	0.0 (Unreliable)
+	"Passenger on motorcycle"	"E811.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E811.4"	2	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E811.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E811.6"	0	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E811.7"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E811.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E811.9"	2	2320363006	0.0 (Unreliable)
+	"Driver of motor vehicle other than motorcycle"	"E812.0"	86128	2320363006	3.7
+	"Passenger in motor vehicle other than motorcycle"	"E812.1"	56327	2320363006	2.4
+	"Motorcyclist"	"E812.2"	12322	2320363006	0.5
+	"Passenger on motorcycle"	"E812.3"	1948	2320363006	0.1
+	"Occupant of street car"	"E812.4"	3	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E812.5"	1	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E812.6"	13	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E812.7"	342	2320363006	0.0
+	"Other specified person"	"E812.8"	42	2320363006	0.0
+	"Unspecified person"	"E812.9"	48554	2320363006	2.1
+	"Driver of motor vehicle other than motorcycle"	"E813.0"	35	2320363006	0.0
+	"Passenger in motor vehicle other than motorcycle"	"E813.1"	14	2320363006	0.0 (Unreliable)
+	"Motorcyclist"	"E813.2"	22	2320363006	0.0
+	"Passenger on motorcycle"	"E813.3"	4	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E813.4"	0	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E813.5"	171	2320363006	0.0
+	"Pedal cyclist"	"E813.6"	8394	2320363006	0.4
+	"Pedestrian"	"E813.7"	14	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E813.8"	14	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E813.9"	753	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E814.0"	11	2320363006	0.0 (Unreliable)
+	"Passenger in motor vehicle other than motorcycle"	"E814.1"	15	2320363006	0.0 (Unreliable)
+	"Motorcyclist"	"E814.2"	23	2320363006	0.0
+	"Passenger on motorcycle"	"E814.3"	5	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E814.4"	13	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E814.5"	2	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E814.6"	14	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E814.7"	92469	2320363006	4.0
+	"Other specified person"	"E814.8"	5	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E814.9"	27	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E815.0"	33128	2320363006	1.4
+	"Passenger in motor vehicle other than motorcycle"	"E815.1"	16521	2320363006	0.7
+	"Motorcyclist"	"E815.2"	3401	2320363006	0.1
+	"Passenger on motorcycle"	"E815.3"	383	2320363006	0.0
+	"Occupant of street car"	"E815.4"	3	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E815.5"	16	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E815.6"	2	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E815.7"	33	2320363006	0.0
+	"Other specified person"	"E815.8"	290	2320363006	0.0
+	"Unspecified person"	"E815.9"	14432	2320363006	0.6
+	"Driver of motor vehicle other than motorcycle"	"E816.0"	45485	2320363006	2.0
+	"Passenger in motor vehicle other than motorcycle"	"E816.1"	23166	2320363006	1.0
+	"Motorcyclist"	"E816.2"	3361	2320363006	0.1
+	"Passenger on motorcycle"	"E816.3"	446	2320363006	0.0
+	"Occupant of street car"	"E816.4"	2	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E816.5"	1	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E816.6"	11	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E816.7"	175	2320363006	0.0
+	"Other specified person"	"E816.8"	13	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E816.9"	20692	2320363006	0.9
+	"Driver of motor vehicle other than motorcycle"	"E817.0"	5	2320363006	0.0 (Unreliable)
+	"Passenger in motor vehicle other than motorcycle"	"E817.1"	59	2320363006	0.0
+	"Motorcyclist"	"E817.2"	0	2320363006	0.0 (Unreliable)
+	"Passenger on motorcycle"	"E817.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E817.4"	3	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E817.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E817.6"	0	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E817.7"	9	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E817.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E817.9"	106	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E818.0"	654	2320363006	0.0
+	"Passenger in motor vehicle other than motorcycle"	"E818.1"	3165	2320363006	0.1
+	"Motorcyclist"	"E818.2"	227	2320363006	0.0
+	"Passenger on motorcycle"	"E818.3"	102	2320363006	0.0
+	"Occupant of street car"	"E818.4"	1	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E818.5"	2	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E818.6"	4	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E818.7"	114	2320363006	0.0
+	"Other specified person"	"E818.8"	84	2320363006	0.0
+	"Unspecified person"	"E818.9"	4724	2320363006	0.2
+	"Driver of motor vehicle other than motorcycle"	"E819.0"	4633	2320363006	0.2
+	"Passenger in motor vehicle other than motorcycle"	"E819.1"	4799	2320363006	0.2
+	"Motorcyclist"	"E819.2"	474	2320363006	0.0
+	"Passenger on motorcycle"	"E819.3"	120	2320363006	0.0
+	"Occupant of street car"	"E819.4"	1	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E819.5"	1	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E819.6"	3	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E819.7"	10	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E819.8"	7	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E819.9"	58873	2320363006	2.5
+	"Driver of motor vehicle other than motorcycle"	"E820.0"	175	2320363006	0.0
+	"Passenger in motor vehicle other than motorcycle"	"E820.1"	70	2320363006	0.0
+	"Motorcyclist"	"E820.2"	135	2320363006	0.0
+	"Passenger on motorcycle"	"E820.3"	10	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E820.4"	0	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E820.5"	4	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E820.6"	59	2320363006	0.0
+	"Pedestrian"	"E820.7"	5807	2320363006	0.3
+	"Other specified person"	"E820.8"	19	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E820.9"	311	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E821.0"	287	2320363006	0.0
+	"Passenger in motor vehicle other than motorcycle"	"E821.1"	107	2320363006	0.0
+	"Motorcyclist"	"E821.2"	203	2320363006	0.0
+	"Passenger on motorcycle"	"E821.3"	16	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E821.4"	0	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E821.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E821.6"	3	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E821.7"	29	2320363006	0.0
+	"Other specified person"	"E821.8"	8	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E821.9"	261	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E822.0"	3	2320363006	0.0 (Unreliable)
+	"Passenger in motor vehicle other than motorcycle"	"E822.1"	22	2320363006	0.0
+	"Motorcyclist"	"E822.2"	1	2320363006	0.0 (Unreliable)
+	"Passenger on motorcycle"	"E822.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E822.4"	0	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E822.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E822.6"	0	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E822.7"	13	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E822.8"	2	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E822.9"	114	2320363006	0.0
+	"Driver of motor vehicle other than motorcycle"	"E823.0"	757	2320363006	0.0
+	"Passenger in motor vehicle other than motorcycle"	"E823.1"	713	2320363006	0.0
+	"Motorcyclist"	"E823.2"	292	2320363006	0.0
+	"Passenger on motorcycle"	"E823.3"	23	2320363006	0.0
+	"Occupant of street car"	"E823.4"	1	2320363006	0.0 (Unreliable)
+	"Rider of animal; occupant of animal-drawn vehicle"	"E823.5"	0	2320363006	0.0 (Unreliable)
+	"Pedal cyclist"	"E823.6"	4	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E823.7"	201	2320363006	0.0
+	"Other specified person"	"E823.8"	33	2320363006	0.0
+	"Unspecified person"	"E823.9"	2190	2320363006	0.1
+	"Pedestrian"	"E825.0"	38	2320363006	0.0
+	"Pedal cyclist"	"E825.1"	1	2320363006	0.0 (Unreliable)
+	"Occupant of street car"	"E825.2"	7	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E825.8"	3	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E825.9"	7	2320363006	0.0 (Unreliable)
+	"Pedestrian"	"E826.0"	82	2320363006	0.0
+	"Pedal cyclist"	"E826.1"	885	2320363006	0.0
+	"Other specified person"	"E826.8"	5	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E826.9"	110	2320363006	0.0
+	"Pedestrian"	"E827.0"	33	2320363006	0.0
+	"Other specified person"	"E827.8"	1588	2320363006	0.1
+	"Unspecified person"	"E827.9"	32	2320363006	0.0
+	"Occupant of small boat"	"E830.0"	7991	2320363006	0.3
+	"Occupant of other water craft-crew"	"E830.1"	254	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E830.2"	94	2320363006	0.0
+	"Dockers, stevedores"	"E830.3"	1	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E830.8"	9	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E830.9"	43	2320363006	0.0
+	"Occupant of small boat"	"E831.0"	453	2320363006	0.0
+	"Occupant of other water craft-crew"	"E831.1"	47	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E831.2"	1	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E831.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E831.8"	7	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E831.9"	9	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E832.0"	6238	2320363006	0.3
+	"Occupant of other water craft-crew"	"E832.1"	370	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E832.2"	37	2320363006	0.0
+	"Dockers, stevedores"	"E832.3"	10	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E832.8"	12	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E832.9"	50	2320363006	0.0
+	"Occupant of small boat"	"E833.0"	4	2320363006	0.0 (Unreliable)
+	"Occupant of other water craft-crew"	"E833.1"	14	2320363006	0.0 (Unreliable)
+	"Occupant of other water craft-other than crew"	"E833.2"	1	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E833.3"	2	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E833.8"	1	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E833.9"	6	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E834.0"	12	2320363006	0.0 (Unreliable)
+	"Occupant of other water craft-crew"	"E834.1"	67	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E834.2"	4	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E834.3"	25	2320363006	0.0
+	"Other specified person"	"E834.8"	9	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E834.9"	10	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E835.0"	26	2320363006	0.0
+	"Occupant of other water craft-crew"	"E835.1"	36	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E835.2"	4	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E835.3"	3	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E835.8"	4	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E835.9"	8	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E836.0"	9	2320363006	0.0 (Unreliable)
+	"Occupant of other water craft-crew"	"E836.1"	40	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E836.2"	2	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E836.3"	8	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E836.8"	2	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E836.9"	0	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E837.0"	104	2320363006	0.0
+	"Occupant of other water craft-crew"	"E837.1"	125	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E837.2"	13	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E837.3"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E837.8"	9	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E837.9"	17	2320363006	0.0 (Unreliable)
+	"Occupant of small boat"	"E838.0"	510	2320363006	0.0
+	"Occupant of other water craft-crew"	"E838.1"	139	2320363006	0.0
+	"Occupant of other water craft-other than crew"	"E838.2"	18	2320363006	0.0 (Unreliable)
+	"Dockers, stevedores"	"E838.3"	30	2320363006	0.0
+	"Other specified person"	"E838.8"	182	2320363006	0.0
+	"Unspecified person"	"E838.9"	117	2320363006	0.0
+	"Occupant of spacecraft"	"E840.0"	3	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E840.1"	139	2320363006	0.0
+	"Occupant of commercial aircraft, crew"	"E840.2"	74	2320363006	0.0
+	"Other occupant of commercial aircraft"	"E840.3"	263	2320363006	0.0
+	"Occupant of other and unspecified aircraft"	"E840.4"	693	2320363006	0.0
+	"Ground crew, airline employee"	"E840.5"	5	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E840.8"	26	2320363006	0.0
+	"Unspecified person"	"E840.9"	18	2320363006	0.0 (Unreliable)
+	"Occupant of spacecraft"	"E841.0"	4	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E841.1"	1362	2320363006	0.1
+	"Occupant of commercial aircraft, crew"	"E841.2"	366	2320363006	0.0
+	"Other occupant of commercial aircraft"	"E841.3"	1323	2320363006	0.1
+	"Occupant of other and unspecified aircraft"	"E841.4"	12461	2320363006	0.5
+	"Ground crew, airline employee"	"E841.5"	21	2320363006	0.0
+	"Other specified person"	"E841.8"	58	2320363006	0.0
+	"Unspecified person"	"E841.9"	714	2320363006	0.0
+	"Occupant of spacecraft"	"E842.0"	1	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E842.1"	0	2320363006	0.0 (Unreliable)
+	"Occupant of commercial aircraft, crew"	"E842.2"	2	2320363006	0.0 (Unreliable)
+	"Other occupant of commercial aircraft"	"E842.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of other and unspecified aircraft"	"E842.4"	127	2320363006	0.0
+	"Ground crew, airline employee"	"E842.5"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E842.8"	17	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E842.9"	16	2320363006	0.0 (Unreliable)
+	"Occupant of spacecraft"	"E843.0"	0	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E843.1"	15	2320363006	0.0 (Unreliable)
+	"Occupant of commercial aircraft, crew"	"E843.2"	2	2320363006	0.0 (Unreliable)
+	"Other occupant of commercial aircraft"	"E843.3"	3	2320363006	0.0 (Unreliable)
+	"Occupant of other and unspecified aircraft"	"E843.4"	40	2320363006	0.0
+	"Ground crew, airline employee"	"E843.5"	2	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E843.8"	4	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E843.9"	7	2320363006	0.0 (Unreliable)
+	"Occupant of spacecraft"	"E844.0"	0	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E844.1"	32	2320363006	0.0
+	"Occupant of commercial aircraft, crew"	"E844.2"	0	2320363006	0.0 (Unreliable)
+	"Other occupant of commercial aircraft"	"E844.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of other and unspecified aircraft"	"E844.4"	49	2320363006	0.0
+	"Ground crew, airline employee"	"E844.5"	38	2320363006	0.0
+	"Other specified person"	"E844.8"	443	2320363006	0.0
+	"Unspecified person"	"E844.9"	77	2320363006	0.0
+	"Occupant of spacecraft"	"E845.0"	0	2320363006	0.0 (Unreliable)
+	"Occupant of military aircraft"	"E845.1"	0	2320363006	0.0 (Unreliable)
+	"Occupant of commercial aircraft, crew"	"E845.2"	0	2320363006	0.0 (Unreliable)
+	"Other occupant of commercial aircraft"	"E845.3"	0	2320363006	0.0 (Unreliable)
+	"Occupant of other and unspecified aircraft"	"E845.4"	0	2320363006	0.0 (Unreliable)
+	"Ground crew, airline employee"	"E845.5"	0	2320363006	0.0 (Unreliable)
+	"Other specified person"	"E845.8"	0	2320363006	0.0 (Unreliable)
+	"Unspecified person"	"E845.9"	4	2320363006	0.0 (Unreliable)
+	"Penicillin, any"	"E850.0"	19	2320363006	0.0 (Unreliable)
+	"Antifungal antibiotics"	"E850.1"	4	2320363006	0.0 (Unreliable)
+	"Chloramphenicol"	"E850.2"	8	2320363006	0.0 (Unreliable)
+	"Erythromycins, streptomycins, tetracyclines"	"E850.3"	7	2320363006	0.0 (Unreliable)
+	"Other antibiotics"	"E850.4"	75	2320363006	0.0
+	"Sulphonamides"	"E850.5"	1	2320363006	0.0 (Unreliable)
+	"Arsenic anti-infectives"	"E850.6"	1	2320363006	0.0 (Unreliable)
+	"Silver and its compounds"	"E850.7"	2	2320363006	0.0 (Unreliable)
+	"Quinoline and hydroxyquinoline derivatives"	"E850.8"	37	2320363006	0.0
+	"Other anti-infectives"	"E850.9"	34	2320363006	0.0
+	"Adrenals"	"E851.0"	21	2320363006	0.0
+	"Androgens and anabolic congeners"	"E851.1"	4	2320363006	0.0 (Unreliable)
+	"Estrogens"	"E851.2"	3	2320363006	0.0 (Unreliable)
+	"Insulin and antidiabetic agents"	"E851.3"	174	2320363006	0.0
+	"Anterior pituitary extracts"	"E851.4"	0	2320363006	0.0 (Unreliable)
+	"Posterior pituitary extracts"	"E851.5"	0	2320363006	0.0 (Unreliable)
+	"Progestogens"	"E851.6"	4	2320363006	0.0 (Unreliable)
+	"Thyroid and thyroid derivatives"	"E851.7"	1	2320363006	0.0 (Unreliable)
+	"Antithyroid agents"	"E851.8"	4	2320363006	0.0 (Unreliable)
+	"Other hormones and synthetic substitutes"	"E851.9"	1	2320363006	0.0 (Unreliable)
+	"Antihistaminic and antiemetic drugs"	"E852.0"	85	2320363006	0.0
+	"Antineoplastic agents"	"E852.1"	160	2320363006	0.0
+	"Electrolytic, caloric, and water balance agents"	"E852.2"	41	2320363006	0.0
+	"Vitamins"	"E852.3"	5	2320363006	0.0 (Unreliable)
+	"Other primarily systemic agents"	"E852.4"	1	2320363006	0.0 (Unreliable)
+	"Iron and its compounds"	"E852.5"	89	2320363006	0.0
+	"Anticoagulants"	"E852.6"	131	2320363006	0.0
+	"Vitamin K products"	"E852.7"	1	2320363006	0.0 (Unreliable)
+	"Other coagulants"	"E852.8"	1	2320363006	0.0 (Unreliable)
+	"Other primarily hematological agents"	"E852.9"	4	2320363006	0.0 (Unreliable)
+	"Opiates and synthetic analogues"	"E853.0"	6652	2320363006	0.3
+	"Salicylates and congeners"	"E853.1"	1042	2320363006	0.0
+	"Cinchophen and congeners"	"E853.2"	0	2320363006	0.0 (Unreliable)
+	"Colchicine"	"E853.3"	15	2320363006	0.0 (Unreliable)
+	"Aniline derivatives"	"E853.4"	49	2320363006	0.0
+	"Other coal tar derivatives"	"E853.5"	12	2320363006	0.0 (Unreliable)
+	"Other analgesics and antipyretics"	"E853.9"	877	2320363006	0.0
+	"Barbiturates"	"E854.0"	3611	2320363006	0.2
+	"Chloral hydrate"	"E854.1"	71	2320363006	0.0
+	"Paraldehyde"	"E854.2"	28	2320363006	0.0
+	"Bromides"	"E854.3"	26	2320363006	0.0
+	"Acute narcotism not otherwise specified"	"E854.8"	874	2320363006	0.0
+	"Other sedatives and hypnotics"	"E854.9"	2168	2320363006	0.1
+	"Antidepressants"	"E855.0"	431	2320363006	0.0
+	"Tranquillizers"	"E855.1"	888	2320363006	0.0
+	"Other psychotherapeutic agents"	"E855.2"	52	2320363006	0.0
+	"Parasympathomimetics (cholinergics)"	"E855.3"	3	2320363006	0.0 (Unreliable)
+	"Parasympatholytics (anticholinergics)"	"E855.4"	33	2320363006	0.0
+	"Sympathomimetics (adrenergics)"	"E855.5"	45	2320363006	0.0
+	"Autonomic nervous system relaxants"	"E855.6"	0	2320363006	0.0 (Unreliable)
+	"Other"	"E855.9"	115	2320363006	0.0
+	"Anticonvulsants"	"E856.0"	43	2320363006	0.0
+	"Skeletal muscle relaxants"	"E856.1"	9	2320363006	0.0 (Unreliable)
+	"Anesthetic gases"	"E856.2"	129	2320363006	0.0
+	"Other central nervous system depressants"	"E856.3"	13	2320363006	0.0 (Unreliable)
+	"Amphetamine"	"E856.4"	181	2320363006	0.0
+	"Other central nervous system stimulants"	"E856.8"	18	2320363006	0.0 (Unreliable)
+	"Other and unspecified"	"E856.9"	7	2320363006	0.0 (Unreliable)
+	"Cardiac depressants"	"E857.0"	28	2320363006	0.0
+	"Cardiac tonics"	"E857.1"	1335	2320363006	0.1
+	"Cholesterol lowering agents"	"E857.2"	0	2320363006	0.0 (Unreliable)
+	"Ganglionic blocking agents"	"E857.3"	1	2320363006	0.0 (Unreliable)
+	"Vasodilators"	"E857.4"	14	2320363006	0.0 (Unreliable)
+	"Other hypotensive agents"	"E857.5"	8	2320363006	0.0 (Unreliable)
+	"Sclerosing agents"	"E857.6"	0	2320363006	0.0 (Unreliable)
+	"Other"	"E857.9"	7	2320363006	0.0 (Unreliable)
+	"Antacids and antidiarrhea agents"	"E858.0"	40	2320363006	0.0
+	"Intestinal irritant cathartics"	"E858.1"	7	2320363006	0.0 (Unreliable)
+	"Emollient cathartics"	"E858.2"	2	2320363006	0.0 (Unreliable)
+	"Saline cathartics"	"E858.3"	3	2320363006	0.0 (Unreliable)
+	"Fecal softeners"	"E858.4"	0	2320363006	0.0 (Unreliable)
+	"Other cathartics"	"E858.5"	3	2320363006	0.0 (Unreliable)
+	"Emetics"	"E858.6"	2	2320363006	0.0 (Unreliable)
+	"Other"	"E858.9"	1	2320363006	0.0 (Unreliable)
+	"Local anesthetics"	"E859.0"	233	2320363006	0.0
+	"Mercurial diuretics"	"E859.1"	0	2320363006	0.0 (Unreliable)
+	"Xanthine derivatives"	"E859.2"	23	2320363006	0.0
+	"Other diuretics"	"E859.3"	14	2320363006	0.0 (Unreliable)
+	"Agents acting directly on musculoskeletal system"	"E859.4"	9	2320363006	0.0 (Unreliable)
+	"Liniments"	"E859.5"	6	2320363006	0.0 (Unreliable)
+	"Ointments"	"E859.6"	1	2320363006	0.0 (Unreliable)
+	"Other medicaments for external use"	"E859.7"	89	2320363006	0.0
+	"Other specified drugs"	"E859.8"	187	2320363006	0.0
+	"Drugs, unspecified"	"E859.9"	6086	2320363006	0.3
+	"Accidental poisoning by alcohol"	"E860"	3407	2320363006	0.1
+	"Accidental poisoning by cleansing and polishing agents"	"E861"	191	2320363006	0.0
+	"Accidental poisoning by disinfectants"	"E862"	66	2320363006	0.0
+	"Accidental poisoning by paints and varnishes"	"E863"	17	2320363006	0.0 (Unreliable)
+	"Accidental poisoning by petroleum products and other solvents"	"E864"	601	2320363006	0.0
+	"Accidental poisoning by pesticides, fertilizers or plant foods"	"E865"	446	2320363006	0.0
+	"Accidental poisoning by heavy metals and their fumes"	"E866"	335	2320363006	0.0
+	"Accidental poisoning by corrosives and caustics, not elsewhere classified"	"E867"	227	2320363006	0.0
+	"Accidental poisoning by noxious foodstuffs and poisonous plants"	"E868"	64	2320363006	0.0
+	"Accidental poisoning by other and unspecified solid and liquid substances"	"E869"	7867	2320363006	0.3
+	"Accidental poisoning by gas distributed by pipe-line"	"E870"	1615	2320363006	0.1
+	"Accidental poisoning by liquefied petroleum gas distributed in mobile containers"	"E871"	406	2320363006	0.0
+	"Accidental poisoning by other utility gas"	"E872"	100	2320363006	0.0
+	"Accidental poisoning by motor vehicle exhaust gas"	"E873"	8624	2320363006	0.4
+	"Accidental poisoning by carbon monoxide from incomplete combustion of domestic fuels"	"E874"	1585	2320363006	0.1
+	"Accidental poisoning by other carbon monoxide"	"E875"	2858	2320363006	0.1
+	"Accidental poisoning by other gases and vapors"	"E876"	2219	2320363006	0.1
+	"Accidental poisoning by unspecified gases and vapors"	"E877"	273	2320363006	0.0
+	"Fall on or from stairs or steps"	"E880"	17358	2320363006	0.7
+	"Fall on or from ladders or scaffolding"	"E881"	4754	2320363006	0.2
+	"Fall from or out of building or other structure"	"E882"	8267	2320363006	0.4
+	"Fall into hole or other opening in surface"	"E883"	1747	2320363006	0.1
+	"Other fall from one level to another"	"E884"	15556	2320363006	0.7
+	"Fall on same level from slipping, stumbling or tripping"	"E885"	7274	2320363006	0.3
+	"Fall on same level from collision, pushing or shoving by or with other person"	"E886"	300	2320363006	0.0
+	"Other and unspecified fall"	"E887"	120987	2320363006	5.2
+	"Accident caused by conflagration in private dwelling"	"E890"	48563	2320363006	2.1
+	"Accident caused by conflagration in other building or structure"	"E891"	2971	2320363006	0.1
+	"Accident caused by conflagration not in building or structure"	"E892"	898	2320363006	0.0
+	"Accident caused by ignition of clothing"	"E893"	6290	2320363006	0.3
+	"Accident caused by ignition of highly inflammable material"	"E894"	2303	2320363006	0.1
+	"Accident caused by controlled fire in private dwelling"	"E895"	924	2320363006	0.0
+	"Accident caused by controlled fire in other building or structure"	"E896"	93	2320363006	0.0
+	"Accident caused by controlled fire not in building or structure"	"E897"	379	2320363006	0.0
+	"Accident caused by other specified fires or flames"	"E898"	4483	2320363006	0.2
+	"Accident caused by unspecified fire"	"E899"	5470	2320363006	0.2
+	"Excessive heat"	"E900"	2213	2320363006	0.1
+	"Excessive cold"	"E901"	5033	2320363006	0.2
+	"High and low air pressure"	"E902"	194	2320363006	0.0
+	"Effects of travel and motion"	"E903"	2	2320363006	0.0 (Unreliable)
+	"Hunger, thirst, exposure and neglect"	"E904"	2949	2320363006	0.1
+	"Bites and stings of venomous animals and insects"	"E905"	580	2320363006	0.0
+	"Other accidents caused by animals"	"E906"	1525	2320363006	0.1
+	"Lightning"	"E907"	1253	2320363006	0.1
+	"Cataclysm"	"E908"	2683	2320363006	0.1
+	"Accident due to other natural and environmental factors"	"E909"	210	2320363006	0.0
+	"In recreational activities"	"E910.0"	22068	2320363006	1.0
+	"Other and unspecified"	"E910.9"	46316	2320363006	2.0
+	"Inhalation and ingestion of food causing obstruction or suffocation"	"E911"	24254	2320363006	1.0
+	"Inhalation and ingestion of other object causing obstruction or suffocation"	"E912"	9261	2320363006	0.4
+	"In bed or cradle"	"E913.0"	3699	2320363006	0.2
+	"Other and unspecified"	"E913.9"	8783	2320363006	0.4
+	"Foreign body accidentally entering eye and adnexa"	"E914"	4	2320363006	0.0 (Unreliable)
+	"Foreign body accidentally entering other orifice"	"E915"	752	2320363006	0.0
+	"Struck accidentally by falling object"	"E916"	13084	2320363006	0.6
+	"Striking against or struck accidentally by objects"	"E917"	9642	2320363006	0.4
+	"Caught accidentally in or between objects"	"E918"	5612	2320363006	0.2
+	"Over-exertion and strenuous movements"	"E919"	141	2320363006	0.0
+	"Powered hand tools"	"E920.0"	151	2320363006	0.0
+	"Other hand tools"	"E920.1"	234	2320363006	0.0
+	"Other machinery"	"E920.2"	159	2320363006	0.0
+	"Other"	"E920.8"	744	2320363006	0.0
+	"Unspecified"	"E920.9"	260	2320363006	0.0
+	"Boilers"	"E921.0"	223	2320363006	0.0
+	"Gas cylinders"	"E921.1"	97	2320363006	0.0
+	"Other"	"E921.8"	404	2320363006	0.0
+	"Accidentally self-inflicted"	"E922.0"	5501	2320363006	0.2
+	"Other and unspecified"	"E922.9"	19768	2320363006	0.9
+	"Fireworks"	"E923.0"	57	2320363006	0.0
+	"Blasting materials"	"E923.1"	238	2320363006	0.0
+	"Explosive gases"	"E923.2"	2446	2320363006	0.1
+	"Other"	"E923.8"	878	2320363006	0.0
+	"Unspecified"	"E923.9"	1770	2320363006	0.1
+	"Accident caused by hot substance, corrosive liquid, and steam"	"E924"	2666	2320363006	0.1
+	"Home wiring and appliances"	"E925.0"	2314	2320363006	0.1
+	"Industrial wiring or appliances"	"E925.1"	1694	2320363006	0.1
+	"Other"	"E925.8"	6630	2320363006	0.3
+	"Unspecified"	"E925.9"	1589	2320363006	0.1
+	"Non-ionizing"	"E926.0"	1	2320363006	0.0 (Unreliable)
+	"Ionizing"	"E926.1"	2	2320363006	0.0 (Unreliable)
+	"Vehicle accidents not elsewhere classifiable"	"E927"	1699	2320363006	0.1
+	"Machinery accidents not elsewhere classifiable"	"E928"	9262	2320363006	0.4
+	"Other and unspecified accidents"	"E929"	21610	2320363006	0.9
+	"In surgical treatment, excluding effects of anesthetic management"	"E930.0"	22852	2320363006	1.0
+	"In anesthesia during operative treatment"	"E930.1"	641	2320363006	0.0
+	"In infusion or transfusion during operative treatment"	"E930.2"	21	2320363006	0.0
+	"In other procedures during operative treatment"	"E930.9"	7	2320363006	0.0 (Unreliable)
+	"In use of X-ray and radioactive substances"	"E931.0"	397	2320363006	0.0
+	"In administration of drugs and biologicals"	"E931.1"	3824	2320363006	0.2
+	"In infusion and transfusion"	"E931.2"	582	2320363006	0.0
+	"In local applications"	"E931.3"	6	2320363006	0.0 (Unreliable)
+	"In other therapeutic procedures"	"E931.8"	1589	2320363006	0.1
+	"In unspecified therapeutic procedures"	"E931.9"	1483	2320363006	0.1
+	"In surgical procedures, excluding effect of anaesthetic management"	"E932.0"	1498	2320363006	0.1
+	"In anesthesia"	"E932.1"	56	2320363006	0.0
+	"In use of X-ray or radioactive substances"	"E932.2"	104	2320363006	0.0
+	"In administration of drugs and biologicals"	"E932.3"	316	2320363006	0.0
+	"In other diagnostic procedures"	"E932.8"	520	2320363006	0.0
+	"In unspecified diagnostic procedures"	"E932.9"	24	2320363006	0.0
+	"BCG vaccine"	"E933.0"	3	2320363006	0.0 (Unreliable)
+	"Typhoid and paratyphoid vaccine"	"E933.1"	1	2320363006	0.0 (Unreliable)
+	"Cholera vaccine"	"E933.2"	0	2320363006	0.0 (Unreliable)
+	"Plague vaccine"	"E933.3"	0	2320363006	0.0 (Unreliable)
+	"Tetanus vaccine"	"E933.4"	2	2320363006	0.0 (Unreliable)
+	"Diphtheria vaccine"	"E933.5"	0	2320363006	0.0 (Unreliable)
+	"Pertussis vaccine, including combinations with a pertussis component"	"E933.6"	5	2320363006	0.0 (Unreliable)
+	"Other and unspecified bacterial vaccines"	"E933.8"	0	2320363006	0.0 (Unreliable)
+	"Mixed bacterial vaccines, except combinations with a pertussis component"	"E933.9"	0	2320363006	0.0 (Unreliable)
+	"Smallpox vaccine"	"E934.0"	9	2320363006	0.0 (Unreliable)
+	"Rabies vaccine"	"E934.1"	3	2320363006	0.0 (Unreliable)
+	"Typhus vaccine"	"E934.2"	0	2320363006	0.0 (Unreliable)
+	"Yellow fever vaccine"	"E934.3"	0	2320363006	0.0 (Unreliable)
+	"Measles vaccine"	"E934.4"	2	2320363006	0.0 (Unreliable)
+	"Poliomyelitis vaccine"	"E934.5"	1	2320363006	0.0 (Unreliable)
+	"Other and unspecified viral and rickettsial vaccines"	"E934.6"	2	2320363006	0.0 (Unreliable)
+	"Mixed viral-rickettsial and bacterial vaccines, except combinations with a pertussis component"	"E934.7"	1	2320363006	0.0 (Unreliable)
+	"Other and unspecified vaccines"	"E934.9"	21	2320363006	0.0
+	"In surgical procedures, excluding effects of anesthetic management"	"E935.0"	49	2320363006	0.0
+	"In anesthesia during prophylactic procedures"	"E935.1"	14	2320363006	0.0 (Unreliable)
+	"In use of X-rays and radioactive substances"	"E935.2"	0	2320363006	0.0 (Unreliable)
+	"In administration of drugs and biologicals"	"E935.3"	12	2320363006	0.0 (Unreliable)
+	"In other and unspecified procedures"	"E935.9"	6	2320363006	0.0 (Unreliable)
+	"In surgical procedures, excluding effects of anesthetic management"	"E936.0"	8	2320363006	0.0 (Unreliable)
+	"In anesthesia"	"E936.1"	4	2320363006	0.0 (Unreliable)
+	"In other and unspecified procedures"	"E936.9"	99	2320363006	0.0
+	"Late effect of motor vehicle accident"	"E940"	1575	2320363006	0.1
+	"Late effect of other transport accident"	"E941"	77	2320363006	0.0
+	"Late effect of accidental poisoning"	"E942"	119	2320363006	0.0
+	"Late effect of accidental fall"	"E943"	2001	2320363006	0.1
+	"Late effect of accident caused by fire"	"E944"	39	2320363006	0.0
+	"Late effect of accident due to natural and environmental factors"	"E945"	25	2320363006	0.0
+	"Late effect of other accidents"	"E946"	2588	2320363006	0.1
+	"Late effect of surgical operation"	"E947"	1053	2320363006	0.0
+	"Late effect of irradiation"	"E948"	221	2320363006	0.0
+	"Late effect of other surgical and medical procedures"	"E949"	402	2320363006	0.0
+	"Barbituric acid and derivatives"	"E950.0"	14737	2320363006	0.6
+	"Salicylates and congeners"	"E950.1"	879	2320363006	0.0
+	"Psychotherapeutic agents"	"E950.2"	3516	2320363006	0.2
+	"Other and unspecified drugs"	"E950.3"	14350	2320363006	0.6
+	"Corrosive aromatics"	"E950.4"	94	2320363006	0.0
+	"Strychnine"	"E950.5"	229	2320363006	0.0
+	"Lye and potash (caustic alkali)"	"E950.6"	387	2320363006	0.0
+	"Arsenic and its compounds"	"E950.7"	269	2320363006	0.0
+	"Fluorides"	"E950.8"	97	2320363006	0.0
+	"Other and unspecified solid and liquid substances"	"E950.9"	6518	2320363006	0.3
+	"Suicide and self-inflicted poisoning by gases in domestic use"	"E951"	541	2320363006	0.0
+	"Motor vehicle exhaust gas"	"E952.0"	22435	2320363006	1.0
+	"Other carbon monoxide"	"E952.1"	4360	2320363006	0.2
+	"Other and unspecified gases and vapours"	"E952.9"	237	2320363006	0.0
+	"Suicide and self-inflicted injury by hanging, strangulation and suffocation"	"E953"	37988	2320363006	1.6
+	"Suicide and self-inflicted injury by submersion (drowning)"	"E954"	5778	2320363006	0.2
+	"Suicide and self-inflicted injury by firearms and explosives"	"E955"	148357	2320363006	6.4
+	"Suicide and self-inflicted injury by cutting and piercing instruments"	"E956"	4296	2320363006	0.2
+	"Suicide and self-inflicted injury by jumping from high place"	"E957"	7507	2320363006	0.3
+	"Suicide and self-inflicted injury by other and unspecified means"	"E958"	4358	2320363006	0.2
+	"Late effect of self-inflicted injury"	"E959"	50	2320363006	0.0
+	"Fight, brawl, rape"	"E960"	1415	2320363006	0.1
+	"Assault by corrosive or caustic substance, except poisoning"	"E961"	26	2320363006	0.0
+	"Assault by poisoning"	"E962"	431	2320363006	0.0
+	"Assault by hanging and strangulation"	"E963"	6671	2320363006	0.3
+	"Assault by submersion (drowning)"	"E964"	656	2320363006	0.0
+	"Assault by firearms and explosives"	"E965"	138427	2320363006	6.0
+	"Assault by cutting and piercing instruments"	"E966"	34905	2320363006	1.5
+	"Assault by pushing from high place"	"E967"	217	2320363006	0.0
+	"Assault by other and unspecified means"	"E968"	21964	2320363006	0.9
+	"Late effect of injury purposely inflicted by other person"	"E969"	253	2320363006	0.0
+	"Injury due to legal intervention by firearms"	"E970"	3600	2320363006	0.2
+	"Injury due to legal intervention by explosives"	"E971"	0	2320363006	0.0 (Unreliable)
+	"Injury due to legal intervention by gas"	"E972"	3	2320363006	0.0 (Unreliable)
+	"Injury due to legal intervention by blunt object"	"E973"	7	2320363006	0.0 (Unreliable)
+	"Injury due to legal intervention by cutting and piercing instruments"	"E974"	2	2320363006	0.0 (Unreliable)
+	"Injury due to legal intervention by other specified means"	"E975"	19	2320363006	0.0 (Unreliable)
+	"Injury due to legal intervention by unspecified means"	"E976"	21	2320363006	0.0
+	"Late effect of injury due to legal intervention"	"E977"	11	2320363006	0.0 (Unreliable)
+	"Legal execution"	"E978"	2	2320363006	0.0 (Unreliable)
+	"Barbituric acid and derivatives"	"E980.0"	2378	2320363006	0.1
+	"Salicylates and congeners"	"E980.1"	265	2320363006	0.0
+	"Psychotherapeutic agents"	"E980.2"	718	2320363006	0.0
+	"Other and unspecified drugs"	"E980.3"	6689	2320363006	0.3
+	"Corrosive aromatics"	"E980.4"	7	2320363006	0.0 (Unreliable)
+	"Strychnine"	"E980.5"	30	2320363006	0.0
+	"Lye and potash (caustic alkali)"	"E980.6"	48	2320363006	0.0
+	"Arsenic and its compounds"	"E980.7"	39	2320363006	0.0
+	"Fluorides"	"E980.8"	9	2320363006	0.0 (Unreliable)
+	"Other and unspecified solid and liquid substances"	"E980.9"	2544	2320363006	0.1
+	"Poisoning by gases in domestic use, undetermined whether accidentally or purposely inflicted"	"E981"	63	2320363006	0.0
+	"Poisoning by other gases, undetermined whether accidentally or purposely inflicted"	"E982"	2984	2320363006	0.1
+	"Hanging, strangulation, or suffocation, undetermined whether accidentally or purposely inflicted"	"E983"	1253	2320363006	0.1
+	"Submersion (drowning), undetermined whether accidentally or purposely inflicted"	"E984"	5229	2320363006	0.2
+	"Injury by firearms and explosives, undetermined whether accidentally or purposely inflicted"	"E985"	9815	2320363006	0.4
+	"Injury by cutting and piercing instruments, undetermined whether accidentally or purposely inflicted"	"E986"	537	2320363006	0.0
+	"Falling from high place, undetermined whether accidentally or purposely inflicted"	"E987"	4230	2320363006	0.2
+	"Injury by other and specified means, undetermined whether accidentally or purposely inflicted"	"E988"	16040	2320363006	0.7
+	"Late effect of injury, undetermined whether accidentally or purposely inflicted"	"E989"	240	2320363006	0.0
+	"Injury due to war operations by fires and conflagrations"	"E990"	13	2320363006	0.0 (Unreliable)
+	"Injury due to war operations by bullets and fragments"	"E991"	86	2320363006	0.0
+	"Injury due to war operations by explosion of marine weapons"	"E992"	1	2320363006	0.0 (Unreliable)
+	"Injury due to war operations by other explosion"	"E993"	19	2320363006	0.0 (Unreliable)
+	"Injury due to war operations by destruction of aircraft"	"E994"	8	2320363006	0.0 (Unreliable)
+	"Injury due to war operations by other and unspecified forms of conventional warfare"	"E995"	21	2320363006	0.0
+	"Injury due to war operations by nuclear weapons"	"E996"	0	2320363006	0.0 (Unreliable)
+	"Injury due to war operations by other forms of unconventional warfare"	"E997"	2	2320363006	0.0 (Unreliable)
+	"Injury due to war operations but occurring after cessation of hostilities"	"E998"	2	2320363006	0.0 (Unreliable)
+	"Late effect of injury due to war operations"	"E999"	220	2320363006	0.0
+"Total"			21201684	2320363006	913.7
+"---"
+"Dataset: Compressed Mortality, 1968-1978"
+"Query Parameters:"
+"Title:"
+"Age Group: All"
+"Gender: All"
+"ICD-8 Codes: All"
+"Race: All"
+"States: All"
+"Year: All, 1968 to 1978"
+"Group By: Cause of death"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Jan 18, 2015 1:13:40 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1968-1978. CDC WONDER Online Database, compiled from Compressed Mortality File CMF 1968-1988, Series 20, No. 2A, 2000. Accessed"
+"at http://wonder.cdc.gov/cmf-icd8.html on Jan 18, 2015 1:13:40 PM"
+"---"
+Caveats:
+"1. About national population figures: population figures for 1968-69 and 1971-78 are intercensal estimates of the July 1"
+"resident population; population figures for 1970 are April 1 modified census counts. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Population Information."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the number of live births"
+"for the given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."

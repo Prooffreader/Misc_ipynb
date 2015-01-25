@@ -1,0 +1,373 @@
+la          Typhoid fever
+1b          Paratyphoid fever
+2     Typhus fever
+3     Relapsing fever (Spirillum Obermeieri)
+4     Mediterranean fever
+5     Malaria
+6     Small-pox
+7     Measles
+8     Scarlet fever
+9     Whooping cough
+10    Diphtheria
+11
+11a         Influenza with pulmonary complications
+lla(1)            With pneumonic complications
+lla(2)            With other pulmonary complications
+11b         Influenza without pulmonary complications
+llb(1)            With non-pulmonary complications
+llb(2)            Without stated complications
+12    Miliary fever
+13    Mumps
+14    Asiatic cholera
+15    Cholera nostras
+16
+16a         Amoebic dysentery
+16b         Bacillary dysentery
+16c         Other or unspecified dysentery
+17
+17a         Bubonic plague
+17b         Pneumonic plague
+17c         Septicaemic plague
+17d         Plague not otherwise defined
+18    Yellow fever
+19    Spirochaetosis ictero-haemorrhagica
+20    Leprosy
+21    Erysipelas
+22
+22(1)       Acute poliomyelitis
+22(2)       Acute polioencephalitis
+23    Encephalitis lethargica
+24    Meningococcal meningitis
+25
+25(1)       German measles
+25(2)       Varicella
+25(3)       Other epidemic and endemic diseases
+26    Glanders
+27    Anthrax
+28    Rabies
+29    Tetanus
+30
+30(1)       Actinomycosis
+30(2)       Other mycoses
+31    Tuberculosis of the respiratory system
+32    Tuberculosis of the central nervous system
+33    Tuberculosis of the intestines and peritoneum
+34    Tuberculosis of the vertebral column
+35    Tuberculosis of the joints
+36
+36a         Tuberculosis of the skin and subcutaneous tissue
+36b         Tuberculosis of the bones (vertebral column excepted)
+36c         Tuberculosis of the lymphatic system (abdominal glands excepted)
+36d         Tuberculosis of the genito-urinary system
+36e         Tuberculosis of other sites
+37
+37a         Disseminated tuberculosis: acute
+37b         Disseminated tuberculosis: chronic or unstated
+38    Syphilis
+39    Soft chancre
+40
+40(1)       Gonococcal infection (ophthalmia excepted)
+40(2)       Gonorrhoeal or purulent ophthalmia
+41    Purulent infection, Septicaemia
+41(1)       For the years 1924-1930 only.
+41(2)       (Mention of Vaccinia) for the years 1921-1923 only.
+41(3)       (Other) for the years 1921-1923 only.
+42
+42(1)       Vaccinia
+42(2)       Other infectious diseases
+43    Cancer of the buccal cavity
+44    Cancer of the pharynx, oesophagus, stomach, liver and annexa
+45    Cancer of the peritoneum, intestines & rectum
+46    Cancer of the female genital organs
+47    Cancer of the breast
+48    Cancer of the skin
+49    Cancer of other or unspecified organs
+50    Tumours not returned as malignant (brain and female genital organs excepted)
+51    Rheumatic fever
+52
+52(1)       Chronic rheumatism, Chronic arthritis
+52(2)       Rheumatoid arthritis, Osteo-arthritis
+52(3)       Gout
+53    Scurvy
+54    Pellagra
+55    Beri-beri
+56    Rickets
+57    Diabetes
+58
+58a         Pernicious anaemia
+58b         Other anaemias and chlorosis
+59    Diseases of the pituitary gland
+60
+60a         Exophthalmic goitre
+60b
+60b(1)            Myxoedema
+60b(2)            Cretinism
+60b(3)            Other diseases of the thyroid gland
+61
+61(1)       Tetany
+61(2)       Other diseases of the parathyroid gland
+62    Diseases of the thymus
+63    Diseases of the adrenals
+64    Diseases of the spleen
+65
+65a         Leukaemia
+65b         Lymphadenoma
+66    Alcoholism (acute or chronic)
+67
+67(1)       Occupational lead poisoning
+67(2)       Other chronic poisoning by mineral substances
+68    Chronic poisoning by organic substances
+69
+69(1)       Purpura
+69(2)       Haemophilia
+69(3)       Other general diseases
+70
+70(1)       Cerebral abscess
+70(2)       Other encephalitis
+71    Meningitis
+72    Tabes dorsalis (locomotor ataxy)
+73    Other diseases of the spinal cord
+74
+74a
+74a(1)            Cerebral haemorrhage so returned
+74a(2)            Apoplexy (lesion unstated)
+74b
+74b(1)            Cerebral embolism
+74b(2)            Cerebral thrombosis
+75
+75a         Hemiplegia
+75b         Other forms of paralysis
+76    General paralysis of the insane
+77    Other forms of insanity
+78    Epilepsy
+79    Convulsions (non-puerperal)
+80    Convulsions (non-puerperal)
+81    Chorea
+82    Hysteria and neuritis
+83    Cerebral softening
+84
+84(1)       Idiocy, Imbecility
+84(2)       Cerebral tumour
+84(3)       Disseminated sclerosis
+84(4)       Paralysis agitans
+84(5)       Other diseases of the nervous system
+85    Diseases of the eye and annexa
+86
+86(1)       Diseases of the mastoid sinus
+86(2)       Diseases of the ear
+87    Pericarditis
+88
+88(1)       Malignant endocarditis
+88(2)       Other acute endocarditis
+88(3)       Acute myocarditis
+89    Angina pectoris
+90
+90(1)       Aortic valve disease
+90(2)       Mitral valve disease
+90(3)       Aortic and mitral valve disease
+90(4)       Other or unspecified valve disease
+90(5)       Fatty heart
+90(6)       Dilatation of heart (cause unspecified)
+90(7)       Other or unspecified myocardial disease
+90(8)       Disordered action of the heart
+90(9)       Heart disease (undefined)
+91
+91a         Aneurysm
+91b
+91b(1)            Arterio-sclerosis with cerebral vascular lesion
+91b(2)            Arterio-sclerosis without record of cerebral vascular lesion
+91c         Other diseases of the arteries
+92    Embolism and thrombosis (not cerebral)
+93    Diseases of the veins (varix, haemorrhoids, phlebitis, etc.)
+94    Diseases of the lymphatic system (lymphangitis, etc.)
+95    Haemorrhage without stated cause
+96    Other diseases of the circulatory system
+97
+97(1)       Diseases of the nose
+97(2)       Diseases of the accessory nasal sinuses
+98
+98(1)       Laryngismus stridulus
+98(2)       Laryngitis
+98(3)       Other diseases of the larynx
+99    Bronchitis
+99a         Acute bronchitis
+99b         Chronic bronchitis
+99c         Bronchitis not distinguished as acute or chronic
+99d         Bronchitis not distinguished as acute or chronic
+100   Broncho-pneumonia
+101
+101a        Lobar pneumonia
+101b        Pneumonia (not otherwise specified)
+102
+102(1)      Empyema
+102(2)      Other pleurisy
+103   Congestion and haemorrhagic infarct of lung
+104   Gangrene of the lung
+105   Asthma
+106   Pulmonary emphysema
+107
+107a        Chronic interstitial pneumonia, including occupational diseases of the lung
+107b        Diseases of the mediastinum
+107c        Other diseases of the respiratory system
+108
+108(1)      Diseases of the teeth and gums
+108(2)      Ludwig's angina
+108(3)      Other diseases of the buccal cavity and annexa
+109
+109(1)      Tonsillitis, Adenoid vegetations
+109(2)      Other diseases of the pharynx and tonsils
+110   Diseases of the oesophagus
+111
+111a        Ulcer of the stomach
+111b        Ulcer of the duodenum
+112
+112(1)      Inflammation of the stomach
+112(2)      Other diseases of the stomach
+113
+113(1)      Ulceration of the intestines
+113(2)      Colitis
+113(3)      Other diseases included under diarrhoea and enteritis
+114
+114(1)      Ulceration of the intestines
+114(2)      Colitis
+114(3)      Other diseases included under diarrhoea and enteritis
+115   Ankylostomiasis
+116
+116a        Diseases due to cestodes (hydatids of the liver excepted)
+116b        Diseases due to trematodes
+116c        Diseases due to nematodes (other than ankylostoma)
+116d        Diseases due to coccidia
+116e        Diseases due to other specified intestinal parasites
+116f        Diseases due to undefined intestinal parasites
+117   Appendicitis
+118
+118a        Hernia
+118b        Intestinal obstruction
+119
+119(1)      Intestinal stasis
+119(2)      Other diseases of the intestines
+120   Acute yellow atrophy of the liver
+121   Hydatid tumour of the liver
+122   Cirrhosis of the liver
+122a        Returned as alcoholic
+122b        Not returned as alcoholic
+123   Biliary calculi
+124   Other diseases of the liver
+125   Diseases of the pancreas
+126   Peritonitis without stated cause
+127   Other diseases of the digestive system
+128   Acute nephritis (including unspecified under 10 years of age)
+129   Chronic nephritis (including unspecified over 10 years of age)
+130   Chyluria
+131   Other diseases of the kidney and annexa
+132   Calculi of the urinary passages
+133   Diseases of the bladder
+133(1)      Cystitis
+133(2)      Other diseases of the bladder
+134
+134a        Stricture of the urethra
+134b        Other diseases of the urethra, etc.
+135   Diseases of the prostate
+136   Non-venereal diseases of the male genital organs
+137   Cysts, and other tumours of the ovary not returned as malignant
+138
+138(1)      Salpingitis
+138(2)      Pelvic abscess in females
+139   Tumours of the uterus not returned as malignant
+140   Non-puerperal uterine haemorrhage
+141
+141(1)      Other diseases of the uterus
+141(2)      Diseases of other female genital organs not included under other headings
+142   Non-puerperal diseases of the breast
+143
+143a        Abortion
+143b        Ectopic gestation
+143c        Other accidents of pregnancy
+144   Puerperal haemorrhage
+145   Other accidents of childbirth
+146   Puerperal sepsis
+147
+147(1)      Puerperal phlegmasia alba dolens not returned as septic
+147(2)      Puerperal embolism and sudden death
+148   Puerperal albuminuria and convulsions
+149   Childbirth not assignable to other headings (puerperal insanity)
+150   Puerperal diseases of the breast
+151
+151(1)      Senile gangrene
+151(2)      Other gangrene
+152   Carbuncle, Boil
+153
+153(1)      Cellulitis
+153(2)      Acute abscess
+154
+154(1)      Ulcer, Bedsore
+154(2)      Eczema
+154(3)      Pemphigus
+154(4)      Other diseases of the skin and its annexa
+155
+155(1)      Acute infective osteo-myelitis and periostitis
+155(2)      Other diseases of the bones
+156   Diseases of the joints
+157   Amputations
+158   Other diseases of the organs of locomotion
+159
+159(1)      Congenital hydrocephalus
+159(2)      Congenital malformation of heart
+159(3)      Other congenital malformations
+160
+160(1)      Congenital debility and sclerema
+160(2)      Icterus neonatorum
+161
+161(1)      Premature birth
+161(2)      Injury at birth
+162
+162(1)      Diseases of the umbilicus
+162(2)      Atelectasis
+162(3)      Other diseases peculiar to early infancy
+163   Lack of care
+164
+164(1)      Senile dementia
+164(2)      Other forms of senile decay
+165   Suicide by solid or liquid poisons & corrosive substances
+166   Suicide by solid or liquid poisons & corrosive substances
+167   Suicide by poisonous gas
+168   Suicide by hanging or strangulation
+169   Suicide by drowning
+170   Suicide by firearms
+171   Suicide by cutting or piercing instruments
+172   Suicide by jumping from high place
+173   Suicide by crushing
+174   Suicide by other means
+175   Food poisoning
+176   Poisoning by venomous animals
+177   Other acute accidental poisoning (not by gas)
+178   Conflagration
+179   Accidental burns (conflagration excepted)
+180   Accidental mechanical suffocation
+181   Accidental absorption of irrespirable or poisonous gas
+182   Accidental drowning
+183   Accidental injury by firearms
+184   Accidental injury by cutting or piercing instruments
+185   Accidental injury by fall
+186   Accidental injury in mining and quarrying
+187   Accidental injury by machinery
+188   Accidental injury by other forms of crushing (road vehicles, on railways, etc.)
+189   Injury by animals (poisoning by venomous animals excepted)
+190   Wounds of war
+191   Execution of civilians by belligerent armies
+192   Hunger or thirst
+193   Excessive cold
+194   Excessive heat
+195   Lightning
+196   Electricity (lightning excepted)
+197   Homicide by firearms
+198   Homicide by cutting or piercing instruments
+199   Homicide by other means
+201   Fracture (cause not specified)
+202   Other and unstated forms of accidental violence; Execution
+203   Violent deaths of unstated nature (i.e. accidental, suicidal, etc.) and cause
+204   Sudden death
+205
+205(1)      Heart failure (age 1-70)
+205(2)      Other ill-defined causes
+205(3)      Cause not specified

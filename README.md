@@ -12,7 +12,7 @@ Scripts to make maps of Canadian Centre for Climate Modeling and Analysis climat
 Scripts to analyze Billboard magazine pop charts data:
 [billboard_top_words.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/billboard_charts/billboard_top_words.ipynb) : script to find the most decade-specific words in song titles since 1890.
 
-[monty_monte.ipyn](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/monty_monte.ipynb): A Monte Carlo simulator of the Monty Hall problem! You can choose the number of doors and of goats, and the number of iterations.
+[monty_monte.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/monty_monte.ipynb): A Monte Carlo simulator of the Monty Hall problem! You can choose the number of doors and of goats, and the number of iterations.
 
 [pocket_tumblr_reddit_api.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/pocket_tumblr_reddit_api.ipynb): A script to search the hard drive, Pocket or Tumblr for photos, then save them or upload them to Tumblr or Reddit. The Reddit posting writes to a json on an sftp server, where a cron job can run the Reddit/PRAW script once an hour.
 

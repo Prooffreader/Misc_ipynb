@@ -1,0 +1,4637 @@
+(000-009) Intestinal infectious diseases
+000   Cholera
+000.0       Classical Cholera
+000.1       El Tor
+000.9       Unspecified
+001   Typhoid fever
+002   Paratyphoid fever
+002.0       Paratyphoid fever A
+002.1       Paratyphoid fever B
+002.2       Paratyphoid fever C
+002.9       Paratyphoid fever unspecified
+003   Other Salmonella infections
+003.0       With food as vehicle of infection
+003.9       Without mention of food as vehicle of infection
+004   Bacillary dysentery
+004.0       Shiga
+004.1       Flexner
+004.2       Boyd
+004.3       Soone
+004.4       Schmitz-(Stutzer)
+004.8       Other bacillary
+004.9       Unspecified
+005   Food poisoning (bacterial)
+005.0       Staphylococcal
+005.1       Botulism
+005.2       Due to other clostridia
+005.8       Other specified bacterial food poisoning
+005.9       Food poisoning, unspecified
+006   Amoebiasis
+006.0       With liver abscess
+006.9       Without mention of liver abscess
+007   Other protozoal intestinal diseases
+007.0       Balantidiasis
+007.1       Giardiasis
+007.2       Coccidiosis
+007.9       Other and unspecified
+008   Enteritis due to other specified organism
+008.0       Escherichia coli
+008.1       Arizona
+008.2       Other specified bacteria
+008.3       Bacterial enteritis, unspecified
+008.8       Enteritis due to specified virus
+008.9       Other organism, not elsewhere classified
+009   Diarrhoeal disease
+009.0       Dysentery, unspecified
+009.1       Diarrhoea
+009.2       Gastro-enteritis and colitis
+009.9       Other diarrhoeal disease
+(010-019) Tuberculosis
+010   Silicotuberculosis
+011   Pulmonary tuberculosis
+011.0       Active, minimal
+011.1       Active, moderately advanced
+011.2       Active, far advanced
+011.3       Active, stage unspecified
+011.4       Miliary, lung NOS
+011.5       Radiological evidence alone
+011.9       Pulmonary tuberculosis NOS
+012   Other respiratory tuberculosis
+012.0       Primary
+012.1       Pleurisy specified as tuberculous
+012.2       Pleurisy with effusion without mention of cause
+012.3       Tuberculous laryngitis
+012.9       Other respiratory tuberculosis
+013   Tuberculosis of meninges and central nervous system
+013.0       Tuberculous meningitis
+013.9       Other central nervous system
+014   Tuberculosis of intestines, peritoneum and mesenteric glands
+015   Tuberculosis of bones and joints
+015.0       Of vertebral column
+015.1       Of hip
+015.2       Of knee
+015.8       Of other specified bones and joints
+015.9       Of unspecified bones and joints
+016   Tuberculosis of genito-urinary system
+016.0       Kidney
+016.1       Other urinary organs
+016.2       Genital organs (male and female)
+016.9       Genito-urinary system, site unspecified
+017   Tuberculosis of other organs
+017.0       Of skin and subcutaneous cellular tissue
+017.1       Of peripheral lymphatic glands
+017.2       Of eye
+017.3       Of ear
+017.9       Of other organs
+018   Disseminated tuberculosis
+018.0       Acute miliary tuberculosis specified as nonpulmonary
+018.1       Acute miliary tuberculosis unspecified
+018.9       Other forms of disseminated tuberculosis
+019   Late effects of tuberculosis
+019.0       Respiratory tuberculosis
+019.1       Of central nervous system
+019.2       Of genito-urinary system
+019.3       Of vertabral column
+019.4       Of hip
+019.5       Of knee
+019.6       Of other bones and joints
+019.9       Of other specified organs
+(020-027) Zoonotic bacterial diseases
+020   Plague
+020.0       Bubonic
+020.1       Pulmonic
+020.9       Unspecified
+021   Tularaemia
+022   Anthrax
+023   Brucellosis
+023.0       Brucella melitensis
+023.1       Brucella abortus
+023.2       Brucella suis
+023.9       Unspecified
+024   Glanders
+025   Melioidosis
+026   Rat-bite fever
+026.1       Spirillum minus
+026.2       Streptobacillus moniliformis
+026.9       Unspecified
+027   Other zoonotic bacterial diseases
+027.0       Listeriosis
+027.1       Erysipelothrix infection
+027.9       Other
+(030-039) Other bacterial diseases
+030   Leprosy
+030.0       Lepromatous
+030.1       Tuberculoid
+030.2       Indeterminate
+030.3       Borderline
+030.9       Other and unspecified
+031   Other diseases due to Mycobacteria
+031.0       Pulmonary
+031.9       Other and unspecified
+032   Diphtheria
+033   Whooping cough
+033.0       Bordetalla Pertussis
+033.1       Bordetalla parapertussis
+033.9       Other and unspecified
+034   Streptococcal sore throat and scarlet fever
+034.0       Streptococcal sore throat
+034.1       Scarlet fever
+035   Erysipelas
+036   Meningococcal infection
+036.0       Meningococcal meningitis
+036.1       Meningococcaemia without mention of meningitis
+036.8       Other forms of meningococcal infection
+036.9       Unspecified
+037   Tetanus
+038   Septicaemia
+038.0       Streptococcal
+038.1       Staphylococcal
+038.2       Pneumococcal
+038.8       Other bacterial septicaemia
+038.9       Unspecified
+039   Other bacterial diseases
+039.0       Gas gangrene
+039.1       Rhinoscleroma
+039.9       Other
+(040-046) Poliomyelitis and other enterovirus diseases of central nervous system
+040   Acute paralytic poliomyelitis specified as bulbar
+041   Acute poliomyelitis with other paralysis
+042   Acute nonparalytic poliomyelitis
+043   Acute poliomyelitis, unspecified
+044   Late effects of actue poliomyelitis
+045   Aseptic mentingitis due to enterovirus
+045.0       Coxsackie virus
+045.1       ECHO virus
+045.9       Aseptic meningitis, unspecified
+046   Other enterovirus diseases of central nervous system
+(050-057) Viral diseases accompanied by exanthem
+050   Smallpox
+050.0       Variola major
+050.1       Variola minor (alastrim)
+050.9       Unspecified
+051   Cowpox
+052   Chickenpox
+053   Herpes zoster
+053.0       Of eye
+053.1       Of other parts of face
+053.2       Of trunk
+053.9       Of other and unspecified sites
+054   Herpes simplex
+055   Measles
+056   Rubella
+057   Other viral exanthem
+057.0       Erythema infectiosum (fifth disease)
+057.1       Exanthema subitum (sixth disease)
+057.8       Other
+057.9       Unspecified
+(060-068) Arthropod-borne viral diseases
+060   Yellow fever
+060.0       Sylvatic
+060.1       Urban
+060.9       Unspecified
+061   Dengue
+062   Mosquito-borne viral encephalitis
+062.0       Japanese encephalitis
+062.1       Western equine encephalitis
+062.2       Eastern equine encephalitis
+062.3       St. Louis encephalitis
+062.4       Murray Valley encephalitis
+062.9       Other and unspecified
+063   Tick-borne viral encephalitis
+063.0       Russian spring-summer (taiga) encephalitis
+063.1       Louping ill
+063.2       Central European encephalitis
+063.9       Other and unspecified
+064   Viral encephalitis transmitted by other arthropods
+065   Viral encephalitis, unspecified
+066   Late effects of viral encephalitis
+067   Arthropod-borne haemorrhagic fever
+067.0       Crimean haemorrhagic fever
+067.1       Omsk haemorrhagic fever
+067.2       Kyasanur Forest disease
+067.3       Other tick-borne haemorrhagic fever
+067.4       Mosquito-borne haemorrhagic fever
+067.5       Haemorrhagic nephroso-nephritis
+067.9       Other and unspecified arthropod-borne haemorrhagic fever
+068   Other arthropod-borne viral diseases
+068.0       Phlebotomous fever
+068.1       Tick-borne fever
+068.2       Mosquito-borne fever
+068.9       Other arthropod-borne viral diseases
+(070-079) Other viral diseases
+070   Infectious hepatitis
+071   Rabies
+072   Mumps
+073   Psittacosis
+074   Specified disease due to Coxsackie virus
+074.0       Herpangina
+074.1       Epidemic pleurodynia (Bornholm disease)
+074.2       Coxsackie myocarditis
+074.9       Other
+075   Infectious mononucleosis
+076   Trachoma, active
+077   Late effects of trachoma
+078   Other viral diseases of the conjunctiva
+078.0       Inclusion conjunctivitis
+078.1       Epidemic keratoconjunctivitis
+078.2       Acute adenoviral follicular conjunctivitis
+078.8       Other
+078.9       Viral conjunctivitis, unspecified
+079   Other viral diseases
+079.0       Molluscum contagiosum
+079.1       Viral warts
+079.2       Lymphocytic choriomeningitis
+079.3       Cat-scratch disease
+079.4       Foot and mouth disease
+079.5       Cytomegalic inclusion disease
+079.8       Other
+079.9       Viral infection, unspecified
+(080-089) Rickettsioses and other arthropod-borne diseases
+080   Epidemic louse-borne typhus
+081   Other typhus
+081.0       Endemic flea-borne
+081.1       Brill's disease
+081.2       Mite-borne
+081.9       Unspecified
+082   Tick-borne rickettsiosis
+082.0       Spotted fevers
+082.1       Boutonneuse fever
+082.2       North Asian tick-borne typhus fever
+082.9       Other
+083   Other rickettsioses
+083.0       Rickettsial pox
+083.1       Q-fever
+083.2       Wolhynian fever (trench fever)
+083.8       Other
+083.9       Unspecified
+084   Malaria
+084.0       Falicparum malaria (malignant tertian)
+084.1       Vivax malaria (benign tertian)
+084.2       Malariae malaria (quartan)
+084.3       Ovale malaria
+084.4       Blackwater fever
+084.5       Recurrent induced malaria
+084.8       Other
+084.9       Unspecified forms
+085   Leishmaniasis
+085.0       Visceral (Kala-azar)
+085.1       Cutaneous (oriental sore)
+085.2       Mucocutaneous (American)
+085.9       Unspecified
+086   American trypanosomiasis
+086.0       With heart involvement
+086.8       With other organ involvement
+086.9       Without mention of organ involvement
+087   Other trypanosomiasis
+087.0       Gambian
+087.1       Rhodesian
+087.8       African trypanosomiasis, unspecified
+087.9       Trypanosomiasis, unspecified
+088   Relapsing fever
+088.0       Louse-borne
+088.1       Tick-borne
+088.9       Unspecified
+089   Other arthropod-borne diseases
+089.1       Bartonellosis
+089.9       Other
+(090-099) Syphilis and other venereal diseases
+090   Congenital syphilis
+090.0       Early congenital syphilis, symptomatic
+090.1       Early congenital syphilis, latent
+090.2       Early congenital syphilis, unspecified
+090.3       Interstitial keratitis
+090.4       Juvenile neurosyphilis
+090.5       Other late congenital syphilis, symptomatic
+090.6       Other late congenital syphilis, latent
+090.7       Late congenital syphilis, unspecified
+090.9       Congenital syphilis, unspecified
+091   Early syphilis, symptomatic
+091.0       Primary syphilis, except extragenital chancre
+091.1       Extragenital chancre
+091.2       Secondary syphilis of skin and mucous membranes
+091.3       Secondary syphilis, relapse (treated, untreated)
+091.8       Other recently acquired syphilis, symptomatic
+091.9       Early syphilis, unspecified
+092   Early syphilis, latent
+092.0       Early syphilis, latent, serological relapse after treatment
+092.9       Early syphilis, latent, unspecified
+093   Cardiovascular syphilis
+093.0       Aneurysm of aorta, specified as syphilitic
+093.9       Other cardiovascular syphilis
+094   Syphilis of central nervous system
+094.0       Tabes dorsalis
+094.1       General paresis
+094.9       Other syphilis of central nervous system
+095   Other forms of late syphilis, with symptoms
+096   Late syphilis, latent
+097   Other syphilis and not specified
+097.0       Late syphilis, unspecified
+097.1       Latent syphilis, unspecified
+097.9       Syphilis, unspecified
+098   Gonococcal infections
+098.0       Acute of genito-urinary tract
+098.1       Chronic of genito-urinary system
+098.2       Of eye
+098.3       Of joint
+098.8       Of other sites
+098.9       Site unspecified
+099   Other veneral disease
+099.0       Chancroid
+099.1       Lymphogranuloma verereum
+099.2       Granuloma inguinale
+099.9       Other and unspecified
+(100-104) Other spirochaetal diseases
+100   Leptospirosis
+100.0       Leptospurosis icterohaemorrhagiea
+100.8       Other
+100.9       Unspecified
+101   Vincent's angina
+102   Yaws
+102.0       Initial lesions
+102.1       Multiple papillomata and "wet crab" yaws
+102.2       Other early skin lesions
+102.3       Hyperkeratosis
+102.4       Gummata, ulcers
+102.5       Gangosa
+102.6       Bone and joint lesions
+102.7       Other manifestations
+102.8       Latent yaws
+102.9       Yaws, unspecified
+103   Pinta
+103.0       Primary lesions
+103.1       Intermediate lesions
+103.2       Late lesions
+103.3       Mixed lesions
+103.9       Unspecified
+104   Other spirochaetal infection
+104.0       Non-venereal endemic syphilis
+104.9       Other
+(110-117) Mycoses
+110   Dermatophytosis
+110.0       Of scalp and beard
+110.1       Of foot
+110.9       Of other and unspecified sites
+111   Dermatomycosis, other and unspecified
+111.0       Pityriasis versicolor
+111.1       Tinea nigra
+111.2       Tinea blanca
+111.8       Other
+111.9       Unspecified
+112   Moniliasis
+113   Actinomycosis
+114   Coccidioidomycosis
+115   Histoplasmosis
+116   Blastomycosis
+116.0       European
+116.1       North American
+116.2       South American
+116.9       Other and unspecified
+117   Other systemic mycosis
+117.0       Rhinosporidiosis
+117.1       Sporotrichosis
+117.2       Chromomycosis
+117.3       Aspergillosis
+117.4       Maduromycosis
+117.8       Other
+117.9       Unspecified
+(120-129) Helminthiases
+120   Schistosomiasis
+120.0       Schistosoma haematobium
+120.1       Schistosoma Mansoni
+120.2       Schistosoma japonicum
+120.3       Cutaneous
+120.8       Other
+120.9       Unspecified
+121   Other trematode infection
+121.0       Opisthorchiasis
+121.1       Clonorchiasis
+121.2       Paragonomiasis
+121.3       Fascioliasis
+121.4       Fasciolopsiasis
+121.9       Other and unspecified
+122   Hydatidosis
+122.0       Of liver
+122.1       Of lung
+122.8       Of other specified sites
+122.9       Of unspecified site
+123   Other cestode infection
+123.0       Taenia solium infection, intestinal form
+123.1       Cysticercosis
+123.2       Taenia saginata infection
+123.3       Taeniasis, unspecified
+123.4       Diphyllobothriasis, intestinal
+123.5       Sparganosis (larval diphyllobothriasis)
+123.6       Hymenolepiasis
+123.9       Other and unspecified
+124   Trichiniasis
+125   Filarial infection
+125.0       Wuchereriasis
+125.1       Brugia filariasis
+125.2       Loiasis
+125.3       Onchocercosis
+125.4       Acanthocheilonemiasis
+125.5       Mansonellosis
+125.8       Other filariasis
+125.9       Unspecified
+126   Ankylostomiasis
+126.0       Ankylostoma duodenale
+126.1       Necator americanus
+126.8       Other Ankylostoma
+126.9       Unspecified
+127   Other intestinal helminthiasis
+127.0       Ascariasis
+127.1       Strongyloidiasis
+127.2       Trichuriasis
+127.3       Enterobiasis
+127.4       Other intestinal nematode infection
+127.5       Mixed intestinal helminthiasis
+127.9       Intestinal helminthiasis, unspecified
+128   Other and unspecified helminthiasis
+128.0       Larva migrans, visceralis
+128.8       Other
+128.9       Unspecified
+129   Intestinal parasitism, unspecified
+(130-136) Other infective and parasitic diseases
+130   Toxoplasmosis
+130.0       Acquired
+130.1       Congenital active
+130.2       Late effects of intra-utrine infection
+130.9       Unspecified
+131   Trichomoniasis urogenitalis
+132   Pediculosis
+133   Acariasis
+133.0       Scabies
+133.9       Other
+134   Other infestation
+134.0       Myiasis
+134.1       Phthirus infestation
+134.2       Other arthropod infestation
+134.3       Hirudiniasis
+134.9       Other and unspecified
+135   Sarcoidosis
+136   Other and unspecified infective and parasitic diseases
+(140-149) Malignant neoplasm of buccal cavity and pharynx
+140   Malignant neoplasm of lip
+140.0       Upper lip
+140.1       Lower lip
+140.2       Both lips
+140.9       Lip unspecified
+141   Malignant neoplasm of tongue
+141.0       Base of tongue
+141.1       Dorsal surface of tongue
+141.2       Borders and tip of tongue
+141.3       Ventral surface of tongue
+141.9       Part unspecified
+142   Malignant neoplasm of salivary gland
+142.0       Parotid gland
+142.8       Other specified salivary gland
+142.9       Unspecified salivary gland
+143   Malignant neoplasm of gum
+143.0       Upper gum
+143.1       Lower gum
+143.9       Gum unspecified
+144   Malignant neoplasm of floor of mouth
+145   Malignant neoplasm of other and unspecified parts of mouth
+145.0       Buccal mucosa
+145.1       Palate(hard)(soft)
+145.8       Other specified parts
+145.9       Part unspecified
+146   Malignant neoplasm of oropharynx
+146.0       Tonsils
+146.8       Other specified parts
+146.9       Part unspecified
+147   Malignant neoplasm of nasopharynx
+148   Malignant neoplasm of hypopharynx
+148.0       Postcricoid region
+148.1       Pyriform fossa
+148.8       Other specified parts
+148.9       Part unspecified
+149   Malignant neoplasm of pharynx, unspecified
+(150-159) Malignant neoplasm of digestive organs and peritoneum
+150   Malignant neoplasm of oesophagus
+151   Malignant neoplasm of stomach
+151.0       Cardia
+151.1       Pylorus
+151.8       Other specified parts
+151.9       Part unspecified
+152   Malignant neoplasm of small intestine, including duodenum
+152.0       Duodenum
+152.1       Jejunum
+152.2       Ileum
+152.8       Other specified parts
+152.9       Part unspecified
+153   Malignant neoplasm of large intestine, except rectum
+153.0       Caecum, appendix and ascending colon
+153.1       Transverse colon, including hepatic and splenic flexures
+153.2       Descending colon
+153.3       Sigmoid colon
+153.8       Large intestine (including colon), part unspecified
+153.9       Intestinal tract, part unspecified
+154   Malignant neoplasm of rectum and rectosigmoid junction
+154.0       Rectosigmoid junction
+154.1       Rectum
+154.2       Anal canal
+155   Malignant neoplasm of liver and intrahepatic bile ducts, specified as primary
+155.0       Liver
+155.1       Intrahepatic bile ducts
+156   Malignant neoplasm of gallbladder and bile ducts
+156.0       Gallbladder
+156.1       Extraheptic bile ducts
+156.2       Ampulla of Vater
+156.9       Biliary tract, unspecified
+157   Malignant neoplasm of pancreas
+157.0       Head
+157.8       Other specified parts
+157.9       Unspecified
+158   Malignant neoplasm of peritoneum and retroperitoneal tissue
+158.0       Retroperitoneal tissue
+158.9       Other parts
+159   Malignant neoplasm of unspecified digestive organs
+(160-163) Malignant neoplasm of respiratory system
+160   Malignant neoplasm of nose, naval cavities, middle ear and accessory sinuses
+160.0       Nose (internal) and nasal cavities
+160.1       Eustachian tube and middle ear
+160.2       Maxiliary sinus
+160.8       Other sinus
+160.9       Unspecified sinus
+161   Malignant neoplasm of larynx
+161.0       Glottis, true vocal cord
+161.8       Other specified parts
+161.9       Part unspecified
+162   Malignant neoplasm of trachea, bronchus and lung
+162.0       Trachea
+162.1       Bronchus and lung
+163   Malignant neoplasm of other and unspecified respiratory organs
+163.0       Pleura
+163.1       Mediastinum
+163.9       Site unspecified
+(170-174) Malignant neoplasm of bone, connective tissue, skin and breast
+170   Malignant neoplasm of bone
+170.0       Bones of skull and face
+170.1       Lower jaw bone
+170.2       Vertebral column (excluding sacrum and coccyx)
+170.3       Ribs, sternum and clavicle
+170.4       Long bones of upper limb and scapula
+170.5       Upper limb, short bones
+170.6       Pelvic bones, sacrum, coccyx
+170.7       Lower limb, long bones
+170.8       Lower limb, short bones
+170.9       Site unspecified
+171   Malignant neoplasm of connective and other soft tissue
+171.0       Head, face and neck
+171.1       Trunk
+171.2       Upper limb (including shoulder)
+171.3       Lower limb (including hip)
+171.9       Site unspecified
+172   Malignant melanoma of skin
+172.0       Lips
+172.1       Eyelids, including canthi
+172.2       Ear and external auricular canal
+172.3       Other and unspecified parts of face
+172.4       Scalp and neck
+172.5       Scrotum
+172.6       Trunk, except scrotum
+172.7       Upper limb
+172.8       Lower limb
+172.9       Site unspecified
+173   Other malignant neoplasm of skin
+173.0       Lips
+173.1       Eyelids, including canthi
+173.2       Ear and external auricular canal
+173.3       Other and unspecified part of face
+173.4       Scalp and neck
+173.5       Scrotum
+173.6       Trunk, except scrotum
+173.7       Upper limb
+173.8       Lower limb
+173.9       Site unspecified
+174   Malignant neoplasm of breast
+(180-189) Malignant neoplasm of genito-urinary organs
+180   Malignant neoplasm of cervix uteri
+181   Chorionepithelioma
+182   Other malignant neoplasm of uterus
+182.0       Corpus uteri
+182.9       Uterus, unspecified
+183   Malignant neoplasm of ovary, Fallopian tube and broad ligament
+183.0       Ovary
+183.1       Fallopian tube and broad ligament
+183.9       Part unspecified
+184   Malignant neoplasm of other and unspecified female genital organs
+184.0       Vagina
+184.1       Vulva
+184.8       Other specified sites
+184.9       Site unspecified
+185   Malignant neoplasm of prostate
+186   Malignant neoplasm of testis
+187   Malignant neoplasm of other and unspecified male genital organs
+187.0       Penis
+187.8       Other specified sites
+187.9       Site unspecified
+188   Malignant neoplasm of bladder
+189   Malignant neoplasm of other and unspecified urinary organs
+189.0       Kidney, except pelvis
+189.1       Pelvis of kidney
+189.2       Ureter
+189.9       Other and unspecified
+(190-199) Malignant neoplasm of other and unspecified sites
+190   Malignant neoplasm of eye
+191   Malignant neoplasm of brain
+192   Malignant neoplasm of other part of nervous system
+192.0       Cranial nerves (including optic)
+192.1       Cerebral meninges
+192.2       Spinal cord
+192.3       Spinal meninges
+192.4       Peripheral nerves
+192.5       Sympathetic nervous system
+192.9       Site unspecified
+193   Malignant neoplasm of thyroid gland
+194   Malignant neoplasm of other endocrine glands
+194.0       Suprarenal gland
+194.1       Parathyroid gland
+194.2       Thymus
+194.3       Pituitary gland and craniopharyngeal duct
+194.4       Pineal gland
+194.8       Other
+194.9       Unspecified endocrine gland
+195   Malignant neoplasm of ill-defined sites
+195.0       Abdomen, intra-abdominal cancer
+195.1       Pelvis, pelvic viscera, rectovaginal septum
+195.9       Other
+196   Secondary and unspecified malignant neoplasm of lymph nodes
+196.0       Head, face and neck
+196.1       Intrathoracic
+196.2       Intra-abdominal
+196.3       Axillary and upper limb
+196.4       Inguinal and lower limb
+196.7       Other specified sites
+196.8       Multiple sites
+196.9       Site unspecified
+197   Secondary malignant neoplasm of respiratory and digestive systems
+197.0       Lung, specified as secondary
+197.1       Mediastinum, specified as secondary
+197.2       Pleura, specified as secondary
+197.3       Other respiratory organs, specified as secondary
+197.4       Small intestine, including duodenum, specified as secondary
+197.5       Large intestine and rectum, specified as secondary
+197.6       Peritoneum, specified as secondary
+197.7       Liver, specified as secondary
+197.8       Liver, unspecified
+197.9       Other digestive organs, specified as secondary
+198   Other secondary malignant neoplasm
+198.0       Bladder specified as secondary
+198.1       Other urinary organs, specified as secondary
+198.2       Skin, specified as secondary
+198.3       Brain, specified as secondary
+198.4       Other parts of nervous system, specified as secondary
+198.5       Bone, specified as secondary
+198.9       Other sites, specified as secondary
+199   Malignant neoplasm without specification of site
+199.0       Multiple
+199.1       Other
+(200-209) Neoplasms of lymphatic and haematopoietic tissue
+200   Lymphosarcoma and reticulum-cell sarcoma
+200.0       Reticulum-cell sarcoma
+200.1       Lymphosarcoma
+201   Hodgkin's disease
+202   Other neoplasms of lymphoid tissue
+202.0       Giant follicular lymphoma
+202.1       Mycosis fungoides
+202.2       Other primary malignant neoplasms of lymphoid tissue
+202.9       Other forms of lymphoma
+203   Multiple myeloma
+204   Lymphatic leukaemia
+204.0       Acute
+204.1       Chronic
+204.9       Unspecified
+205   Myeloid leukaemia
+205.0       Acute
+205.1       Chronic
+205.9       Unspecified
+206   Monocytic leukaemia
+206.0       Acute
+206.1       Chronic
+206.9       Unspecified
+207   Other and unspecified leukaemia
+207.0       Leukaemia, acute
+207.1       Leukemmia, chronic
+207.2       Acute erythraemia
+207.9       Leukaemia, unspecified
+208   Polycythaemia vera
+209   Myelofibrosis
+(210-228) Benign neoplasms
+210   Benign neoplasm of buccal cavity and pharynx
+210.0       Lip
+210.1       Tongue
+210.2       Salivary gland
+210.3       Floor of mouth
+210.4       Other and unspecified parts of mouth
+210.5       Tonsil
+210.6       Other parts of oropharynx
+210.7       Nasopharynx
+210.8       Hypopharynx
+210.9       Pharynx unspecified
+211   Benign neoplasm of other parts of digestive system
+211.0       Oesophagus
+211.1       Stomach
+211.2       Small intestine
+211.3       Large intestine, except rectum
+211.4       Rectum
+211.5       Liver and biliary passages
+211.6       Pancreas
+211.7       Peritoneum and retroperitoneal tissue
+211.9       Unspecified site
+212   Benign neoplasm of respiratory system
+212.0       Nose, nasal cavities, middle ear and accessory sinuses
+212.1       Larynx
+212.2       Trachea
+212.3       Bronchus and lung
+212.4       Pleura
+212.5       Mediastinum
+212.9       Unspecified site
+213   Benign neoplasm of bone and cartilage
+213.0       Exostosis
+213.1       Osteoma
+213.2       Chondroma, enchondroma, myxochondroma
+213.9       Other and unspecified
+214   Lipoma
+214.0       Skin and subcutaneous tissue
+214.1       Spermatic cord
+214.9       Other and unspecified
+215   Other benign neoplasm of muscular and connective tissue
+216   Benign neoplasm of skin
+216.0       Epidermis
+216.1       Hair follicles and sebaceous glands
+216.2       Sweat glands and sweat ducts
+216.8       Other
+216.9       Unspecified
+217   Benign neoplasm of breast
+218   Uterine fibroma
+219   Other benign neoplasm of uterus
+219.0       Papiloma, polyp
+219.1       Benign cyst
+219.9       Other and unspecified
+220   Benign neoplasm of ovary
+220.0       Teratoma (dermoid) not specified as malignant
+220.1       Cystadenoma; benign ovarian cyst
+220.2       Fibroma
+220.9       Other and unspecified
+221   Benign neoplasm of other female genital organs
+221.0       Fallopian tube and broad ligament
+221.1       Vagina
+221.2       Vulva
+221.8       Other specified sites
+221.9       Unspecified site
+222   Benign neoplasm of male genital organs
+222.0       Testis
+222.1       Penis
+222.8       Other specified sites
+222.9       Unspecified site
+223   Benign neoplasm of kidney and other urinary organs
+223.0       Kidney, except pelvis
+223.1       Pelvis of kidney
+223.2       Ureter
+223.3       Bladder
+223.8       Other specified sites
+223.9       Unspecified site
+224   Benign neoplasm of eye
+225   Benign neoplasm of brain and other parts of nervous system
+225.0       Brain
+225.1       Cranial nerves (including optic)
+225.2       Cerebral meninges
+225.3       Spinal cord
+225.4       Spinal meninges
+225.5       Peripheral nerves
+225.6       Sympathetic nervous system
+225.9       Unspecified site
+226   Benign neoplasm of endocrine glands
+226.0       Suprarenal gland
+226.1       Thymus
+226.2       Pituitary gland and craniopharyngeal duct (pouch)
+226.3       Pineal gland
+226.4       Carotid body
+226.8       Other specified endocrine glands
+226.9       Unspecified site
+227   Haemangioma and lymphangioma
+227.0       Haemangioma (of skin)
+227.1       Haemangioma of other sites
+227.2       Lymphangioma
+228   Benign neoplasm of other and unspecified organs and tissues
+(230-239) Neoplasm of unspecified nature
+230   Neoplasm of unspecified nature of digestive organs
+230.0       Oesophagus
+230.1       Stomach
+230.2       Small intestine
+230.3       Large intestine, excluding rectum
+230.4       Rectum
+230.5       Liver and biliary passages
+230.6       Pancreas
+230.7       Peritoneum
+230.9       Unspecified site
+231   Neoplasm of unspecified nature of respiratory organs
+231.0       Nose, nasal cavities, middle ear and accessory sinuses
+231.1       Larynx
+231.2       Trachea
+231.3       Bronchus and lung
+231.4       Pleura
+231.5       Mediastinum
+231.9       Unspecified site
+232   Neoplasm of unspecified nature of skin and musculoskeletal system
+232.0       Bone and cartilage
+232.1       Muscular and connective tissue
+232.2       Skin
+233   Neoplasm of unspecified nature of breast
+234   Neoplasm of unspecified nature of uterus
+234.0       Carcinoma in situ of cervix uteri
+234.1       Cervix uteri, other
+234.9       Other and unspecified part
+235   Neoplasm of unspecified nature of ovary
+236   Neoplasm of unspecified nature of other female genital organs
+236.0       Fallopian tube and broad ligaments
+236.1       Vagina
+236.2       Vulva
+236.8       Other specified sites
+236.9       Unspecified site
+237   Neoplasm of unspecified nature of other genito-urinary organs
+237.0       Testis
+237.1       Penis
+237.2       Other and unspecified male genital organs
+237.3       Kidney, except pelvis
+237.4       Pelvis of kidney
+237.5       Ureter
+237.6       Bladder
+237.9       Other and unspecified urinary orgsans
+238   Neoplasm of unspecified nature of eye, brain and other parts of nervous system
+238.0       Eye
+238.1       Brain
+238.2       Cranial nerves (including optic nerve)
+238.3       Cerebral meninges
+238.4       Spinal cord
+238.5       Spinal meninges
+238.6       Peripheral nerves
+238.7       Sympathetic nervous system
+238.9       Unspecified site
+239   Neoplasm of unspecified nature of other and unspecified organs
+239.0       Buccal cavity and pharynx
+239.1       Endocrine glands
+239.9       Other and unspecified sites
+(240-246) Diseases of thyroid gland
+240   Simple goitre
+240.0       Endemic
+240.1       Sporadic
+240.9       Unspecified
+241   Non-toxic nodular goitre
+241.0       Endemic
+241.1       Sporadic
+241.9       Unspecified
+242   Thyrotoxicosis with or without goitre
+242.0       Toxic diffuse goitre
+242.1       Toxic nodular goitre
+242.2       Thyrotoxicosis without mention of goitre
+243   Cretinism of congenital origin
+244   Myxoedema
+245   Thyroiditis
+245.0       Acute
+245.1       Chronic
+245.9       Unspecified
+246   Other diseases of thyroid gland
+(250-258) Diseases of other endocrine glands
+250   Diabetes mellitus
+250.0       With mention of acidosis or coma
+250.9       Without mention of acidosis or coma
+251   Disorders of pancreatic internal secretion other than diabetes mellitus
+252   Diseases of parathyroid gland
+252.0       Hyperparathyroidism
+252.1       Hypoparathyroidism
+252.9       Other and unspecified
+253   Diseases of pituitary gland
+253.0       Anterior pituitary hyperfunction
+253.1       Anterior pituitary hypofunction
+253.2       Chromophobe adenoma, pituitary
+253.9       Other and unspecified
+254   Diseases of thymus gland
+255   Diseases of adrenal glands
+255.0       Adrenal cortical hyperfunction
+255.1       Adrenal cortical hypofunction
+255.2       Phaeochromocytoma
+255.9       Other and unspecified
+256   Ovarian dysfunction
+256.0       Hyperfunction
+256.1       Hypofunction
+256.9       Other and unspecified
+257   Testicular dysfunction
+257.0       Hyperfunction
+257.1       Hypofunction
+257.9       Other and unspecified
+258   Polyglandular dysfunction and other diseases of endocrine glands
+258.0       Cushing's syndrome
+258.1       Polyglandular dysfunction
+258.9       Other and unspecified diseases of endocrine system
+(260-269) Avitaminoses and other nutritional deficiency
+260   Vitamin A deficiency
+260.0       Night blindness
+260.1       Xerophthalmia, keratomalacia
+260.8       Other manifestation
+260.9       Unspecified
+261   Thiamine deficiency
+262   Niacin deficiency
+263   Other vitamin B deficiency
+263.0       Ariboflavinosis
+263.1       Vitamin B6 deficiency
+263.8       Other
+263.9       Unspecified
+264   Ascorbic acid deficiency
+265   Vitamin D deficiency
+265.0       Rickets active
+265.1       Rickets, late effect
+265.2       Osteomalacia
+265.9       Unspecified
+266   Other vitamin deficiency states
+266.0       Vitamin K deficiency
+266.8       Other
+266.9       Unspecified
+267   Protein malnutrition
+268   Nutritional marasmus
+269   Other nutritional deficiency
+269.0       Sprue and steatorrhoea
+269.1       Malabsorption syndrome, unspecified
+269.9       Other and unspecified
+(270-279) Other metabolic diseases
+270   Congenital disorders of amino-acid metabolism
+270.0       Phenylketonuria
+270.1       Cystinuria
+270.2       Other disorders of amino-acid transport
+270.3       Cystinosis
+270.4       Maple syrup disease
+270.5       Disorders of purine and pyrimidine metabolism
+270.6       Alkaptonuria
+270.8       Other
+270.9       Unspecified
+271   Congenital disorders of carbohydrate metabolism
+271.0       Von Gierke's disease
+271.1       Other and unspecified glycogen storage disease
+271.2       Galactosaemia
+271.3       Fructosuria
+271.8       Other
+271.9       Unspecified
+272   Congenital disorders of lipid metabolism
+272.0       Xanhomatosis
+272.1       Familial lipoprotein deficiency disorders
+272.2       Lipid storage disorders
+272.8       Other
+272.9       Unspecified
+273   Other and unspecified congenital disorders of metabolism
+273.0       Cystic fibrosis (mucoviscidosis)
+273.1       Disorders of porphyrin metabolism
+273.2       Haemochromatosis
+273.3       Hepatolenticular degeneration
+273.4       Other disorders involving metabolism of minerals
+273.5       Defective bilirubin excretion
+273.6       Disorders of steroid metabolism
+273.8       Other
+273.9       Unspecified
+274   Gout
+275   Plasma protein abnormalities
+275.0       Agammaglobulinaemia
+275.1       Hypogammaglobulinaemia
+275.2       Analbuminaemia
+275.3       Bisalbuminaemia
+275.4       Cryoglobulinaemia
+275.5       Macroglobulinaemia
+275.9       Other and unspecified
+276   Amyloidosis
+277   Obesity not specified as of endocrine origin
+278   Other hyperalimentation
+278.0       Hypervitaminosis A
+278.1       Carotinaemia
+278.2       Hypervitaminosis D
+278.9       Other and unspecified
+279   Other and unspecified metabolic diseases
+(280-289) Diseases of blood and blood-forming organs
+280   Iron deficiency anaemias
+281   Other vitamin B12 deficiency anaemia
+281.0       Pernicious anaemia
+281.1       Other vitamin B12 deficiency
+281.2       Folic acid deficiency anaemia
+281.3       Vitamin B6 deficiency anaemia
+281.4       Protein deficiency anaemia
+281.9       Other and unspecified deficiency anaemia
+282   Hereditary haemolytic anaemias
+282.0       Familial acholuric jaundice
+282.1       Hereditary elliptocytosis
+282.2       Anaemias due to glucose-6-phosphate dehydrogenase deficiency
+282.3       Other hereditary nonspherocytic haemolytic anaemia
+282.4       Mediterranean anaemia
+282.5       Haemoglobinopathies
+282.9       Other
+283   Acquired haemolytic anaemias
+283.0       Acute
+283.9       Other
+284   Aplastic anaemia
+285   Other and unspecified anaemias
+285.0       Hypochromic anaemia with iron loading
+285.8       Other specified anaemia
+285.9       Anaemia, unspecified
+286   Coagulation defects
+286.0       Haemophilia
+286.1       Christmas disease
+286.2       Plasma thromboplastin antecedent deficiency
+286.3       Vascular haemophilia
+286.4       Haemorrhagic fibrinolysis
+286.5       Circulating anticoagulants
+286.9       Other
+287   Purpura and other haemorrhagic conditions
+287.0       Allergic purpura
+287.1       Thrombocytopenia
+287.2       Haemorrhagic thrombocythaemia
+287.3       Thrombocytopathy
+287.9       Other and unspecified
+288   Agranulocytosis
+289   Other disease of blood and blood-forming organs
+289.0       Polycythaemia, secondary
+289.1       Chronic lymphadenitis
+289.2       Nonspecific mesenteric lymphadenitis
+289.3       Lymphadenitis, unspecified, except mesenteric
+289.4       Hypersplenism
+289.5       Other disease of spleen
+289.9       Other and unspecified
+(290-299) Psychoses
+290   Senile and presenile dementia
+290.0       Senile dementia
+290.1       Presenile dementia
+291   Alcoholic psychosis
+291.0       Delirium tremens
+291.1       Korsakov's psychosis (alcoholic)
+291.2       Other alcoholic hallucinosis
+291.3       Alcoholic paranoia
+291.9       Other and unspecified
+292   Psychosis associated with intracranial infection
+292.0       General paralysis
+292.1       Other syphilis of central nervous system
+292.2       Epidemic encephalitis
+292.3       Other and unspecified encephalitis
+292.9       Other and unspecified intracranial infection
+293   Psychosis associated with other cerebral condition
+293.0       Cerebral arteriosclerosis
+293.1       Other cerebrovascular disturbances
+293.2       Epilepsy
+293.3       Intercranial neoplasm
+293.4       Degenerative diseases of central nervous system
+293.5       Brain trauma
+293.9       Other and unspecified cerebral condition
+294   Psychosis associated with other physical conditions
+294.0       Endocrine disorders
+294.1       Metabolic and nutritional disorders
+294.2       Systemic infections
+294.3       Drug or poison intoxication
+294.4       Childbirth
+294.8       Other physical conditions
+294.9       Unspecified physical condition
+295   Schizophrenia
+295.0       Simple type
+295.1       Hebephrenic type
+295.2       Catatonic type
+295.3       Paranoid type
+295.4       Acute schizophrenia episode
+295.5       Latent schizophrenia
+295.6       Residual schizophrenia
+295.7       Schizo-affective type
+295.8       Other
+295.9       Unspecified type
+296   Affective psychoses
+296.0       Involutional melancholia
+296.1       Manic-depression psychosis, manic type
+296.2       Manic depressive psychosis, depressed type
+296.3       Manic-depressive psychosis, circular type
+296.8       Other
+296.9       Unspecified
+297   Paranoid states
+297.0       Paranoia
+297.1       Involutional paraphrenia
+297.9       Other
+298   Other psychoses
+298.0       Reactive depressive psychosis
+298.1       Reactive excitation
+298.2       Reactive confusion
+298.3       Acute paranoid reaction
+298.9       Reactive psychosis, unspecified
+299   Unspecified psychosis
+(300-309) Neuroses, personality disorders and other nonpsychotic mental disorders
+300   Neuroses
+300.0       Anxiety neurosis
+300.1       Hysterical neurosis
+300.2       Phobic neurosis
+300.3       Obsessive compulsive neurosis
+300.4       Depressive neurosis
+300.5       Neurasthenia
+300.6       Depersonalisation syndrome
+300.7       Hypochondriacal neurosis
+300.8       Other
+300.9       Unspecified neurosis
+301   Personality disorders
+301.0       Paranoid
+301.1       Affective
+301.2       Schizoid
+301.3       Explosive
+301.4       Anankastic
+301.5       Hysterical
+301.6       Asthenic
+301.7       Antisocial
+301.8       Other
+301.9       Unspecified
+302   Sexual deviation
+302.0       Homosexuality
+302.1       Fetishism
+302.2       Paedophilia
+302.3       Transvestitism
+302.4       Exhibitionism
+302.5       Voyeurism
+302.6       Sadism
+302.7       Masochism
+302.8       Other
+302.9       Unspecified
+303   Alcoholism
+303.0       Episodic excessive drinking
+303.1       Habitual excessive drinking
+303.2       Alcoholic addiction
+303.9       Other and unspecified alcoholism
+304   Drug dependence
+304.0       Opium, opium alkaloids and their derivatives
+304.1       Synthetic analgesics with morphine-like effects
+304.2       Barbiturates
+304.3       Other hypnotics and sedatives or tranquillisers
+304.4       Cocaine
+304.5       Cannabis sativa
+304.6       Other psycho-stimulants
+304.7       Hallucinogenics
+304.8       Other
+304.9       Unspecified
+305   Physical disorders of presumably psychogenic origin
+305.0       Skin
+305.1       Musculoskeletal
+305.2       Respiratory
+305.3       Cardiovascular
+305.4       Haemic and lymphatic
+305.5       Gastro-intestinal
+305.6       Genito-urinary
+305.7       Endocrine
+305.8       Organs of special sense
+305.9       Other
+306   Special symptoms not elsewhere classified
+306.0       Stammering and stuttering
+306.1       Specific learning disturbance
+306.2       Tics
+306.3       Other psychomotor disorders
+306.4       Specific disorders of sleep
+306.5       Feeding disturbance
+306.6       Enuresis
+306.7       Encopresis
+306.8       Cephalalgia
+306.9       Other
+307   Transient situational disturbances
+308   Behaviour disorders of childhood
+309   Mental disorders not specified as psychotic associated with physical conditions
+309.0       Intracranial infections
+309.1       Drug, poison or systemic intoxication
+309.2       Brain trauma
+309.3       Circulatory disturbance
+309.4       Epilepsy
+309.5       Disturbance of metabolism, growth or nutrition
+309.6       Senile or presenile brain disease
+309.7       Intracranial neoplasm
+309.8       Degenerative diseases of central nervous system
+309.9       Other or unspecified physical condition
+(310-315) Mental retardation
+310   Borderline mental retardation
+310.0       Following infections and intoxications
+310.1       Following trauma or physical agents
+310.2       With disorders of metabolism, growth or nutrition
+310.3       Associated with gross brain disease (postnatal)
+310.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+310.5       With chromosomal abnormalities
+310.6       Associated with prematurity
+310.7       Following major psychiatric disorder
+310.8       With psycho-social (environmental) deprivation
+310.9       Other and unspecified
+311   Mild mental retardation
+311.0       Following infections and intoxications
+311.1       Following trauma or physical agents
+311.2       With disorders of metabolism, growth or nutrition
+311.3       Associated with gross brain disease (postnatal)
+311.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+311.5       With chromosomal abnormalities
+311.6       Associated with prematurity
+311.7       Following major psychiatric disorder
+311.8       With psycho-social (environmental) deprivation
+311.9       Other and unspecified
+312   Moderate mental retardation
+312.0       Following infections and intoxications
+312.1       Following trauma or physical agents
+312.2       With disorders of metabolism, growth or nutrition
+312.3       Associated with gross brain disease (postnatal)
+312.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+312.5       With chromosomal abnormalities
+312.6       Associated with prematurity
+312.7       Following major psychiatric disorder
+312.8       With psycho-social (environmental) deprivation
+312.9       Other and unspecified
+313   Severe mental retardation
+313.0       Following infections and intoxications
+313.1       Following trauma or physical agents
+313.2       With disorders of metabolism, growth or nutrition
+313.3       Associated with gross brain disease (postnatal)
+313.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+313.5       With chromosomal abnormalities
+313.6       Associated with prematurity
+313.7       Following major psychiatric disorder
+313.8       With psycho-social (environmental) deprivation
+313.9       Other and unspecified
+314   Profound mental retardation
+314.0       Following infections and intoxications
+314.1       Following trauma or physical agents
+314.2       With disorders of metabolism, growth or nutrition
+314.3       Associated with gross brain disease (postnatal)
+314.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+314.5       With chromosomal abnormalities
+314.6       Associated with prematurity
+314.7       Following major psychiatric disorder
+314.8       With psycho-social (environmental) deprivation
+314.9       Other and unspecified
+315   Unspecified mental retardation
+315.0       Following infections and intoxications
+315.1       Following trauma or physical agents
+315.2       With disorders of metabolism, growth or nutrition
+315.3       Associated with gross brain disease (postnatal)
+315.4       Associated with diseases and conditions dute to (unknown) prenatal influence
+315.5       With chromosomal abnormalities
+315.6       Associated with prematurity
+315.7       Following major psychiatric disorder
+315.8       With psycho-social (environmental) deprivation
+315.9       Other and unspecified
+(320-324) Inflammatory diseases of central nervous system
+320   Meningitis
+320.0       H. influenzae
+320.1       Pneumococcus
+320.8       Due to other specified organism
+320.9       With no organism specified as cause
+321   Phlebitis and thrombophlebitis of intracranial venous sinuses
+322   Intracranial and intraspinal abscess
+323   Encephalitis, myelitis and encephalomyelitis
+324   Late effects of intracranial abscess or pyogenic infection
+(330-333) Hereditary and familial diseases of nervous system
+330   Hereditary neuromuscular disorders
+330.0       Neuropathic muscular atrophy
+330.1       Familial progressive spinal muscular atrophy
+330.2       Amyotonia congenita
+330.3       Progressive muscular dystrophy
+330.4       Myotonia atrophica
+330.9       Other
+331   Hereditary diseases of the striatopallidal system
+331.0       Hereditary chorea
+331.1       Dystonia musculorum deformans
+331.2       Progressive familial myoclonic epilepsy
+331.9       Other
+332   Hereditary ataxia
+332.0       Hereditary spinal ataxia
+332.1       Hereditary cerebellar ataxia
+332.9       Other and unspecified
+333   Other hereditary and familial diseases of nervous system
+333.0       Amaurotic family idiocy
+333.1       Progressive cerebral leukodystrophy
+333.9       Other and unspecified
+(340-349) Other diseases of central nervous system
+340   Multiple sclerosis
+341   Other demyelinating diseases of central nervous system
+342   Paralysis agitans
+343   Cerebral spastic infantile paralysis
+343.0       Spastic hemiplegia
+343.1       Other spastic paralyis
+343.2       Athetoid
+343.9       Other and unspecified
+344   Other cerebral paralysis
+344.0       Monoplegia
+344.1       Hemiplegia
+344.2       Paraplegia
+344.3       Quadriplegia
+344.9       Other and unspecified
+345   Epilepsy
+345.0       Generalised nonconvulsive
+345.1       Generalised convulsive
+345.2       Status epilepticus
+345.3       Partial (focalised), temporal lobe or psychomotor
+345.4       Partial (focalised), motor type
+345.5       Partial (focalised), otherand unspecified type
+345.9       Other and unspecified
+346   Migraine
+347   Other disease of brain
+347.0       Cataplexy and narcolepsy
+347.1       Cerebral and cortical atrophy
+347.9       Other and unspecified
+348   Motor neurone disease
+348.0       Amyotrophic lateral sclerosis
+348.1       Progressive bulbar palsy
+348.2       Other progressive muscluar atrophy
+348.9       Other and unspecified manifestations
+349   Other diseases of spinal cord
+349.0       Syringomyelia and syringobulbia
+349.1       Spinal paralysis, monoplegic
+349.2       Spinal paralysis, hemiplegic
+349.3       Spinal paralysis, paraplegic
+349.4       Spinal paralysis, quadriplegic
+349.5       Spinal paralysis, other and unspecified
+349.6       Compression, old or not specified as traumatic
+349.9       Other and unspecified
+(350-358) Diseases of nerves and peripheral ganglia
+350   Facial paralysis
+351   Trigeminal neuralgia
+352   Brachial neuritis
+353   Sciatica
+354   Polyneuritis and polyradiculitis
+355   Other and unspecified forms of neuralgia and neuritis
+355.0       Cranial NEC
+355.1       Spinal NEC
+355.9       Other and unspecified
+356   Other diseases of cranial nerves
+357   Other diseases of peripheral nerves except autonomic
+357.0       Cervical and brachial plexus
+357.1       Axillary nerve
+357.2       Median nerve
+357.3       Ulnar nerve
+357.9       Other and unspecified
+358   Disease of peripheral autonomic nervous system
+358.0       Horner's syndrome
+358.1       Carotid sinus syndrome
+358.9       Other and unspecified
+(360-369) Inflammatory diseases of the eye
+360   Conjunctivitis and ophthalmia
+361   Blepharitis
+362   Hordeolum
+363   Keratitis
+363.0       With ulceration
+363.9       Without mention of ulcer
+364   Iritis
+365   Choroiditis
+366   Other inflammation of uveal tract
+367   Inflammation of optic nerve and retina
+368   Inflammation of lachrymal glands and ducts
+369   Other inflammatory diseases of eye
+369.0       Abscess and cellulitis of orbit
+369.9       Other and unspecified
+(370-379) Other diseases and conditions of eye
+370   Refractive errors
+370.0       Myopia
+370.1       Hyperopia
+370.2       Presbyopia
+370.3       Astigmatism
+370.9       Other and unspecified
+371   Corneal opacity
+371.0       Postoperative
+371.9       Other and unspecified
+372   Pterygium
+373   Strabismus
+373.0       Esotropia
+373.1       Exotropia
+373.2       Hypertropia
+373.9       Other and unspecified
+374   Cataract
+374.0       Traumatic
+374.1       Secondary
+374.2       Other specified type, excluding senile
+374.9       Senile and unspecified type
+375   Glaucoma
+375.0       Primary, acute
+375.1       Chronic (primary)
+375.2       Secondary
+375.9       Unspecified
+376   Detachment of retina
+377   Other diseases of retina and optic nerve
+377.0       Vascular lesions of retina
+377.1       Degeneration of retina
+377.2       Amblyopia
+377.3       Colour blindness
+377.4       Other diseases of retina
+377.5       Papillendema
+377.6       Other diseases of optic nerve
+377.9       Unspecified
+378   Other diseases of eye
+378.0       Chalazion
+378.1       Trichiasis and entropion
+378.2       Other disease of eyelid
+378.3       Disease of conjunctiva and lachrymal tract NEC
+378.4       Disease of cornea NEC
+378.5       Prolapse of iris
+378.6       Other and of iris, choroid and uveal tract
+378.7       Aphakia, acquired
+378.8       Other diseases of lens
+378.9       Disease of eyeball, ocular muscle and orbit NEC
+379   Blindness
+379.0       Blindness, both eyes, specifically defined
+379.1       Blindness, both eyes, not specifically defined
+379.2       Blindness, one eye, specifically defined
+379.3       Blindness, one eye, not specifically defined
+(380-389) Diseases of the ear and mastoid process
+380   Otitis externa
+381   Otitis media without mention of mastoiditis
+381.0       Acute
+381.1       Chronic
+381.9       Unspecified
+382   Otitis media with mastoiditis
+382.0       Acute / Acute otitis media with mastoiditis
+382.1       Chronic otitis media with mastoiditis
+382.2       Unspecified
+382.9       Unspecified otitis media with mastoiditis
+383   Mastoiditis without mention of otitis media
+383.0       Acute
+383.1       Chronic
+383.9       Unspecified
+384   Other inflammatory diseases of ear
+384.0       Labyrinthitis
+384.9       Other and unspecified
+385   Ménière's disease
+386   Otosclerosis
+387   Other disease of ear and mastoid process
+387.0       Cholesteatoma of ear
+387.1       Wax in ear
+387.2       Perforation of tympanic membrane, nontraumatic
+387.9       Other
+388   Deaf mutism
+389   Other deafness
+389.0       Deafness, both ears
+389.1       Deafness, one ear and partial deafness in other
+389.2       Deafness, one ear
+389.9       Impairment of hearing, one or both ears
+(390-392) Acute rheumatic fever
+390   Rheumatic fever without mention of heart involvement
+391   Rheumatic fever with heart involvement
+391.0       Active rheumatic pericarditis
+391.1       Active rheumatic endocarditis
+391.2       Active rheumatic myocarditis
+391.9       Other active rheumatic heart disease
+392   Chorea
+392.0       With heart involvement
+392.9       Without mention of heart involvement
+(393-398) Chronic rheumatic heart disease
+393   Diseases of pericardium
+394   Diseases of mitral valve
+394.0       Specified as rheumatic
+394.9       Not specified as rheumatic
+395   Diseases of aortic valve
+395.0       Specified as rheumatic
+395.9       Not specified as rheumatic
+396   Diseases of mitral and aortic valves
+396.0       Specified as rheumatic
+396.9       Not specified as rheumatic
+397   Diseases of other endocardial structures
+397.0       Of tricuspid valve
+397.9       Of other and unspecified endocardial structures, specified as rheumatic
+398   Other heart disease, specified as rheumatic
+(400-404) Hypertensive disease
+400   Malignant hypertension
+400.0       Without mention of organ damage
+400.1       With heart involvement
+400.2       With cerebrovascular involvement
+400.3       With renal involvement
+400.9       With multiple organ involvement
+401   Essential benign hypertension
+402   Hypertensive heart disease
+403   Hypertensive renal disease
+404   Hypertensive heart and renal disease
+(410-414) Ischaemic heart disease
+410   Acute myocardial infarction
+410.0       With hypertensive disease
+410.1       Repeat myocardial infarction during current hospitalisation
+410.9       Without mention of hypertensive disease
+411   Other acute and subacute forms of ischaemic heart disease
+411.0       With hypertensive disease
+411.9       Without mention of hypertensive disease
+412   Chronic ischaemic heart disease
+412.0       With hypertensive disease
+412.1       With or without cardiovascular disease with hypertension
+412.2       With cardiovascular disease without mention of chronic ischaemic heart disease
+412.3       With or without cardiovascular disease without mention of hypertension
+412.4       With cardiovascular disease without mention of chronic ischaemic heart disease
+412.9       Without mention of hypertensive disease
+413   Angina pectoris
+413.0       With hypertensive disease
+413.9       Without mention of hypertensive disease
+414   Asymptomatic ischaemic heart disease
+414.0       With hypertensive disease
+414.9       Without mention of hypertensive disease
+(420-429) Other forms of heart disease
+420   Acute pericarditis, nonrheumatic
+421   Acute and subacute endocarditis
+421.0       Acute and subacute bacterial endocarditis
+421.9       Other acute endocarditis
+422   Acute myocarditis
+423   Chronic disease of pericardium, nonrheumatic
+424   Chronic disease of endocardium
+424.0       Of mitral valve, nonrheumatic
+424.1       Of aortic valve, nonrheumatic
+424.9       Of other endocardial structures
+425   Cardiomyopathy
+426   Pulmonary heart disease
+427   Symptomatic heart disease
+427.0       Congestive heart failure
+427.1       Left ventricular failure
+427.2       Cardiac arrest NOS
+427.3       Other heart block
+427.4       Atrial fibrillation or flutter
+427.5       Paroxysmal tachycardia (atrial)
+427.6       Ventricular fibrillation or flutter
+427.9       Other and unspecified disorders or heart rhythm
+428   Other myocardial insufficiency
+429   Ill-defined heart disease
+429.0       Cardiac enlargement and hypertrohy
+429.9       Other and unspecified heart disease
+(430-438) Cerebrovascular disease
+430   Subarachnoid haemorrhage
+430.0       With hypertension (benign)
+430.9       Without mention of hypertension
+431   Cerebral haemorrhage
+431.0       With hypertension (benign)
+431.9       Without mention of hypertension
+432   Occlusion of precerebral arteries
+432.0       With hypertension (benign)
+432.9       Without mention of hypertension
+433   Cerebral thrombosis
+433.0       Wtih hypertension (benign)
+433.9       Without mention of hypertension
+434   Cerebral embolism
+434.0       With hypertension (benign)
+434.9       Without mention of hypertension
+435   Transient cerebral ischaemia
+435.0       With hypertension (benign)
+435.9       Without mention of hypertension
+436   Acute but ill-defined cerebrovascular disease
+436.0       With hypertension (benign)
+436.9       Without mention of hypertension
+437   Generalised ischaemic cerebrovascular disease
+437.0       With hypertension (benign)
+437.9       Without mention of hypertension
+438   Other and ill-defined cerebrovascular disease
+438.0       With hypertension (benign)
+438.9       Without mention of hypertension
+(440-448) Diseases of arteries, arterioles and capillaries
+440   Arteriosclerosis
+440.0       Of aorta
+440.1       Of renal artery
+440.2       Of arteries of the extremities
+440.3       Of other specified arteries
+440.9       Generalised and unspecified
+441   Aortic aneurysm (nonsyphilitic)
+441.0       Dissecting aneurysm of aorta (any part)
+441.1       Aneurysm of thoracic aorta
+441.2       Aneurysm of abdominal aorta
+441.9       Unspecified aortic aneurysm
+442   Other aneurysm
+443   Other peripheral vascular disease
+443.0       Raynaud's syndrome
+443.1       Thrombo-angiitis obliterans (Buerger's disease)
+443.2       Chilblains
+443.8       Other
+443.9       Unspecified
+444   Arterial embolism and thrombosis
+444.0       Of abdominal aorta
+444.1       Of other aorta
+444.2       Of mesenteric artery
+444.3       Of renal artery
+444.4       Of arteries of the extremities
+444.9       Of other and unspecified arteries
+445   Gangrene
+445.0       Arteriosclerotic gangrene
+445.9       Gangrene not elsewhere classified
+446   Polyarteritis nodosa and allied conditions
+446.0       Polyarteritis nodosa
+446.1       Haemorrhagic pulmonary renal syndrome
+446.2       Other hypersensitivity angiitis
+446.3       Wegener's granulomatosis
+446.4       Cranial arteritis
+446.5       Thrombotic microangiopathy
+446.6       Pulseless disease
+446.9       Other
+447   Other disease of arteries and arterioles
+448   Disease of capillaries
+(450-458) Diseases of veins and lymphatics and other diseases of circulatory system
+450   Pulmonary embolism and infarction
+451   Phlebitis and thrombophlebitis
+451.0       Of lower extremities
+451.9       Of other and unspecified sites
+452   Portal vein thrombosis
+453   Other venous embolism and thrombosis
+454   Varicose veins of lower extremities
+454.0       With ulcer
+454.1       With stasis dermatitis, without ulcer
+454.9       Other and unspecified, without ulcer
+455   Haemorrhoids
+456   Varicose veins of other sites
+456.0       Of oesophagus
+456.1       Of scrotum
+456.9       Of other sites
+457   Non-infective disease of lymphatic channels
+458   Other disease of circulatory system
+458.0       Hypotension
+458.1       Obstruction of inferior and superior vena cava
+458.9       Other and unspecified circulatory disease
+(460-466) Acute respiratory infections (except influenza)
+460   Acute nasopharyngitis (common cold)
+461   Acute sinusitis
+461.0       Acute maxillary sinusitis
+461.1       Acute frontal sinusitis
+461.9       Acute sinusitis, other and unspecified
+462   Acute pharyngitis
+463   Acute tonsillitis
+464   Acute laryngitis and tracheitis
+465   Acute upper respiratory infection of multiple or unspecified sites
+466   Acute bronchitis and bronchiolitis
+(470-474) Influenza
+470   Influenza, unqualified
+471   Influenza with pneumonia
+472   Influenza with other respiratory manifestations
+473   Influenza with digestive manifestations
+474   Influenza with nervous manifestations
+(480-486) Pneumonia
+480   Viral pneumonia
+481   Pneumococcal pneumonia
+482   Other bacterial pneumonia
+482.0       Friedländer's bacillus
+482.1       Haemophilus influenzae
+482.2       Streptococcus
+482.3       Staphylococcus
+482.9       Other
+483   Pneumonia due to other specified organism
+484   Acute interstitial pneumonia
+485   Bronchopneumonia, unspecified
+486   Pneumonia, unspecified
+(490-493) Bronchitis, emphysema and asthma
+490   Bronchitis, unspecified
+491   Chronic bronchitis
+492   Emphysema
+493   Asthma
+(500-508) Other diseases of upper respiratory tract
+500   Hypertrophy of tonsils and adenoids
+501   Peritonsillar abscess
+502   Chronic pharyngitis and nasopharyngitis
+502.0       Chronic pharyngitis
+502.1       Chronic nasopharyngitis
+503   Chronic sinusitis
+503.0       Maxillary sinusitis (chronic)
+503.1       Frontal sinusitis (chronic)
+503.9       Sinusitis (chronic), other and unspecified
+504   Deflected nasal septum
+505   Nasal polyp
+506   Chronic laryngitis
+507   Hay fever
+508   Other diseases of upper respiratory tract
+508.0       Paralysis of vocal cords or larynx
+508.1       Polyp of vocal cords or larynx
+508.2       Oedema of larynx
+508.3       Other disease of vocal cords or larynx, NEC
+508.4       Retropharyngeal abscess
+508.9       Other and unspecified diseases of upper respiratory tract
+(510-519) Other diseases of respiratory system
+510   Empyema
+511   Pleurisy
+511.0       Without mention of effusion or tuberculosis
+511.1       With effusion, with mention of a bacterial cause other than tuberculosis
+511.2       Other specified forms of effusion, except tuberculous
+512   Spontaneous pneumothorax
+513   Abscess of lung
+514   Pulmonary congestion and hypostasis
+515   Pneumoconiosis due to silica and silicates
+515.0       Silicosis
+515.1       Anthracosilicosis
+515.2       Asbestosis
+515.9       Other, including pneumoconiosis, unspecified
+516   Other pneumoconiosis and related diseases
+516.0       Due to inhalation of other inorganic dust
+516.1       Due to inhalation of other dust
+516.2       Due to inhalation of fumes
+517   Other chronic interstitial pneumonia
+518   Bronchiectasis
+519   Other diseases of respiratory system
+519.0       Pulmonary collapse
+519.1       Acute oedema of lung
+519.2       Other diseases of lung
+519.9       Other
+(520-529) Diseases of oral cavity, salivary glands and jaws
+520   Disorder of tooth development and eruption
+520.0       Anodontia
+520.1       Supernumerary teeth
+520.2       Abnormalities of size and form
+520.3       Mottled teeth
+520.4       Enamel hypoplasia
+520.5       Hereditary disturbances in tooth structure, not elsewhere classified
+520.6       Disturbances in tooth eruption
+520.7       Teething syndrome
+520.9       Other and unspecified
+521   Disease of hard tissues of teeth
+521.0       Dental caries
+521.1       Attrition
+521.2       Abrasion
+521.3       Erosion
+521.4       Resorption
+521.5       Hypercementosis
+521.6       Ankylosis
+521.7       Posteruptive colour changes
+521.8       Irradiated enamel
+521.9       Other and unspecified
+522   Diseases of pulp and periapical tissues
+522.0       Pulpitis
+522.1       Necrosis of the pulp
+522.2       Pulp degenerations
+522.3       Abnormal hard tissue formation in pulp
+522.4       Acute apical periodontitis
+522.5       Periapical abscess
+522.6       Chronic apical periodontitis
+522.7       Fistula from periapical lesions
+522.8       Radicular cyst
+522.9       Other and unspecified
+523   Periodontal diseases
+523.0       Acute gingivitis
+523.1       Chronic gingivitis
+523.2       Gingival recession
+523.3       Acute periodontitis
+523.4       Chronic periodontitis
+523.5       Periodontosis
+523.6       Accretions on teeth
+523.9       Other and unspecified
+524   Dento-facial anomalies including malocclusion
+524.0       Major anomalies of jaw size
+524.1       Anomalies of jaw-cranial base relationships
+524.2       Anomalies of dental arch relationship
+524.3       Anomalies of tooth position
+524.4       Malocculusion, unqualified
+524.5       Dento-facial functional abnormalities
+524.9       Other and unspecified
+525   Other diseases and conditions of the teeth and supporting structures
+525.0       Acquired absence of teeth
+525.1       Atrophy of edentulous alveolar ridge
+525.9       Other and unspecified
+526   Diseases of the jaws
+526.0       Developmental dental cysts
+526.1       Fissural cysts
+526.2       Other cysts of jaws
+526.3       Reparative giant cell granuloma
+526.4       Inflammatory conditions
+526.5       Alveolitis
+526.9       Other and unspecified
+527   Diseases of the salivary glands
+527.0       Atrophy
+527.1       Hypertrophy
+527.2       Sialoadenitis
+527.3       Abscess
+527.4       Fistula
+527.5       Sialolithiasis
+527.6       Mucocele
+527.7       Disturbances of salivary secretion
+527.8       Sialosis
+527.9       Other and unspecified
+528   Diseases of the oral soft tissues, excluding gingiva and tongue
+528.0       Stomatitis
+528.1       Cancrum oris
+528.2       Oral aphthous ulcerations
+528.3       Cellulitis and abscess
+528.4       Cysts
+528.5       Disease of lips
+528.6       Leukoplakia of oral mucosa
+528.7       Other disturbances of keratinisation
+528.8       Oral submucous fibrosis
+528.9       Other and unspecified
+529   Diseases of the tongue and other oral conditions
+529.0       Glossitis
+529.1       Geographic tongue
+529.2       Median rhomboid glossitis
+529.3       Hypertrophy of tongue papillae
+529.4       Atrophy of tongue papillae
+529.5       Plicated tongue
+529.6       Glossodynia
+529.7       Leukoplakia and other disturbances of keratinisation of the tongue
+529.9       Other and unspecified
+(530-537) Diseases of oesophagus, stomach and duodenum
+530   Diseases of oesophagus
+530.0       Functional disorders of oesophagus
+530.1       Inflammatory diseases of oesophagus
+530.2       Diverticulum, acquired, of oesophagus
+530.3       Obstruction of oesophagus
+530.4       Rupture of oesophagus
+530.9       Other
+531   Ulcer of stomach
+531.0       With haemorrhage only
+531.1       With perforation only
+531.2       With haemorrhage and perforation
+531.9       Other and unspecified
+532   Ulcer of duodenum
+532.0       With haemorrage only
+532.1       With perforation only
+532.2       With haemorrage and perforation
+532.9       Other and unspecified
+533   Peptic ulcer, site unspecified
+533.0       With perforation
+533.9       Without mention of perforation
+534   Gastrojejunal ulcer
+534.0       With haemorrhage only
+534.1       With perforation only
+534.2       With haemorrhage and perforation
+534.9       Other and unspecified
+535   Gastritis and duodenitis
+536   Disorders of function of stomach
+536.0       Disorders of gastric secretion
+536.1       Disorders of gastric motility
+536.9       Other
+537   Other disease of stomach and duodenum
+537.0       Pyloric stenosis, acquired
+537.9       Other and unspecified
+(540-543) Appendicitis
+540   Acute appendicitis
+540.0       With peritonitis
+540.9       Without mention of peritonitis
+541   Appendicitis, unqualified
+542   Other appendicitis
+543   Other diseases of appendix
+(544-544) Hernia of abdominal cavity
+544   Inguinal hernia without mention of obstruction
+(550-553) Hernia of abdominal cavity
+550   Inguinal hernia without mention of obstruction
+551   Other hernia of abdominal cavity without mention of obstruction
+551.0       Femoral
+551.1       Umbilical
+551.2       Ventral
+551.3       Diaphragmatic
+551.8       Of other specified site
+551.9       Of unspecified site
+552   Inguinal hernia with obstruction
+553   Other hernia of abdominal cavity with obstruction
+553.0       Femoral
+553.1       Umbilical
+553.2       Ventral
+553.3       Diaphragmatic
+553.8       Of other specified site
+553.9       Of unspecfifed site
+(560-569) Other diseases of intestine and peritoneum
+560   Intestinal obstruction without mention of hernia
+560.0       Intussusception
+560.1       Paralytic ileus
+560.2       Volvulus
+560.3       Impaction of intestine
+560.4       Adhesions with obstruction
+560.9       Other and unspecified
+561   Gastro-enteritis and colitis, except ulcerative, of non-infectious origin
+562   Diverticula of intestine
+562.0       Small intestine
+562.1       Colon
+563   Chronic enteritis and ulcerative colitis
+563.0       Regional enteritis
+563.1       Ulcerative colitis
+563.9       Other
+564   Functional disorders of intestines
+564.0       Constipation
+564.1       Irritable colon
+564.9       Other
+565   Anal fissure and fistula
+565.0       Anal fissure
+565.1       Anal fistula
+566   Abscess of anal and rectal regions
+567   Peritonitis
+567.0       With abscess
+567.9       Unspecified
+568   Peritoneal adhesions
+569   Other diseases of intestines and peritoneum
+569.0       Proctitis
+569.1       Prolapse of rectum
+569.2       Other rectal and anal diseases
+569.3       Fistula of intestine
+569.4       Perforation or ulceration of intestine NOS
+569.9       Other
+(570-577) Diseases of liver, gallbladder and pancreas
+570   Acute and subacute necrosis of liver
+571   Cirrhosis of liver
+571.0       Alcoholic
+571.8       Other specified
+571.9       Unspecified
+572   Suppurative hepatitis and liver abscess
+573   Other diseases of liver
+573.0       Hepatitis NOS
+573.9       Other and unspecified
+574   Cholelithiasis
+574.0       With acute cholecystitis
+574.1       With cholecystitis, other
+574.9       Other and unspecified
+575   Cholecystitis and cholangitis, without mention of calculus
+576   Other diseases of gallbladder and biliary
+576.0       Obstruction
+576.1       Fistula
+576.9       Other and unspecified
+577   Diseases of pancreas
+577.0       Acute pancreatitis
+577.1       Chronic pancreatitis
+577.9       Other diseases of pancreas
+(580-584) Nephritis and nephrosis
+580   Acute nephritis
+581   Nephrotic syndrome
+582   Chronic nephritis
+583   Nephritis, unqualified
+584   Renal sclerosis, unqualified
+(590-599) Other diseases of urinary system
+590   Infections of kidney
+590.0       Chronic pyelonephritis
+590.1       Other pyelonephritis, pyelitis and pyelocystitis
+590.2       Abscess of kidney and perirenal tissue
+590.9       Other
+591   Hydronephrosis
+592   Calculus of kidney and ureter
+593   Other diseases of kidney and ureter
+593.0       Renal dwarfism
+593.1       Acute tubular nephrosis
+593.2       Other renal disease
+593.3       Obstruction of ureter, not elsewhere classified
+593.4       Hydroureter
+593.5       Other diseases of ureter
+594   Calculus of other parts of urinary system
+595   Cystitis
+596   Other diseases of bladder
+596.0       Fistula of bladder
+596.1       Diverticulum of bladder (acquired)
+596.2       Contracture of bladder (sphincter)
+596.3       Paralysis of bladder
+596.9       Other and unspecified diseases of bladder
+597   Urethritis (non-venereal)
+598   Stricture of urethra
+599   Other diseases of urinary tract
+599.0       Urinary tract infection NEC
+599.1       Fistula, urinary NEC
+599.2       Caruncle of urethra
+599.9       Other and unspecified diseases of urinary tract
+(600-607) Diseases of male genital organs
+600   Hyperplasia of prostate
+601   Prostatitis
+602   Other diseases of prostate
+603   Hydrocele
+604   Orchitis and epididymitis
+605   Redundant prepuce and phimosis
+606   Sterility, male
+607   Other disease of male genital organs
+607.0       Leukoplakia of penis
+607.1       Erythroplasia of penis
+607.2       Chronic ulceration of penis
+607.3       Balanitis
+607.4       Seminal vesiculitis
+607.5       Other inflammatory diseases
+607.6       Spermatocele
+607.7       Torsion of testis
+607.8       Atrophy of testicle
+607.9       Other
+(610-616) Diseases of breast, ovary, Fallopian tube and parametrium
+610   Chronic cystic disease of breast
+611   Other diseases of breast
+611.0       Acute mastitis not associated with lactation
+611.1       Hypertrophy of breast
+611.2       Fissure of nipple
+611.9       Other
+612   Acute salpingitis and oophoritis
+613   Chronic salpingitis and oophoritis
+614   Salpingitis and oophoritis, unqualified
+615   Other diseases of ovary and Fallopian tube
+615.0       Prolapse of ovary
+615.1       Hydrosalpinx
+615.2       Ovarian cyst, retention
+615.9       Other
+616   Diseases of parametrium and pelvic peritoneum (female)
+616.0       Pelvic inflammatory disease
+616.1       Pelvic peritoneal adhesions, female
+616.2       Pelvic congestion, female
+616.9       Other
+(620-629) Diseases of uterus and other female genital organs
+620   Infective diseases of cervix uteri
+620.0       Chronic cervicitis
+620.9       Other cervicitis
+621   Other diseases of cervix
+621.0       Leukoplakia of cervix
+621.1       Erythroplasia of cervix
+621.2       Hyperplastic endometritis of cervix
+621.3       Chronic erosion and ulceration of cervix
+621.4       Old laceration of cervix
+621.5       Stricture of cervix
+621.6       Atrophy of cervix
+621.9       Other
+622   Infective diseases of uterus (except cervix), vagina and vulva
+622.0       Infective diseases of uterus, except cervix
+622.1       Vaginitis and vulvitis
+623   Uterovaginal prolapse
+623.0       Cystocele
+623.1       Rectocele
+623.2       Urethrocele
+623.3       Vaginal enterocele
+623.4       Uterine prolapse
+623.9       Other and unspecified
+624   Malposition of uterus
+624.0       Retroversion and retroflexion
+624.1       Other
+624.9       Unspecified
+625   Other diseases of uterus
+625.0       Atrophy of uterus
+625.1       Sub-involution of uterus
+625.2       Hyperplasia of endometrium
+625.3       Endometriosis
+625.9       Other
+626   Disorders of menstruation
+626.0       Absent
+626.1       Scanty
+626.2       Excessive
+626.3       Painful
+626.4       Frequent
+626.5       Irregular
+626.6       Intermenstrual bleeding
+626.7       Postmenopausal bleeding
+626.9       Other
+627   Menopausal symptoms
+628   Sterility, female
+629   Other diseases of female genital organs
+629.0       Leukoplakia of vagina
+629.1       Erythroplasia of vagina and vulva
+629.2       Kraurosis of vulva
+629.3       Leukorrhoea
+629.4       Unspecified infection
+629.5       Vaginal bleeding
+629.6       Old laceration
+629.7       Stricture or atresia of vagina and hymen
+629.8       Rectovaginal fistula
+629.9       Other
+(630-634) Complications of pregnancy
+630   Infections of genital tract during pregnancy
+631   Ectopic pregnancy
+631.0       Abdominal pregnancy, with sepsis
+631.1       Tubal pregnancy, with sepsis
+631.2       Ovarian pregnancy, with sepsis
+631.3       Other or unspecified ectopic pregnancy, with sepsis
+631.4       Abdominal pregnancy, without mention of sepsis
+631.5       Tubal pregnancy, without mention of sepsis
+631.6       Ovarian pregnancy, without mention of sepsis
+631.9       Other or unspecified ectopic pregnancy, without mention of sepsis
+632   Haemorrhage of pregnancy
+632.0       Placenta praevia
+632.1       Premature separation of placenta
+632.2       Haemorrrhage from marginal sinus
+632.3       Threatened abortion
+632.4       Due to afibrogenaemia
+632.9       Other and unspecified
+633   Anaemia of pregnancy
+633.0       Macrocytic anaemia of pregnancy
+633.1       Iron deficiency anaemia of pregnancy
+633.9       Other and unspecified anaemia of pregnancy
+634   Other complications of pregnancy
+634.0       Hydatidiform mole
+634.1       Placental abnormalities not elsewhere classified
+634.2       Missed abotion and missed delivery
+634.3       Hydramnios
+634.4       Premature rupture of membrane without delivery
+634.5       Rh incompatibility
+634.6       Habitual aborter, undelivered
+634.7       False labour
+634.8       Air embolism during pregnancy
+634.9       Other
+(635-639) Urinary infections and toxaemias of pregnancy and the puerperium
+635   Urinary infections arising during pregnancy and the puerperium
+635.0       Pyelitis and pyelonephritis
+635.1       Cystitis
+635.9       Other and unspecified
+636   Renal disease arising during pregnancy and the puerperium
+637   Pre-eclampsia, eclampsia and toxaemia, unspecified
+637.0       Pre-eclampsia
+637.1       Eclampsia
+637.9       Toxaemia, unspecified
+638   Hyperemesis gravidarum
+638.0       With neuritis
+638.9       Without mention of neuritis
+639   Other toxaemias of pregnancy and the puerperium
+639.0       Acute and subacute necrosis of liver
+639.9       Other
+(640-645) Abortion
+640   Abortion induced for medical indications
+640.0       With sepsis
+640.1       With toxaemia
+640.2       With sepsis and toxaemia
+640.9       Without mention of sepsis or toxaemia
+641   Abortion induced for other legal indications
+641.0       With sepsis
+641.1       With toxaemia
+641.2       With sepsis and toxaemia
+641.9       Without mention of sepsis or toxaemia
+642   Abortion induced for other reasons
+642.0       With sepsis
+642.1       With haemorrhage
+642.2       With sepsis and haemorrhage
+642.3       With laceration of pelvic organ (with or without mention of sepsis or haemorrhage)
+642.9       Without mention of sepsis, haemorrhage or laceration
+643   Spontaneous abortion
+643.0       With sepsis
+643.1       With toxaemia
+643.2       With sepsis and toxaemia
+643.9       Without mention of sepsis or toxaemia
+644   Abortion not specified as induced or spontaneous
+644.0       With sepsis
+644.1       With toxaemia
+644.2       With sepsis and toxaemia
+644.9       Without mention of sepsis or toxaemia
+645   Other abortion
+645.0       With sepsis
+645.1       With toxaemia
+645.2       With sepsis and toxaemia
+645.9       Without mention of sepsis or toxaemia
+(650-662) Delivery
+650   Delivery without mention of complication
+650.0       Spontaneous
+650.1       Manipulation without instruments
+650.2       Forceps, mid and high
+650.3       Forceps, low
+650.4       Forceps, unspecified
+650.5       Vacuum extractor
+650.6       Caesarean section
+650.8       Other surgical or instrumental
+650.9       Unspecified type of delivery
+651   Delivery complication by placenta praevia or antepartum haemorrhage
+651.0       Spontaneous
+651.1       Manipulation without instruments
+651.2       Forceps, mid and high
+651.3       Forceps, low
+651.4       Forceps, unspecified
+651.5       Vacuum extractor
+651.6       Caesarean section
+651.8       Other surgical or instrumental
+651.9       Unspecified type of delivery
+652   Delivery complicated by retained placenta
+652.0       Spontaneous
+652.1       Manipulation without instruments
+652.2       Forceps, mid and high
+652.3       Forceps, low
+652.4       Forceps, unspecified
+652.5       Vacuum extractor
+652.6       Caesarean section
+652.8       Other surgical or instrumental
+652.9       Unspecified type of delivery
+653   Delivery complicated by other postpartum haemorrhage
+653.0       Spontaneous
+653.1       Manipulation without instruments
+653.2       Forceps, mid and high
+653.3       Forceps, low
+653.4       Forceps, unspecified
+653.5       Vacuum extractor
+653.6       Caesarean section
+653.8       Other surgical or instrumental
+653.9       Unspecified type of delivery
+654   Delivery complicated by abnormality of bony pelvis
+654.0       Spontaneous
+654.1       Manipulation without instruments
+654.2       Forceps, mid and high
+654.3       Forceps, low
+654.4       Forceps, unspecified
+654.5       Vacuum extractor
+654.6       Caesarean section
+654.8       Other surgical or instrumental
+654.9       Unspecified type of delivery
+655   Delivery complicated by foetopelvic disproportion
+655.0       Spontaneous
+655.1       Manipulation without instruments
+655.2       Forceps, mid and high
+655.3       Forceps, low
+655.4       Forceps, unspecified
+655.5       Vacuum extractor
+655.6       Caesarean section
+655.8       Other surgical or instrumental
+655.9       Unspecified type of delivery
+656   Delivery complicated by malpresentation of foetus
+656.0       Spontaneous
+656.1       Manipulation without instruments
+656.2       Forceps, mid and high
+656.3       Forceps, low
+656.4       Forceps, unspecified
+656.5       Vacuum extractor
+656.6       Caesarean section
+656.8       Other surgical or instrumental
+656.9       Unspecified type of delivery
+657   Delivery complicated by prolonged labour of other origin
+657.0       Spontaneous
+657.1       Manipulation without instruments
+657.2       Forceps, mid and high
+657.3       Forceps, low
+657.4       Forceps, unspecified
+657.5       Vacuum extractor
+657.6       Caesarean section
+657.8       Other surgical or instrumental
+657.9       Unspecified type of delivery
+658   Delivery with laceration of perineum without mention of other laceration
+658.0       Spontaneous
+658.1       Manipulation without instruments
+658.2       Forceps, mid and high
+658.3       Forceps, low
+658.4       Forceps, unspecified
+658.5       Vacuum extractor
+658.6       Caesarean section
+658.8       Other surgical or instrumental
+658.9       Unspecified type of delivery
+659   Delivery with rupture of uterus
+659.0       Spontaneous
+659.1       Manipulation without instruments
+659.2       Forceps, mid and high
+659.3       Forceps, low
+659.4       Forceps, unspecified
+659.5       Vacuum extractor
+659.6       Caesarean section
+659.8       Other surgical or instrumental
+659.9       Unspecified type of delivery
+660   Delivery with other obstetrical trauma
+660.0       Spontaneous
+660.1       Manipulation without instruments
+660.2       Forceps, mid and high
+660.3       Forceps, low
+660.4       Forceps, unspecified
+660.5       Vacuum extractor
+660.6       Caesarean section
+660.8       Other surgical or instrumental
+660.9       Unspecified type of delivery
+661   Delivery with other complications
+661.0       Spontaneous
+661.1       Manipulation without instruments
+661.2       Forceps, mid and high
+661.3       Forceps, low
+661.4       Forceps, unspecified
+661.5       Vacuum extractor
+661.6       Caesarean section
+661.8       Other surgical or instrumental
+661.9       Unspecified type of delivery
+662   Anaesthetic death in uncomplicated delivery
+662.0       Spontaneous
+662.1       Manipulation without instruments
+662.2       Forceps, mid and high
+662.3       Forceps, low
+662.4       Forceps, unspecified
+662.5       Vacuum extractor
+662.6       Caesarean section
+662.8       Other surgical or instrumental
+662.9       Unspecified type of delivery
+(670-678) Complications of the puerperium
+670   Sepsis of childbirth and the puerperium
+671   Puerperal phlebitis and thrombosis
+671.0       Lower extremities
+671.9       Other and unspecified sites
+672   Pyrexia of unknown origin during the puerperium
+673   Puerperal pulmonary embolism
+673.0       Air embolism
+673.1       Amniotic fluid embolism
+673.9       Other and unspecified
+674   Cerebral haemorrhage in the puerperium
+675   Puerperal blood dyscrasias
+676   Anaemia of the puerperium
+677   Other and unspecified complications of the puerperium
+677.0       Sudden death from unknowm cause in the puerperium
+677.1       Retained placenta, complicating puerperium
+677.2       Other delayed postpartum haemorrhage
+677.9       Other and unspecified
+678   Mastitis and other disorders of lactation
+(680-686) Infections of skin and subcutaneous tissue
+680   Boil and carbuncle
+680.0       Of face
+680.1       Of neck
+680.2       Of trunk
+680.3       Of upper arm and forearm
+680.4       Of hand
+680.5       Of buttock
+680.6       Of other parts of lower extremity
+680.8       Of other and multiple sites
+680.9       Of unspecified site
+681   Cellulitis of finger and toe
+682   Other cellulitis and abscess
+682.0       Of head and neck
+682.1       Of trunk
+682.2       Of upper arm and forearm
+682.3       Of hand, except fingers
+682.4       Of leg
+682.5       Of foot, except toes
+682.9       Of other, multiple and unspecified sites
+683   Acute lymphadenitis
+684   Impetigo
+685   Pilonidal cyst
+686   Other local infections of skin and subcutaneous tissue
+686.0       Pyoderma
+686.1       Pyogenic granuloma
+686.2       Dermatitis infection eczematoides
+686.9       Other
+(690-698) Other inflammatory conditions of skin and subcutaneous tissue
+690   Seborrhoeic dermatitis
+691   Infantile eczema and related conditions
+692   Other eczema and dermatitis
+692.0       Due to detergents
+692.1       Due to oils and greases
+692.2       Due to solvents
+692.3       Due to drugs
+692.4       Due to other chemicals
+692.5       Due to food
+692.6       Due to plants (except food)
+692.7       Due to radiation, except sunburn
+692.8       Due to sunburn
+692.9       Due to other and unspecified cause
+693   Dermatitis herpetiformis
+694   Pemphigus
+695   Erythematous condition
+695.0       Toxic erythema
+695.1       Erythema multiforme
+695.2       Erythema nodosum
+695.3       Rosacea
+695.4       Lupus erythematosus
+695.9       Other and unspecified
+696   Psoriasis and similar disorders
+696.0       Psoriatic arthropathy
+696.1       Other psoriasis
+696.2       Parapsoriasis
+696.3       Pityriasis rosea
+696.4       Pityriasis rubra pilaris
+696.5       Other and unspecified pityriasis
+696.9       Other disorders
+697   Lichen
+697.0       Planus
+697.2       Nitidus
+697.9       Other and unspecified
+698   Pruritus and related conditions
+698.0       Pruritus ani
+698.1       Pruritus of genital organs
+698.2       Prurigo
+698.3       Lichenification and lichen simplex chronicus
+698.4       Dermatitis factitia (artifacta)
+698.9       Other pruritic conditions
+(700-709) Other diseases of skin and subcutaneous tissue
+700   Corns and callosities
+701   Other hypertrophic and atrophic conditions of the skin
+701.0       Circumscribed scleroderma
+701.1       Keratoderma, acquired
+701.2       Striae atrophicae
+701.3       Keloid scar
+701.9       Other hypertrophic and atrophic conditions of skin
+702   Other dermatoses
+703   Diseases of nail
+703.0       Ingrowing nail
+703.9       Other
+704   Diseases of hair and hair follicles
+705   Diseases of sweat glands
+705.0       Anhidrosis
+705.1       Prickly heat
+705.9       Other
+706   Diseases of sebaceous glands
+706.0       Acne varioliformis
+706.1       Other acne
+706.2       Sebaceous cyst
+706.3       Seborrhoea
+706.9       Other
+707   Chronic ulcer of skin
+707.0       Decubitus ulcer
+707.1       Lower extremity, except decubitus ulcer
+707.9       Other
+708   Urticaria
+708.0       Angioneurotic oedema
+708.9       Other and unspecified
+709   Other diseases of skin
+709.0       Cicatrix
+709.1       Tatoo
+709.9       Other diseases of skin
+(710-718) Arthritis and rheumatism, except rheumatic fever
+710   Acute arthritis due to pyogenic organisms
+710.0       Of spine
+710.1       Of upper extremity (including shoulder)
+710.2       Of hip
+710.3       Of other parts of lower extremity
+710.9       Of other and unspecified sites
+711   Acute nonpyogenic arthritis
+712   Rheumatoid arthritis and allied conditions
+712.0       Juvenile rheumatoid arthritis
+712.1       Rheumatoid arthritis with spleno-adenomegaly and leukopenia
+712.2       Palindromic rheumatism
+712.3       Other rheumatoid arthritis
+712.4       Spondylitis ankylopoietica
+712.5       Chronic rheumatoid nodular fibrositis
+713   Osteo-arthritis and allied conditions
+713.0       Osteo-arthritis
+713.1       Spondylitis osteo-arthritica
+713.2       Traumatic spondylopathy
+714   Other specified forms of arthritis
+714.0       Traumatic arthritis
+714.9       Other
+715   Arthritis, unspecified
+716   Polymyositis and dermatomyositis
+716.0       Dermatomyositis
+716.1       Polymyositis
+717   Other nonarticular rheumatism
+717.0       Lumbago
+717.1       Scapulohumeral myofibrosis
+717.2       Torticollis not specified as congential, pyschogenic or traumatic
+717.9       Other muscular rheumatism, fibrositis and myalgia
+718   Rheumatism, unspecified
+(720-729) Osteomyelitis and other diseases of bone and joint
+720   Osteomyelitis and periostitis
+720.0       Acute osteomyelitis
+720.1       Chronic osteomyelitis
+720.2       Unspecified ostemyelitis
+720.3       Periostitis without mention of osteomyelitis
+721   Osteitis deformans
+722   Osteochondrosis
+722.0       Juvenile osteochondrosis of spine
+722.1       Juvenile osteochondrosis of hip
+722.2       Other juvenile osteochondrosis
+722.3       Slipped upper femoral epiphysis, nontraumatic
+722.4       Apophysitis, calcaneal
+722.5       Osteochondritis dissecans
+722.8       Other specified forms of osteochondrosis
+722.9       Unspecified forms of osteochondrosis
+723   Other diseases of bone
+723.0       Osteoporosis
+723.1       Hypertrophic pulmonary osteo-arthropathy
+723.2       Spontaneous fracture
+723.3       Cyst of bone, except jaw
+723.4       Hyperostosis of skull
+723.5       Aseptic necrosis, bone
+723.6       Arrest of growth
+723.7       Calcaneal spur
+723.9       Other diseases of bone
+724   Internal derangement of joint
+724.0       Recurrent dislocation of shoulder
+724.1       Other shoulder derangement
+724.2       Recurrent dislocation of elbow
+724.3       Other elbow derangement
+724.4       Recurrent dislocation of knee
+724.5       Other knee derangement
+724.9       Derangement of other joints
+725   Displacement of intervertebral disk
+725.0       Cervical
+725.1       Lumbar and lumbosacral
+725.8       Other specified site
+725.9       Unspecified site
+726   Affection of sacro-iliac joint
+727   Ankylosis of joint
+727.0       Of spine
+727.1       Of shoulder
+727.2       Of elbow
+727.3       Of wrist
+727.4       Of finger
+727.5       Of hip
+727.6       Of knee
+727.7       Of ankle
+727.8       Of other and multiple sites
+727.9       Of unspecified site
+728   Vertebrogenic pain syndrome
+728.0       Cervicalgia
+728.1       Cervicocranial syndrome
+728.2       Diffuse syndrome cerviocobrachial
+728.3       Radicular syndrome of upper limbs
+728.4       Cervial myelopathy
+728.5       Pain in thoracic spine
+728.6       Thoracic myelopathy
+728.7       Lumbalgia
+728.8       Radicula syndrome of lower limbs
+728.9       Other and unspecified
+729   Other diseases of joint
+729.0       Pseudarthrosis of spine following fusion
+729.1       Other diseases of spine NEC
+729.2       Disease shoulder NEC
+729.3       Disease elbow NEC
+729.4       Flexion contracture of fingers
+729.5       Disease hip NEC
+729.6       Loose body in knee
+729.7       Chondromalacia of knee
+729.8       Disease knee NEC
+729.9       Disease joint NEC
+(730-738) Other diseases of musculoskeletal system
+730   Bunion
+731   Synovitis, bursitis and tenosynovitis
+731.0       Of spine
+731.1       Of shoulder
+731.2       Of elbow
+731.3       Of wrist
+731.4       Of hand and fingers
+731.5       Of hip and buttock
+731.6       Of knee
+731.7       Of ankle
+731.8       Of foot and toe
+731.9       Of other and unspecified sites
+732   Infective myositis and other inflammatory diseases of tendon and fascia
+733   Other diseases of muscle, tendon and fascia
+733.0       Myasthenia gravis
+733.1       Muscular atrophy (idiopathic)
+733.2       Myositis ossificans
+733.3       Calcium deposit in tendon
+733.4       Short Achilles tendon
+733.5       Contracture of palmar fascia
+733.6       Residual foreign body in tissue or bone
+733.9       Other and unspecified diseases of muscle, tendon and fascia
+734   Diffuse diseases of connective tissue
+734.0       Progressive systemic sclerosis
+734.1       Systemic lupus erythematosus
+734.9       Other and unspecified
+735   Curvature of spine
+735.0       Scoliosis
+735.1       Kyphosis
+735.2       Kyphoscoliosis
+735.9       Other and unspecified curvature of spine
+736   Flat foot
+737   Hallux valgus and varus
+737.0       Hallux valgus and unspecified hallux
+737.1       Hallux varus
+738   Other deformities
+738.0       Of nose
+738.1       Of head
+738.2       Of forearm, excluding fingers
+738.3       Of fingers
+738.4       Of hip
+738.5       Of leg NEC
+738.6       Of ankle and foot, excluding toes, acquired
+738.7       Of toes NEC
+738.8       Of other specified sites
+738.9       Of unspecified site
+(740-759) Congenital anomalies
+740   Anencephalus
+741   Spina bifida
+741.0       With hydrocephalus
+741.9       Without mention of hydrocephalus
+742   Congenital hydrocephalus
+743   Other congenital anomalies of nervous system
+743.0       Encephalocele
+743.1       Microcephalus
+743.2       Other specified anomalies of brain
+743.3       Other specified anomalies of spinal cord
+743.4       Neurofibromatosis
+743.8       Other anomalies of nervous system
+743.9       Unspecified anomalies of brain, spinal cord and nervous system
+744   Congenital anomalies of eye
+744.0       Anophthalmos
+744.1       Microphthalmos
+744.2       Buphthalmos
+744.3       Congenital cataract
+744.4       Coloboma
+744.5       Aniridia
+744.6       Retinitis pigmentosa
+744.7       Congenital blepharoptosis
+744.8       Other specified anomalies of eye
+744.9       Unspecified anomalies of eye
+745   Congenital anomalies of ear, face and neck
+745.0       Anomalies of ear causing impairment of hearing
+745.1       Accessory auricle
+745.2       Other specified anomalies of ear
+745.3       Unspecified anomalies of ear
+745.4       Branchial cleft, cyst or fistula; preauricular sinus
+745.5       Webbing of neck
+745.8       Other specified anomalies of face and neck
+745.9       Unspecified anomalies of face and neck
+746   Congenital anomalies of heart
+746.0       Common truncus
+746.1       Transposition of great vessels
+746.2       Tetralogy of Fallot
+746.3       Ventricular septal defect
+746.4       Atrial septal defect
+746.5       Ostium atrioventriculare commune
+746.6       Anomalies of heart valve
+746.7       Fibroelastosis cordis
+746.8       Other specified anomalies of heart
+746.9       Unspecified anomalies of heart
+747   Other congenital anomalies of circulatory system
+747.0       Patent ductus arteriosus
+747.1       Coarctation of aorta
+747.2       Other anomalies of aorta
+747.3       Stenosis or atresia of pulmonary artery
+747.4       Anomalies of great veins
+747.5       Absence or hypoplasia of umbilical artery
+747.6       Other anomalies of peripheral vascular system
+747.8       Other specified anomalies of circulatory system
+747.9       Unspecified anomalies of circulatory system
+748   Congenital anomalies of respiratory system
+748.0       Choanal atresia
+748.1       Other anomalies of nose
+748.2       Web of larynx
+748.3       Other anomalies of larynx, trachea and bronchus
+748.4       Congenital cystic lung
+748.5       Agenesis of lung
+748.6       Other anomalies of lung
+748.8       Other specified anomalies of respiratory system
+748.9       Unspecified anomalies of respiratory system
+749   Cleft palate and cleft lip
+749.0       Cleft palate
+749.1       Cleft lip
+749.2       Cleft palate with cleft lip
+750   Other congenital anomalies of upper alimentary tract
+750.0       Anomalies of tongue
+750.1       Pyloric stenosis
+750.2       Tracheo-oesophageal fistula
+750.3       Oesophageal atresia and stenosis
+750.8       Other specified anomalies of upper alimentary tract
+750.9       Unspecified anomalies of upper alimentary tract
+751   Other congenital anomalies of digestive system
+751.0       Meckel's diverticulum
+751.1       Anomalies of intestinal fixation
+751.2       Hirschsprung's disease
+751.3       Atresia and stenosis of rectum and anal canal
+751.4       Other anomalies of intestine
+751.5       Atresia of biliary ducts
+751.6       Other anomalies of gallbladder, bile ducts and liver
+751.7       Anomalies of pancreas
+751.8       Other specified anomalies of digestive system
+751.9       Unspecified anomalies of digestive system
+752   Congenital anomalies of genital organs
+752.0       Indeterminate sex
+752.1       Undescended testicle
+752.2       Hypospadias
+752.3       Epispadias
+752.4       Congenital hydrocele
+752.5       Anomalies of ovary, Fallopian tube and uterus
+752.6       Anomalies of vagina and external female genitalia
+752.7       Pseudohermaphroditism
+752.8       Other specified anomalies of genital organs
+752.9       Unspecified anomalies of genital organs
+753   Congenital anomalies of urinary system
+753.0       Renal agenesis
+753.1       Cystic kidney disease
+753.2       Obstructive defects of urinary tract
+753.3       Other specified anomalies of kidney
+753.4       Other specified anomalies of ureter
+753.5       Extrophy of urinary bladder
+753.6       Atresia and stenosis of urethra and bladder neck
+753.8       Other specified anomalies of bladder and urethra
+753.9       Unspecified anomalies of urinary system
+754   Clubfoot (congenital)
+754.0       Talipes cavus
+754.1       Talipes equinovarus
+754.2       Talipes calcaneovalgus
+754.8       Talipes, other specified types NEC
+754.9       Talipes, unspecified type
+755   Other congenital anomalies of limbs
+755.0       Polydactyly
+755.1       Syndactyly
+755.2       Reduction deformity of upper limb
+755.3       Reduction deformity of lower limb
+755.4       Reduction deformity, unspecified limb
+755.5       Other anomaly of upper limb (including shoulder girdle)
+755.6       Congenital dislocation of hip
+755.7       Other anomaly of lower limb (including pelvic girdle)
+755.8       Generalised flexion contracture of limb joints
+755.9       Other and unspecified anomaly of unspecified limb
+756   Other congenital anomalies of musculoskeletal system
+756.0       Anomalies of skull and face bones
+756.1       Anomalies of lumbosacral joint
+756.2       Other anomalies of spine
+756.3       Cervical rib
+756.4       Other anomalies of ribs and sternum
+756.5       Chondrodystrophy
+756.6       Osteogenesis imperfecta
+756.7       Other generalised anomalies of skeleton
+756.8       Other specified anomalies of muscle, tendon and fascia
+756.9       Unspecified anomalies of musculoskeletal system
+757   Congenital anomalies of skin, hair and nails
+757.0       Hereditary oedema of legs
+757.1       Pigmented naevus
+757.2       Other specified anomalies of skin
+757.3       Specified anomalies of hair
+757.4       Specified anomalies of nails
+757.9       Unspecified anomalies of skin, hair and nails
+758   Other and unspecified congenital anomalies
+758.0       Anomalies of spleen
+758.1       Anomalies of adrenal gland
+758.2       Anomalies of thyroid gland
+758.3       Anomalies of other endocrine glands
+758.8       Other specified congenital anomaly
+758.9       Unspecified congenital anomaly
+759   Congenital syndromes affecting multiple systems
+759.0       Situs inversus
+759.1       Conjoined twins
+759.2       Other forms of monster
+759.3       Down's disease
+759.4       Other syndromes due to autosomal abnormality
+759.5       Syndromes due to sex chromosome abnormality
+759.6       Tuberous sclerosis
+759.8       Other specified syndromes
+759.9       Multiple congenital anomalies, unspecified
+(760-779) Certain causes of perinatal morbidity and mortality
+760   Chronic circulatory and genito-urinary diseases in mother
+760.0       Chronic rheumatic heart disease
+760.1       Congenital heart disease
+760.2       Chronic hypertension
+760.3       Other chronic diseases of circulatory system
+760.4       Chronic nephritis
+760.5       Other chronic diseases of genito-urinary system
+761   Other maternal conditions unrelated to pregnancy
+761.0       Syphilis
+761.1       Diabetes mellitus
+761.2       Influenza
+761.3       Rubella
+761.4       Toxoplasmosis
+761.5       Injury
+761.6       Operation
+761.7       Chemical substances transmitted through placenta
+761.9       Other maternal causes
+762   Toxaemia of pregnancy
+762.0       Renal disease arising during pregnancy
+762.1       Pre-eclampsia of pregnancy
+762.2       Eclampsia of pregnancy
+762.3       Toxaemia unspecified
+762.4       Hyperemesis gravidarum
+762.5       Acute and subacute necrosis of liver arising during pregnancy
+762.9       Other toxaemia of pregnancy
+763   Maternal ante- and intrapartum infection
+763.0       Pyelitis and pyelonephritis of pregnancy
+763.1       Other infections of genito-urinary tract during pregnancy
+763.9       Other
+764   Difficult labour with abnormality of bones, organs or tissues of pelvis
+764.0       With birth injury to brain
+764.1       With birth injury to spinal cord
+764.2       With birth injury to bone or nerve
+764.3       With other or unspecified birth injury
+764.4       With asphyxia, anoxia or hypoxia
+764.9       Without mention of birth injury, asphyxia, anoxia or hypoxia
+765   Difficult labour with disproportion, but no mention of abnormality of pelvis
+765.0       With birth injury to brain
+765.1       With birth injury to spinal cord
+765.2       With birth injury to bone or nerve
+765.3       With other or unspecified birth injury
+765.4       With asphyxia, anoxia or hypoxia
+765.9       Without mention of birth injury, asphyxia, anoxia or hypoxia
+766   Difficult labour with malposition of foetus
+766.0       With birth injury to brain
+766.1       With birth injury to spinal cord
+766.2       With birth injury to bone or nerve
+766.3       With other or unspecified birth injury
+766.4       With asphyxia, anoxia or hypoxia
+766.9       Without mention of birth injury, asphyxia, anoxia or hypoxia
+767   Difficult labour with abnormality of forces of labour
+767.0       With birth injury to brain
+767.1       With birth injury to spinal cord
+767.2       With birth injury to bone or nerve
+767.3       With other or unspecified birth injury
+767.4       With asphyxia, anoxia or hypoxia
+767.9       Without mention of birth injury, asphyxia, anoxia or hypoxia
+768   Difficult labour with other and unspecified complications
+768.0       With birth injury to brain
+768.1       With birth injury to spinal cord
+768.2       With birth injury to bone or nerve
+768.3       With other or unspecified birth injury
+768.4       With ashpysia, anoxia or hypoxia
+768.9       Without mention of birth injury, ashpyxia, anoxia or hypoxia
+769   Other complications of pregnancy and childbirth
+769.0       Incompetent cervix
+769.1       Premature rupture of membranes
+769.2       Hydramnios
+769.4       Multiple pregnancy
+769.5       Maternal death unspecified
+769.9       Other
+770   Conditions of placenta
+770.0       Placenta praevia
+770.1       Premature separation of placenta
+770.2       Placental infarction
+770.8       Other
+770.9       Unspecified
+771   Conditions of umbilical cord
+771.0       Compression of cord
+771.1       Prolapse of cord without mention of compression
+771.9       Other
+772   Birth injury without mention of cause
+772.0       To brain
+772.1       To spinal cord
+772.2       To bone or nerve
+772.9       Other and unspecified
+773   Termination of pregnancy
+774   Haemolytic disease of newborn with kernicterus
+774.0       With Rh incompatibility
+774.1       With ABO incompatibility
+774.2       With other or unspecified blood incompatibility
+774.9       Without mention of cause
+775   Haemolytic disease of newborn without mention of kernicterus
+775.0       With Rh incompatibility
+775.1       With ABO incompatibility
+775.2       With other or unspecified blood incomatibility
+775.9       Without mention of cause
+776   Anoxic and hypoxic conditions not elsewhere classifiable
+776.0       Aspiration of content of birth canal
+776.1       Hyaline membrane disease
+776.2       Respiratory distress syndrome
+776.3       Foetal distress
+776.4       Intra-uterine anoxia
+776.9       Asphyxia of newborn, unspecified
+777   Immaturity, unqualified
+778   Other conditions of foetus or newborn
+778.0       Foetal blood loss before birth
+778.1       Postmaturity
+778.2       Haemorrhagic disease of newborn
+778.3       Cold injury syndrome
+778.9       Other
+779   Foetal death of unknown cause
+779.0       Maceration
+779.9       Other
+(780-789) Symptoms referable to systems or organs
+780   Certain symptoms referable to nervous system and special senses
+780.0       Coma and stupor
+780.1       Delirium
+780.2       Convulsions
+780.3       Abnormal involuntary movement
+780.4       Disturbance of coördination
+780.5       Vertigo
+780.6       Disturbance of sleep
+780.7       Disturbance of memory
+780.8       Meningismus
+781   Other symptoms referable to nervous system and special senses
+781.0       Disturbance of vision except defective sight
+781.1       Oculomotor disturbance
+781.2       Photophobia
+781.3       Disturbance of hearing except deafness
+781.4       Disturbance of cranial nerves except optic, oculomotor and auditory
+781.5       Disturbance of speech
+781.6       Other disturbance of sensation
+781.7       Encephalopathy
+781.8       Hallucinations
+782   Symptoms referable to cardiovascular and lymphatic system
+782.0       Precordial pain
+782.1       Palpitation
+782.2       Tachycardia
+782.3       Pallor and cyanosis
+782.4       Acute heart failure, undefined
+782.5       Syncope or collapse
+782.6       Oedema and dropsy
+782.7       Enlargment of lymph node
+782.8       Splenomegaly
+782.9       Shock without mention of trauma
+783   Symptoms referable to respiratory system
+783.0       Epistaxis
+783.1       Haemoptysis
+783.2       Dyspnoea
+783.3       Cough
+783.4       Excess of sputum
+783.5       Change in voice
+783.6       Stridor
+783.7       Pain in chest
+784   Symptoms referable to upper gastro-intestinal tract
+784.0       Anorexia
+784.1       Nausea and vomiting
+784.2       Pylorospasm
+784.3       Heartburn
+784.4       Dysphagia
+784.5       Haematemesis
+784.6       Hiccough
+784.7       Eructation
+785   Symptoms referable to abdomen and lower gastro-intestinal tract
+785.0       Abdominal swelling (not referable to any particular organ)
+785.1       Hepatomegaly
+785.2       Jaundice (not of newborn)
+785.3       Ascites
+785.4       Flatulence
+785.5       Abdominal pain
+785.6       Incontinence of faeces
+785.7       Melaena (not of newborn)
+785.8       Visible peristalsis
+786   Symptoms referable to genito-urinary system
+786.0       Pain referable to urinary system
+786.1       Retention of urine
+786.2       Incontinence of urine
+786.3       Frequency of micturition
+786.4       Polyuria
+786.5       Oliguria, anuria (not of newborn)
+786.6       Priapism
+786.7       Pain referable to genital organs, including dyspareunia
+787   Symptoms referable to limbs and joints
+787.0       Transient paralysis of limb, cause unknown
+787.1       Pain in limb
+787.2       Swelling of limb
+787.3       Pain in joint
+787.4       Swelling of joint
+787.5       Difficulty in walking
+787.6       Abnormality of gait
+788   Other general symptoms
+788.0       Electrolyte disorders
+788.1       Excessive sweating
+788.2       Rash
+788.3       Subcutaneous nodules
+788.4       Loss of weight
+788.5       Tetany
+788.6       Acidosis
+788.7       Alkalosis
+788.8       Pyrexia of unknown origin
+788.9       Other specified symptoms not classifiable elsewhere
+789   Abnormal urinary constituents of unspecified cause
+789.0       Albuminuria
+789.1       Pyuria and bacteriuria
+789.2       Chyluria
+789.3       Haematuria
+789.4       Haemoglobinuria
+789.5       Glycosuria
+789.6       Acetonuria
+789.9       Other
+(790-796) Senility and ill-defined diseases
+790   Nervousness and debility
+790.0       Nervousness
+790.1       Debility and undue fatigue
+790.2       Depression
+791   Headache
+792   Uraemia
+793   Observation, without need for further medical care
+793.0       Mental
+793.1       Suspected malignant neoplasm
+793.8       Other specified
+793.9       Unspecified
+794   Senility without mention of psychosis
+795   Sudden death (cause unknown)
+795.0       Sudden infant death syndrome, under one year of age
+795.1       Sudden infant death syndrome, one year of age
+795.2       All other sudden death, age two years and over
+796   Other ill-defined and unknown causes of morbidity and mortality
+796.0       Other ill-defined conditions
+796.1       Malingering
+796.2       Found dead (cause unknown)
+796.3       Died without sign of disease
+796.9       Other unknown and unspecified causes
+(E800-E807) Railway accidents
+E800  Railway accident involving collision with rolling stock
+E800.0      Railway employee
+E800.1      Passenger on railway
+E800.2      Pedestrian
+E800.3      Pedal cyclist
+E800.8      Other specified person
+E800.9      Unspecified person
+E801  Railway accident involving collision with other object
+E801.0      Railway employee
+E801.1      Passenger on railway
+E801.2      Pedestrian
+E801.3      Pedal cyclist
+E801.8      Other specified person
+E801.9      Unspecified person
+E802  Railway accident involving derailment without antecedent collision
+E802.0      Railway employee
+E802.1      Passenger on railway
+E802.2      Pedestrian
+E802.3      Pedal cyclist
+E802.8      Other specified person
+E802.9      Unspecified person
+E803  Railway accident involving explosion, fire, burning
+E803.0      Railway employee
+E803.1      Passenger on railway
+E803.2      Pedestrian
+E803.3      Pedal cyclist
+E803.8      Other specified person
+E803.9      Unspecified person
+E804  Fall in, on or from train
+E804.0      Railway employee
+E804.1      Passenger on railway
+E804.2      Pedestrian
+E804.3      Pedal cyclist
+E804.8      Other specified person
+E804.9      Unspecified person
+E805  Hit by rolling stock
+E805.0      Railway employee
+E805.1      Passenger on railway
+E805.2      Pedestrian
+E805.3      Pedal cyclist
+E805.8      Other specified person
+E805.9      Unspecified person
+E806  Other specified railway accident
+E806.0      Railway employee
+E806.1      Passenger on railway
+E806.2      Pedestrian
+E806.3      Pedal cyclist
+E806.8      Other specified person
+E806.9      Unspecified person
+E807  Railway accident of unspecified nature
+E807.0      Railway employee
+E807.1      Passenger on railway
+E807.2      Pedestrian
+E807.3      Pedal cyclist
+E807.8      Other specified person
+E807.9      Unspecified person
+(E810-E819) Motor vehicle traffic accidents
+E810  Motor vehicle traffic accident involving collision with train
+E810.0      Driver of motor vehicle other than motorcycle
+E810.1      Passenger in motor vehicle other than motorcycle
+E810.2      Motorcyclist
+E810.3      Passenger on motorcycle
+E810.4      Occupant of street car
+E810.5      Rider of animal; occupant of animal-drawn vehicle
+E810.6      Pedal cyclist
+E810.7      Pedestrian
+E810.8      Other specified person
+E810.9      Unspecified person
+E811  Motor vehicle traffic accident involving collision with street car
+E811.0      Driver of motor vehicle other than motorcycle
+E811.1      Passenger in motor vehicle other than motorcycle
+E811.2      Motorcyclist
+E811.3      Passenger on motorcycle
+E811.4      Occupant of street car
+E811.5      Rider of animal; occupant of animal-drawn vehicle
+E811.6      Pedal cyclist
+E811.7      Pedestrian
+E811.8      Other specified person
+E811.9      Unspecified person
+E812  Motor vehicle traffic accident involving collision with another motor vehicle
+E812.0      Driver of motor vehicle other than motorcycle
+E812.1      Passenger in motor vehicle other than motorcycle
+E812.2      Motorcyclist
+E812.3      Passenger on motorcycle
+E812.4      Occupant of street car
+E812.5      Rider of animal; occupant of animal-drawn vehicle
+E812.6      Pedal cyclist
+E812.7      Pedestrian
+E812.8      Other specified person
+E812.9      Unspecified person
+E813  Motor vehicle traffic accident involving collision with other vehicle
+E813.0      Driver of motor vehicle other than motorcycle
+E813.1      Passenger in motor vehicle other than motorcycle
+E813.2      Motorcyclist
+E813.3      Passenger on motorcycle
+E813.4      Occupant of street car
+E813.5      Rider of animal; occupant of animal-drawn vehicle
+E813.6      Pedal cyclist
+E813.7      Pedestrian
+E813.8      Other specified person
+E813.9      Unspecified person
+E814  Motor vehicle traffic accident involving collision with pedestrian
+E814.0      Driver of motor vehicle other than motorcycle
+E814.1      Passenger in motor vehicle other than motorcycle
+E814.2      Motorcyclist
+E814.3      Passenger on motorcycle
+E814.4      Occupant of street car
+E814.5      Rider of animal; occupant of animal-drawn vehicle
+E814.6      Pedal cyclist
+E814.7      Pedestrian
+E814.8      Other specified person
+E814.9      Unspecified person
+E815  Other motor vehicle traffic accident involving collision
+E815.0      Driver of motor vehicle other than motorcycle
+E815.1      Passenger in motor vehicle other than motorcycle
+E815.2      Motorcyclist
+E815.3      Passenger on motorcycle
+E815.4      Occupant of street car
+E815.5      Rider of animal; occupant of animal-drawn vehicle
+E815.6      Pedal cyclist
+E815.7      Pedestrian
+E815.8      Other specified person
+E815.9      Unspecified person
+E816  Noncollision motor vehicle traffic accident due to loss of control
+E816.0      Driver of motor vehicle other than motorcycle
+E816.1      Passenger in motor vehicle other than motorcycle
+E816.2      Motorcyclist
+E816.3      Passenger on motorcycle
+E816.4      Occupant of street car
+E816.5      Rider of animal; occupant of animal-drawn vehicle
+E816.6      Pedal cyclist
+E816.7      Pedestrian
+E816.8      Other specified person
+E816.9      Unspecified person
+E817  Noncollision motor vehicle traffic accident, while boarding or alighting
+E817.0      Driver of motor vehicle other than motorcycle
+E817.1      Passenger in motor vehicle other than motorcycle
+E817.2      Motorcyclist
+E817.3      Passenger on motorcycle
+E817.4      Occupant of street car
+E817.5      Rider of animal; occupant of animal-drawn vehicle
+E817.6      Pedal cyclist
+E817.7      Pedestrian
+E817.8      Other specified person
+E817.9      Unspecified person
+E818  Other noncollision motor vehicle traffic accident
+E818.0      Driver of motor vehicle other than motorcycle
+E818.1      Passenger in motor vehicle other than motorcycle
+E818.2      Motorcyclist
+E818.3      Passenger on motorcycle
+E818.4      Occupant of street car
+E818.5      Rider of animal; occupant of animal-drawn vehicle
+E818.6      Pedal cyclist
+E818.7      Pedestrian
+E818.8      Other specified person
+E818.9      Unspecified person
+E819  Motor vehicle traffic accident of unspecified nature
+E819.0      Driver of motor vehicle other than motorcycle
+E819.1      Passenger in motor vehicle other than motorcycle
+E819.2      Motorcyclist
+E819.3      Passenger on motorcycle
+E819.4      Occupant of street car
+E819.5      Rider of animal; occupant of animal-drawn vehicle
+E819.6      Pedal cyclist
+E819.7      Pedestrian
+E819.8      Other specified person
+E819.9      Unspecified person
+(E820-E823) Motor vehicle non-traffic accidents
+E820  Motor vehicle nontraffic accident involving collision with moving object
+E820.0      Driver of motor vehicle other than motorcycle
+E820.1      Passenger in motor vehicle other than motorcycle
+E820.2      Motorcyclist
+E820.3      Passenger on motorcycle
+E820.4      Occupant of street car
+E820.5      Rider of animal; occupant of animal-drawn vehicle
+E820.6      Pedal cyclist
+E820.7      Pedestrian
+E820.8      Other specified person
+E820.9      Unspecified person
+E821  Motor vehicle nontraffic accident involving collision with stationary object
+E821.0      Driver of motor vehicle other than motorcycle
+E821.1      Passenger in motor vehicle other than motorcycle
+E821.2      Motorcyclist
+E821.3      Passenger on motorcycle
+E821.4      Occupant of street car
+E821.5      Rider of animal; occupant of animal-drawn vehicle
+E821.6      Pedal cyclist
+E821.7      Pedestrian
+E821.8      Other specified person
+E821.9      Unspecified person
+E822  Motor vehicle nontraffic accident while boarding or alighting
+E822.0      Driver of motor vehicle other than motorcycle
+E822.1      Passenger in motor vehicle other than motorcycle
+E822.2      Motorcyclist
+E822.3      Passenger on motorcycle
+E822.4      Occupant of street car
+E822.5      Rider of animal; occupant of animal-drawn vehicle
+E822.6      Pedal cyclist
+E822.7      Pedestrian
+E822.8      Other specified person
+E822.9      Unspecified person
+E823  Motor vehicle nontraffic accident of other and unspecified nature
+E823.0      Driver of motor vehicle other than motorcycle
+E823.1      Passenger in motor vehicle other than motorcycle
+E823.2      Motorcyclist
+E823.3      Passenger on motorcycle
+E823.4      Occupant of street car
+E823.5      Rider of animal; occupant of animal-drawn vehicle
+E823.6      Pedal cyclist
+E823.7      Pedestrian
+E823.8      Other specified person
+E823.9      Unspecified person
+(E825-E827) Other road vehicle accidents
+E825  Street car accident
+E825.0      Pedestrian
+E825.1      Pedal cyclist
+E825.2      Occupant of street car
+E825.8      Other specified person
+E825.9      Unspecified person
+E826  Pedal cycle accident
+E826.0      Pedestrian
+E826.1      Pedal cyclist
+E826.8      Other specified person
+E826.9      Unspecified person
+E827  Other nonmotor road vehicle accident
+E827.0      Pedestrian
+E827.8      Other specified person
+E827.9      Unspecified person
+(E830-E838) Water transport accidents
+E830  Accident to watercraft causing submersion
+E830.0      Occupant of small boat
+E830.1      Occupant of other water craft-crew
+E830.2      Occupant of other water craft-other than crew
+E830.3      Dockers, stevedores
+E830.8      Other specified person
+E830.9      Unspecified person
+E831  Accident to watercraft causing other injury
+E831.0      Occupant of small boat
+E831.1      Occupant of other water craft-crew
+E831.2      Occupant of other water craft-other than crew
+E831.3      Dockers, stevedores
+E831.8      Other specified person
+E831.9      Unspecified person
+E832  Other accidental submersion or drowning in water transport
+E832.0      Occupant of small boat
+E832.1      Occupant of other water craft-crew
+E832.2      Occupant of other water craft-other than crew
+E832.3      Dockers, stevedores
+E832.8      Other specified person
+E832.9      Unspecified person
+E833  Fall on stairs or ladders in water transport
+E833.0      Occupant of small boat
+E833.1      Occupant of other water craft-crew
+E833.2      Occupant of other water craft-other than crew
+E833.3      Dockers, stevedores
+E833.8      Other specified person
+E833.9      Unspecified person
+E834  Other fall from one level to another in water transport
+E834.0      Occupant of small boat
+E834.1      Occupant of other water craft-crew
+E834.2      Occupant of other water craft-other than crew
+E834.3      Dockers, stevedores
+E834.8      Other specified person
+E834.9      Unspecified person
+E835  Other and unspecified fall in water transport
+E835.0      Occupant of small boat
+E835.1      Occupant of other water craft-crew
+E835.2      Occupant of other water craft-other than crew
+E835.3      Dockers, stevedores
+E835.8      Other specified person
+E835.9      Unspecified person
+E836  Machinery accident in water transport
+E836.0      Occupant of small boat
+E836.1      Occupant of other water craft-crew
+E836.2      Occupant of other water craft-other than crew
+E836.3      Dockers, stevedores
+E836.8      Other specified person
+E836.9      Unspecified person
+E837  Explosions, fire, burning in water transport
+E837.0      Occupant of small boat
+E837.1      Occupant of other water craft-crew
+E837.2      Occupant of other water craft-other than crew
+E837.3      Dockers, stevedores
+E837.8      Other specified person
+E837.9      Unspecified person
+E838  Other and unspecified water transport accident
+E838.0      Occupant of small boat
+E838.1      Occupant of other water craft-crew
+E838.2      Occupant of other water craft-other than crew
+E838.3      Dockers, stevedores
+E838.8      Other specified person
+E838.9      Unspecified person
+(E840-E845) Air and space transport accidents
+E840  Accident to powered aircraft at take-off or landing
+E840.0      Occupant of spacecraft
+E840.1      Occupant of military aircraft
+E840.2      Occupant of commercial aircraft, crew
+E840.3      Other occupant of commercial aircraft
+E840.4      Occupant of other and unspecified aircraft
+E840.5      Ground crew, airline employee
+E840.8      Other specified person
+E840.9      Unspecified person
+E841  Accident to powered aircraft other and unspecified
+E841.0      Occupant of spacecraft
+E841.1      Occupant of military aircraft
+E841.2      Occupant of commercial aircraft, crew
+E841.3      Other occupant of commercial aircraft
+E841.4      Occupant of other and unspecified aircraft
+E841.5      Ground crew, airline employee
+E841.8      Other specified person
+E841.9      Unspecified person
+E842  Accident to unpowered aircraft
+E842.0      Occupant of spacecraft
+E842.1      Occupant of military aircraft
+E842.2      Occupant of commercial aircraft, crew
+E842.3      Other occupant of commercial aircraft
+E842.4      Occupant of other and unspecified aircraft
+E842.5      Ground crew, airline employee
+E842.8      Other specified person
+E842.9      Unspecified person
+E843  Fall in, on or from aircraft
+E843.0      Occupant of spacecraft
+E843.1      Occupant of military aircraft
+E843.2      Occupant of commercial aircraft, crew
+E843.3      Other occupant of commercial aircraft
+E843.4      Occupant of other and unspecified aircraft
+E843.5      Ground crew, airline employee
+E843.8      Other specified person
+E843.9      Unspecified person
+E844  Other specified air transport accidents
+E844.0      Occupant of spacecraft
+E844.1      Occupant of military aircraft
+E844.2      Occupant of commercial aircraft, crew
+E844.3      Other occupant of commercial aircraft
+E844.4      Occupant of other and unspecified aircraft
+E844.5      Ground crew, airline employee
+E844.8      Other specified person
+E844.9      Unspecified person
+E845  Accident involving spacecraft
+E845.0      Occupant of spacecraft
+E845.1      Occupant of military aircraft
+E845.2      Occupant of commercial aircraft, crew
+E845.3      Other occupant of commercial aircraft
+E845.4      Occupant of other and unspecified aircraft
+E845.5      Ground crew, airline employee
+E845.8      Other specified person
+E845.9      Unspecified person
+(E850-E859) Accidental poisoning by drugs and medicaments
+E850  Accidental poisoning by antibiotics and other anti-infectives
+E850.0      Penicillin, any
+E850.1      Antifungal antibiotics
+E850.2      Chloramphenicol
+E850.3      Erythromycins, streptomycins, tetracyclines
+E850.4      Other antibiotics
+E850.5      Sulphonamides
+E850.6      Arsenic anti-infectives
+E850.7      Silver and its compounds
+E850.8      Quinoline and hydroxyquinoline derivatives
+E850.9      Other anti-infectives
+E851  Accidental poisoning by hormones and synthetic substitutes
+E851.0      Adrenals
+E851.1      Androgens and anabolic congeners
+E851.2      Oestrogens
+E851.3      Insulin and antidiabetic agents
+E851.4      Anterior pituitary extracts
+E851.5      Posterior pituitary extracts
+E851.6      Progestogens
+E851.7      Thyroid and thyroid derivatives
+E851.8      Antithyroid agents
+E851.9      Other hormones and synthetic substitutes
+E852  Accidental poisoning by primarily systemic and haematological agents
+E852.0      Antihistaminic and antiemetic drugs
+E852.1      Antineoplastic agents
+E852.2      Electrolytic, caloric and water balance agents
+E852.3      Vitamins
+E852.4      Other primarily systemic agents
+E852.5      Iron and its compounds
+E852.6      Anticoagulants
+E852.7      Vitamin K products
+E852.8      Other coagulants
+E852.9      Other primarily haematological agents
+E853  Accidental poisoning by analgesics and antipyretics
+E853.0      Opiates and synthetic analogues
+E853.1      Salicylates and congeners
+E853.2      Cinchophen and congeners
+E853.3      Colchicine
+E853.4      Aniline derivatives
+E853.5      Other coal tar derivatives
+E853.9      Other analgesics and antipyretics
+E854  Accidental poisoning by other sedatives and hypnotics
+E854.0      Barbiturates
+E854.1      Chloral hydrate
+E854.2      Paraldehyde
+E854.3      Bromides
+E854.9      Other sedatives and hypnotics
+E855  Accidental poisoning by autonomic nervous system and psychotherapeutic drugs
+E855.0      Antidepressants
+E855.1      Tranquillisers
+E855.2      Other psychotherapeutic agents
+E855.3      Parasympathomimetics (cholinergics)
+E855.4      Parasympatholytics (anticholinergics)
+E855.5      Sympathomimetics (adrenergics)
+E855.6      Autonomic nervous system relaxants
+E855.9      Other
+E856  Accidental poisoning by other central nervous system depressants and stimulants
+E856.0      Anticonvulsants
+E856.1      Skeletal muscle relaxants
+E856.2      Anaesthetic gases
+E856.3      Other central nervous system depressants
+E856.4      Amphetamine
+E856.8      Other central nervous system stimulants
+E856.9      Other and unspecified
+E857  Accidental poisoning by cardiovascular drugs
+E857.0      Cardiac depressants
+E857.1      Cardiac tonics
+E857.2      Cholesterol lowering agents
+E857.3      Ganglionic blocking agents
+E857.4      Vasodilators
+E857.5      Other hypotensive agents
+E857.6      Sclerosing agents
+E857.9      Other
+E858  Accidental poisoning by gastro-intestinal drugs
+E858.0      Antacids and antidiarrhoea agents
+E858.1      Intestinal irritant cathartics
+E858.2      Emollient cathartics
+E858.3      Saline cathartics
+E858.4      Faecal softeners
+E858.5      Other cathartics
+E858.6      Emetics
+E858.9      Other
+E859  Accidental poisoning by other and unspecified drugs and medicaments
+E859.0      Local anaesthetics
+E859.1      Mercurial diuretics
+E859.2      Xanthine derivatives
+E859.3      Other diuretics
+E859.4      Agents acting directly on musculoskeletal system
+E859.5      Liniments
+E859.6      Ointments
+E859.7      Other medicaments for external use
+E859.8      Other specified drugs
+E859.9      Drugs, unspecified
+(E860-E869) Accidental poisoning by other solid and liquid substances
+E860  Accidental poisoning by alcohol
+E861  Accidental poisoning by cleansing and polishing agents
+E862  Accidental poisoning by disinfectants
+E863  Accidental poisoning by paints and varnishes
+E864  Accidental poisoning by petroleum products and other solvents
+E865  Accidental poisoning by pesticides, fertilisers or plant foods
+E866  Accidental poisoning by heavy metals and their fumes
+E867  Accidental poisoning by corrosives and caustics, not elsewhere classified
+E868  Accidental poisoning by noxious foodstuffs and poisonous plants
+E869  Accidental poisoning by other and unspecified solid and liquid substances
+(E870-E877) Accidental poisoning by gases and vapours
+E870  Accidental poisoning by gas distributed by pipe-line
+E871  Accidental poisoning by liquefied petroleum gas distributed in mobile containers
+E872  Accidental poisoning by other utility gas
+E873  Accidental poisoning by motor vehicle exhaust gas
+E874  Accidental poisoning by carbon monoxide from incomplete combustion of domestic fuels
+E875  Accidental poisoning by other carbon monoxide
+E876  Accidental poisoning by other gases and vapours
+E877  Accidental poisoning by unspecified gases and vapours
+(E880-E887) Accidental falls
+E880  Fall on or from stairs or steps
+E881  Fall on or from ladders or scaffolding
+E882  Fall from or out of building or other structure
+E883  Fall into hole or other opening in surface
+E884  Other fall from one level to another
+E885  Fall on same level from slipping, stumbling or tripping
+E886  Fall on same level from collision, pushing or shoving by or with other person
+E887  Other and unspecified fall
+(E890-E899) Accidents caused by fires and flames
+E890  Accident caused by conflagration in private dwelling
+E891  Accident caused by conflagration in other building or structure
+E892  Accident caused by conflagration not in building or structure
+E893  Accident caused by ignition of clothing
+E894  Accident caused by ignition of highly inflammable material
+E895  Accident caused by controlled fire in private dwelling
+E896  Accident caused by controlled fire in other building or structure
+E897  Accident caused by controlled fire not in building or structure
+E898  Accident caused by other specified fires or flames
+E899  Accident caused by unspecified fire
+(E900-E909) Accidents due to natural and environmental factors
+E900  Excessive heat
+E901  Excessive cold
+E902  High and low air pressure
+E903  Effects of travel and motion
+E904  Hunger, thirst, exposure and neglect
+E905  Bites and stings of venomous animals and insects
+E906  Other accidents caused by animals
+E907  Lightning
+E908  Cataclysm
+E909  Accident due to other natural and environmental factors
+(E910-E929) Other accidents
+E910  Accidental drowning and submersion
+E910.0      In recreational activities
+E910.9      Other and unspecified
+E911  Inhalation and ingestion of food causing obstruction or suffocation
+E912  Inhalation and ingestion of other object causing obstruction or suffocation
+E913  Accidental mechanical suffocation
+E913.0      In bed or cradle
+E913.9      Other and unspecified
+E914  Foreign body accidentally entering eye and adnexa
+E915  Foreign body accidentally entering other orifice
+E916  Struck accidentally by falling object
+E917  Striking against or struck accidentally by objects
+E918  Caught accidentally in or between objects
+E919  Over-exertion and strenuous movements
+E920  Accident caused by cutting or piercing instruments
+E920.0      Powered hand tools
+E920.1      Other hand tools
+E920.2      Other machinery
+E920.8      Other
+E920.9      Unspecified
+E921  Accident caused by explosion of pressure vessel
+E921.0      Boilers
+E921.1      Gas cylinders
+E921.8      Other
+E922  Accident caused by firearm missiles
+E922.0      Accidentally self-inflicted
+E922.9      Other and unspecified
+E923  Accident caused by explosive material
+E923.0      Fireworks
+E923.1      Blasting materials
+E923.2      Explosive gases
+E923.8      Other
+E923.9      Unspecified
+E924  Accident caused by hot substance, corrosive liquid and steam
+E925  Accident caused by electric current
+E925.0      Home wiring and appliances
+E925.1      Industrial wiring or appliances
+E925.8      Other
+E925.9      Unspecified
+E926  Accident caused by radiation
+E926.0      Non-ionising
+E926.1      Ionising
+E927  Vehicle accidents not elsewhere classifiable
+E928  Machinery accidents not elsewhere classifiable
+E929  Other and unspecified accidents
+(E930-E936) Surgical and medical complications and misadventures
+E930  Complications and misadventures in operative therapeutic procedures
+E930.0      In surgical treatment, excluding effects of anaesthetic management
+E930.1      In anaesthesia during operative treatment
+E930.2      In infusion or transfusion during operative treatment
+E930.9      In other procedures during operative treatment
+E931  Complications and misadventures in other and unspecified therapeutic procedures
+E931.0      In use of X-ray and radioactive substances
+E931.1      In administration of drugs and biologicals
+E931.2      In infusion and transfusion
+E931.3      In local applications
+E931.8      In other therapeutic procedures
+E931.9      In unspecified therapeutic procedures
+E932  Complications and misadventures in diagnostic procedures
+E932.0      In surgical procedures, excluding effect of anaesthetic management
+E932.1      In anaesthesia
+E932.2      In use of X-ray or radioactive substances
+E932.3      In administration of drugs and biologicals
+E932.8      In other diagnostic procedures
+E932.9      In unspecified diagnostic procedures
+E933  Complications and misadventures in prophylaxis with bacterial vaccines
+E933.0      BCG vaccine
+E933.1      Typhoid and paratyphoid vaccine
+E933.2      Cholera vaccine
+E933.3      Plague vaccine
+E933.4      Tetanus vaccine
+E933.5      Diphtheria vaccine
+E933.6      Pertussis vaccine, including combinations with a pertussis component
+E933.8      Other and unspecified bacterial vaccines
+E933.9      Mixed bacterial vaccines, except combinations with a pertussis component
+E934  Complications and misadventures in prophylaxis with other vaccines
+E934.0      Smallpox vaccine
+E934.1      Rabies vaccine
+E934.2      Typhus vaccine
+E934.3      Yellow fever vaccine
+E934.4      Measles vaccine
+E934.5      Poliomyelitis vaccine
+E934.6      Other and unspecified viral and rickettsial vaccines
+E934.7      Mixed viral-rickettsial and bacterial vaccines, except combinations with a pertussis component
+E934.9      Other and unspecified vaccines
+E935  Complications and misadventures in other prophylactic procedures
+E935.0      In surgical procedures, excluding effects of anaesthetic management
+E935.1      In anaesthesia during prophylactic procedures
+E935.2      In use of X-rays and radioactive substances
+E935.3      In administration of drugs and biologicals
+E935.9      In other and unspecified procedures
+E936  Complications and misadventures in other nontherapeutic procedures
+E936.0      In surgical procedures, excluding effects of anaesthetic management
+E936.1      In anaesthesia
+E936.9      In other and unspecified procedures
+(E940-E949) Late effects of accidental injury
+E940  Late effect of motor vehicle accident
+E941  Late effect of other transport accident
+E942  Late effect of accidental poisoning
+E943  Late effect of accidental fall
+E944  Late effect of accident caused by fire
+E945  Late effect of accident due to natural and environmental factors
+E946  Late effect of other accidents
+E947  Late effect of surgical operation
+E948  Late effect of irradiation
+E949  Late effect of other surgical and medical procedures
+(E950-E959) Suicide and self-inflicted injury
+E950  Suicide and self-inflicted poisoning by solid or liquid substances
+E950.0      Barbituric acid and derivatives
+E950.1      Salicylates and congeners
+E950.2      Psychotherapeutic agents
+E950.3      Other and unspecified drugs
+E950.4      Corrosive aromatics
+E950.5      Strychnine
+E950.6      Lye and potash (caustic alkali)
+E950.7      Arsenic and its compounds
+E950.8      Fluorides
+E950.9      Other and unspecified solid and liquid substances
+E951  Suicide and self-inflicted poisoning by gases in domestic use
+E952  Suicide and self-inflicted poisoning by other gases
+E952.0      Motor vehicle exhaust gas
+E952.1      Other carbon monoxide
+E952.9      Other and unspecified gases and vapours
+E953  Suicide and self-inflicted injury by hanging, strangulation and suffocation
+E954  Suicide and self-inflicted injury by submersion (drowning)
+E955  Suicide and self-inflicted injury by firearms and explosives
+E956  Suicide and self-inflicted injury by cutting and piercing instruments
+E957  Suicide and self-inflicted injury by jumping from high place
+E958  Suicide and self-inflicted injury by other and unspecified means
+E959  Late effect of self-inflicted injury
+(E960-E969) Homicide and injury purposely inflicted by other persons
+E960  Fight, brawl, rape
+E961  Assault by corrosive or caustic substance, except poisoning
+E962  Assault by poisoning
+E963  Assault by hanging and strangulation
+E964  Assault by submersion (drowning)
+E965  Assault by firearms and explosives
+E966  Assault by cutting and piercing instruments
+E967  Assault by pushing from high place
+E968  Assault by other and unspecified means
+E969  Late effect of injury purposely inflicted by other person
+(E970-E978) Legal intervention
+E970  Injury due to legal intervention by firearms
+E971  Injury due to legal intervention by explosives
+E972  Injury due to legal intervention by gas
+E973  Injury due to legal intervention by blunt object
+E974  Injury due to legal intervention by cutting and piercing instruments
+E975  Injury due to legal intervention by other specified means
+E976  Injury due to legal intervention by unspecified means
+E977  Late effect of injury due to legal intervention
+E978  Legal execution
+(E980-E989) Injury undetermined whether accidentally or purposely inflicted
+E980  Poisoning by solid or liquid substances, undetermined whether accidentally or purposely inflicted
+E980.0      Barbituric acid and derivatives
+E980.1      Salicylates and congeners
+E980.2      Psychotherapeutic agents
+E980.3      Other and unspecified drugs
+E980.4      Corrosive aromatics
+E980.5      Strychnine
+E980.6      Lye and potash (caustic alkali)
+E980.7      Arsenic and its compounds
+E980.8      Fluorides
+E980.9      Other and unspecified solid and liquid substances
+E981  Poisoning by gases in domestic use, undetermined whether accidentally or purposely inflicted
+E982  Poisoning by other gases, undetermined whether accidentally or purposely inflicted
+E983  Hanging and strangulation, undetermined whether accidentally or purposely inflicted
+E984  Submersion (drowning), undetermined whether accidentally or purposely inflicted
+E985  Injury by firearms and explosives, undetermined whether accidentally or purposely inflicted
+E986  Injury by cutting and piercing instruments, undetermined whether accidentally or purposely inflicted
+E987  Falling from high place, undetermined whether accidentally or purposely inflicted
+E988  Injury by other and specified means, undetermined whether accidentally or purposely inflicted
+E989  Late effect of injury, undetermined whether accidentally or purposely inflicted
+(E990-E999) Injury resulting from operations of war
+E990  Injury due to war operations by fires and conflagrations
+E991  Injury due to war operations by bullets and fragments
+E992  Injury due to war operations by explosion of marine weapons
+E993  Injury due to war operations by other explosion
+E994  Injury due to war operations by destruction of aircraft
+E995  Injury due to war operations by other and unspecified forms of conventional warfare
+E996  Injury due to war operations by nuclear weapons
+E997  Injury due to war operations by other forms of unconventional warfare
+E998  Injury due to war operations but occurring after cessation of hostilities
+E999  Late effect of injury due to war operations
+(N800-N809) Fracture of skull, spine and trunk
+N800  Fracture of vault of skull
+N800.0      Closed
+N800.1      Open
+N800.9      Late effect
+N801  Fracture of base of skull
+N801.0      Closed
+N801.1      Open
+N801.9      Late effect
+N802  Fracture of face bones
+N802.0      Nasal bones, closed
+N802.1      Nasal bones, open
+N802.2      Mandible, closed
+N802.3      Mandible, open
+N802.4      Other, closed
+N802.5      Other, open
+N802.9      Late effect, any facial bone
+N803  Other and unqualified skull fractures
+N803.0      Closed
+N803.1      Open
+N803.9      Late effect
+N804  Multiple fractures involving skull or face with other bones
+N804.0      Closed
+N804.1      Open
+N804.9      Late effect
+N805  Fracture and fracture dislocation of vertebral column without mention of spinal cord lesion
+N805.0      Cervical, closed
+N805.1      Cervical, open
+N805.2      Dorsal (thoracic) and lumbar, closed
+N805.3      Dorsal (thoracic) and lumbar, open
+N805.4      Sacrum and coccyx, closed
+N805.5      Sacrum and coccyx, open
+N805.6      Unspecified, closed
+N805.7      Unspecified, open
+N805.9      Late effect, any vertebra
+N806  Fracture and fracture dislocation of vertebral column with spinal cord lesion
+N806.0      Cervical, closed
+N806.1      Cervical, open
+N806.2      Dorsal (thoracic) and lumbar, closed
+N806.3      Dorsal (thoracic) and lumbar, open
+N806.4      Sacrum and coccyx, closed
+N806.5      Sacrum and coccyx, open
+N806.6      Unspecified, closed
+N806.7      Unspecified, open
+N806.9      Late effect, any vertebra
+N807  Fracture of rib(s), sternum and larynx
+N807.0      Rib(s), closed
+N807.1      Rib(s), open
+N807.2      Sternum, closed
+N807.3      Sternum, open
+N807.4      Larynx, closed
+N807.5      Larynx, open
+N807.9      Late effect, rib(s), sternum or larynx
+N808  Fracture of pelvis
+N808.0      Closed
+N808.1      Open
+N808.9      Late effect
+N809  Multiple and ill-defined fractures of trunk
+N809.0      Closed
+N809.1      Open
+N809.9      Late effect
+(N810-N819) Fracture of upper limb
+N810  Fracture of clavicle
+N810.0      Closed
+N810.1      Open
+N810.9      Late effect
+N811  Fracture of scapula
+N811.0      Closed
+N811.1      Open
+N811.9      Late effect
+N812  Fracture of humerus
+N812.0      Upper end, closed
+N812.1      Upper end, open
+N812.2      Shaft or unspecified part, closed
+N812.3      Shaft or unspecified part, open
+N812.4      Lower end, closed
+N812.5      Lower end, open
+N812.9      Late effect, any part
+N813  Fracture of radius and ulna
+N813.0      Upper end or unspecified part, closed
+N813.1      Upper end or unspecified part, open
+N813.2      Shaft, closed
+N813.3      Shaft, open
+N813.4      Lower end, closed
+N813.5      Lower end, open
+N813.9      Late effect, any part
+N814  Fracture of carpal bone(s)
+N814.0      Closed
+N814.1      Open
+N814.9      Late effect
+N815  Fracture of metacarpal bone(s)
+N815.0      Closed
+N815.1      Open
+N815.9      Late effect
+N816  Fracture of one or more phalanges of hand
+N816.0      Closed
+N816.1      Open
+N816.9      Late effect
+N817  Multiple fractures of hand bones
+N817.0      Closed
+N817.1      Open
+N817.9      Late effect
+N818  Other, multiple and ill-defined fractures of upper limb
+N818.0      Closed
+N818.1      Open
+N818.9      Late effect
+N819  Multiple fractures of both upper limbs, and upper limb with rib(s) and sternum
+N819.0      Closed
+N819.1      Open
+N819.9      Late effect
+(N820-N829) Fracture of lower limb
+N820  Fracture of neck of femur
+N820.0      Separation of epiphysis, closed
+N820.1      Separation of epiphysis, open
+N820.2      Intertrochanteric section, closed
+N820.3      Intertrochanteric section. open
+N820.4      Other and unspecified part, closed
+N820.5      Other and unspecified part, open
+N820.9      Late effect, any part
+N821  Fracture of other and unspecified parts of femur
+N821.0      Shaft or unspecified part, closed
+N821.1      Shaft or unspecified part, open
+N821.2      Lower end, closed
+N821.3      Lower end, open
+N821.9      Late effect, either part
+N822  Fracture of patella
+N822.0      Closed
+N822.1      Open
+N822.9      Late effect
+N823  Fracture of tibia and fibula
+N823.0      Upper end or unspecified part, closed
+N823.1      Upper end or unspecified part, open
+N823.2      Shaft, closed
+N823.3      Shaft, open
+N823.9      Late effect, either part
+N824  Fracture of ankle
+N824.0      Closed
+N824.1      Open
+N824.9      Late effect
+N825  Fracture of one or more tarsal and metatarsal bones
+N825.0      Closed
+N825.1      Open
+N825.9      Late effect
+N826  Fracture of one or more phalanges of foot
+N826.0      Closed
+N826.1      Open
+N826.9      Late effect
+N827  Other, multiple and ill-defined fractures of lower limb
+N827.0      Closed
+N827.1      Open
+N827.9      Late effect
+N828  Multiple fractures involving both lower limbs, lower with upper limb, and lower limb(s) with rib(s) and sternum
+N828.0      Closed
+N828.1      Open
+N828.9      Late effect
+N829  Fracture of unspecified bones
+N829.0      Closed
+N829.1      Open
+N829.9      Late effect
+(N830-N839) Dislocation without fracture
+N830  Dislocation of jaw
+N830.0      Simple
+N830.1      Compound
+N830.9      Late effect
+N831  Dislocation of shoulder
+N831.0      Simple
+N831.1      Compound
+N831.9      Late effect
+N832  Dislocation of elbow
+N832.0      Simple
+N832.1      Compound
+N832.9      Late effect
+N833  Dislocation of wrist
+N833.0      Simple
+N833.1      Compound
+N833.9      Late effect
+N834  Dislocation of finger
+N834.0      Simple
+N834.1      Compound
+N834.9      Late effect
+N835  Dislocation of hip
+N835.0      Simple
+N835.1      Compound
+N835.9      Late effect
+N836  Dislocation of knee
+N836.0      Simple
+N836.1      Compound
+N836.9      Late effect
+N837  Dislocation of ankle
+N837.0      Simple
+N837.1      Compound
+N837.9      Late effect
+N838  Dislocation of foot
+N838.0      Simple
+N838.1      Compound
+N838.9      Late effect
+N839  Other, multiple and ill-defined dislocations
+N839.0      Cervical vertebra, simple
+N839.1      Cervical vertebra, compound
+N839.5      Other location, simple
+N839.6      Other location, compound
+N839.7      Multiple and ill-defined, simple
+N839.8      Multiple and ill-defined, compound
+N839.9      Late effect, other, multiple or ill-defined dislocations
+(N840-N848) Sprains and strains of joints and adjacent muscles
+N840  Sprains and strains of shoulder and upper arm
+N841  Sprains and strains of elbow and forearm
+N842  Sprains and strains of wrist and hand
+N842.0      Wrist
+N842.1      Hand
+N843  Sprains and strains of hip and thigh
+N844  Sprains and strains of knee and leg
+N845  Sprains and strains of ankle and foot
+N845.0      Ankle
+N845.1      Foot
+N846  Sprains and strains of sacro-iliac region
+N847  Sprains and strains of other and unspecified parts of back
+N847.0      Neck
+N847.8      Other
+N847.9      Unspecified
+N848  Other and ill-defined sprains and strains
+(N850-N854) Intracranial injury (excluding those with skull fracture)
+N850  Concussion
+N850.0      Current or unspecified
+N850.9      Late effect
+N851  Cerebral laceration and contusion
+N851.0      Without mention of open intracranial wound
+N851.1      With open intracranial wound
+N851.9      Late effect
+N852  Subarachnoid, subdural and extradural haemorrhage, following injury (without mention of cerebral laceration or contusion)
+N852.0      Without mention of open intracranial wound
+N852.1      With open intracranial wound
+N852.9      Late effect
+N853  Other and unspecified intracranial haemorrhage following injury (without mention of cerebral laceration or contusion)
+N853.0      Without mention of open intracranial wound
+N853.1      With open intracranial wound
+N853.9      Late effect
+N854  Intracranial injury of other and unspecified nature
+N854.0      Without mention of open intracranial wound
+N854.1      With open intracranial wound
+N854.9      Late effect
+(N860-N869) Internal injury of chest, abdomen and pelvis
+N860  Traumatic pneumothorax and haemothorax
+N860.0      Without mention of open wound into cavity
+N860.1      With open wound into cavity
+N860.9      Late effect
+N861  Injury to heart and lung
+N861.0      Heart without mention of open wound into thorax
+N861.1      Heart with open wound into thorax
+N861.2      Lung without mention of open wound into thorax
+N861.3      Lung with open wound into thorax
+N861.9      Late effect, either organ
+N862  Injury to other and unspecified intrathoracic organs
+N862.0      Without mention of open wound into cavity
+N862.1      With open wound into cavity
+N862.9      Late effect
+N863  Injury to gastro-intestinal tract
+N863.0      Without mention of open wound into cavity
+N863.1      With open wound into cavity
+N863.9      Late effect
+N864  Injury to liver
+N864.0      Without mention of open wound into cavity
+N864.1      With open wound into cavity
+N864.9      Late effect
+N865  Injury to spleen
+N865.0      Without mention of open wound into cavity
+N865.1      With open wound into cavity
+N865.9      Late effect
+N866  Injury to kidney
+N866.0      Without mention of open wound into cavity
+N866.1      With open wound into cavity
+N866.9      Late effect
+N867  Injury to pelvic organs
+N867.0      Without mention of open wound into cavity
+N867.1      With open wound into cavity
+N867.9      Late effect
+N868  Injury to other and unspecified intra-abdominal organs
+N868.0      Without mention of open wound into cavity
+N868.1      With open wound into cavity
+N868.9      Late effect
+N869  Internal injury, unspecified or involving intrathoracic and intra-abdominal organs
+N869.0      Without mention of open wound into cavity
+N869.1      With open wound into cavity
+N869.9      Late effect
+(N870-N879) Laceration and open wound of head, neck and trunk
+N870  Open wound of eye and orbit
+N870.0      Without mention of complication
+N870.1      Complicated
+N870.9      Late effect
+N871  Enucleation of eye
+N872  Open wound of ear
+N872.0      Without mention of complication
+N872.1      Complicated
+N872.9      Late effect
+N873  Other and unspecified laceration of head
+N873.0      Scalp without mention of complication
+N873.1      Scalp complicated
+N873.2      Nose without mention of complication
+N873.3      Nose complicated
+N873.7      Other face without mention of complication
+N873.8      Other face complicated
+N873.9      Late effect, nose, other face and scalp
+N874  Open wound of neck
+N874.0      Without mention of complication
+N874.1      Complicated
+N874.9      Late effect
+N875  Open wound of chest (wall)
+N875.0      Without mention of complication
+N875.1      Complicated
+N875.9      Late effect
+N876  Open wound of back
+N876.0      Without mention of complication
+N876.1      Complicated
+N876.9      Late effect
+N877  Open wound of buttock
+N877.0      Without mention of complication
+N877.1      Complicated
+N877.9      Late effect
+N878  Open wound of genital organs (external), including traumatic amputation
+N878.0      Without mention of complication
+N878.1      Complicated
+N878.9      Late effect
+N879  Other, multiple and unspecified open wounds of head, neck and trunk
+N879.0      Other specified sites of trunk without mention of complication
+N879.1      Other specified sites of trunk complicated
+N879.7      Multiple and unspecified sites without mention of complication
+N879.8      Multiple and unspecified sites complicated
+N879.9      Late effect, other specified, multiple and unspecified sites
+(N880-N887) Laceration and open wound of upper limb
+N880  Open wound of shoulder and upper arm
+N880.0      Without mention of complication
+N880.1      Complicated
+N880.2      With tendon involvement
+N880.9      Late effect
+N881  Open wound of elbow, forearm and wrist
+N881.0      Without mention of complication
+N881.1      Complicated
+N881.2      With tendon involvement
+N881.9      Late effect
+N882  Open wound of hand except finger(s) alone
+N882.0      Without mention of complication
+N882.1      Complicated
+N882.2      With tendon involvement
+N882.9      Late effect
+N883  Open wound of finger(s)
+N883.0      Without mention of complication
+N883.1      Complicated
+N883.2      With tendon involvement
+N883.9      Late effect
+N884  Multiple and unspecified open wound of upper limb
+N884.0      Without mention of complication
+N884.1      Complicated
+N884.2      With tendon involvement
+N884.9      Late effect
+N885  Traumatic amputation of thumb (complete) (partial)
+N885.0      Without mention of complication
+N885.1      Complicated
+N885.9      Late effect
+N886  Traumatic amputation of other finger(s) (complete) (partial)
+N886.0      Without mention of complication
+N886.1      Complicated
+N886.9      Late effect
+N887  Traumatic amputation of arm and hand (complete) (partial)
+N887.0      Without mention of complication
+N887.1      Complicated
+N887.9      Late effect
+(N890-N897) Laceration and open wound of lower limb
+N890  Open wound of hip and thigh
+N890.0      Without mention of complication
+N890.1      Complicated
+N890.2      With tendon involvement
+N890.9      Late effect
+N891  Open wound of knee, leg (except thigh) and ankle
+N891.0      Without mention of complication
+N891.1      Complicated
+N891.2      With tendon involvement
+N891.9      Late effect
+N892  Open wound of foot, except toe(s) alone
+N892.0      Without mention of complication
+N892.1      Complicated
+N892.2      With tendon involvement
+N892.9      Late effect
+N893  Open wound of toe(s)
+N893.0      Without mention of complication
+N893.1      Complicated
+N893.2      With tendon involvement
+N893.9      Late effect
+N894  Multiple and unspecified open wound of lower limb
+N894.0      Without mention of complication
+N894.1      Complicated
+N894.2      With tendon involvement
+N894.9      Late effect
+N895  Traumatic amputation of toe(s) (complete) (partial)
+N895.0      Without mention of complication
+N895.1      Complicated
+N895.9      Late effect
+N896  Traumatic amputation of foot (complete) (partial)
+N896.0      Without mention of complication
+N896.1      Complicated
+N896.9      Late effect
+N897  Traumatic amputation of leg(s) (complete) (partial)
+N897.0      Without mention of complication
+N897.1      Complicated
+N897.9      Late effect
+(N900-N907) Laceration and open wound of multiple location
+N900  Multiple open wounds of both upper limbs
+N900.0      Without mention of complication
+N900.1      Complicated
+N900.2      With tendon involvement
+N900.9      Late effect
+N901  Multiple open wounds of both lower limbs
+N901.0      Without mention of complication
+N901.1      Complicated
+N901.2      With tendon involvement
+N901.9      Late effect
+N902  Multiple open wounds of upper with lower limb(s)
+N902.0      Without mention of complication
+N902.1      Complicated
+N902.2      With tendon involvement
+N902.9      Late effect
+N903  Multiple open wounds of both hands
+N903.0      Without mention of complication
+N903.1      Complicated
+N903.2      With tendon involvement
+N903.9      Late effect
+N904  Multiple open wounds of head with limb(s)
+N904.0      Without mention of complication
+N904.1      Complicated
+N904.2      With tendon involvement
+N904.9      Late effect
+N905  Multiple open wounds of trunk with limb(s)
+N905.0      Without mention of complication
+N905.1      Complicated
+N905.2      With tendon involvement
+N905.9      Late effect
+N906  Multiple open wounds of face with limb(s)
+N906.0      Without mention of complication
+N906.1      Complicated
+N906.2      With tendon involvement
+N906.9      Late effects
+N907  Multiple open wounds of other and unspecified location
+N907.0      Without mention of complication
+N907.1      Complicated
+N907.9      Late effect
+(N910-N918) Superficial injury
+N910  Superficial injury of face, neck and scalp
+N910.0      Without mention of infection
+N910.1      Infected
+N910.9      Late effect
+N911  Superficial injury of trunk
+N911.0      Without mention of infection
+N911.1      Infected
+N911.9      Late effect
+N912  Superficial injury of shoulder and upper arm
+N912.0      Without mention of infection
+N912.1      Infected
+N912.9      Late effect
+N913  Superficial injury of elbow, forearm and wrist
+N913.0      Without mention of infection
+N913.1      Infected
+N913.9      Late effect
+N914  Superficial injury of hand(s), except finger(s) alone
+N914.0      Without mention of infection
+N914.1      Infected
+N914.9      Late effect
+N915  Superficial injury of finger(s)
+N915.0      Without mention of infection
+N915.1      Infected
+N915.9      Late effect
+N916  Superficial injury of hip, thigh, leg and ankle
+N916.0      Without mention of infection
+N916.1      Infected
+N916.9      Late effect
+N917  Superficial injury of foot and toe(s)
+N917.0      Without mention of infection
+N917.1      Infected
+N917.9      Late effect
+N918  Superficial injury of other, multiple and unspecified sites
+N918.0      Without mention of infection
+N918.1      Infected
+N918.9      Late effect
+(N920-N929) Contusion and crushing with intact skin surface
+N920  Contusion of face, scalp and neck except eye(s)
+N920.0      Current injury
+N920.9      Late effect
+N921  Contusion of eye and orbit
+N921.0      Current injury
+N921.9      Late effect
+N922  Contusion of trunk
+N922.0      Current in jury
+N922.9      Late effect
+N923  Contusion of shoulder and upper arm
+N923.0      Current injury
+N923.9      Late effect
+N924  Contusion of elbow, forearm and wrist
+N924.0      Current injury
+N924.9      Late effect
+N925  Contusion of hand(s), except finger(s) alone
+N925.0      Current injury
+N925.9      Late effect
+N926  Contusion of finger(s)
+N926.0      Current injury
+N926.9      Late effect
+N927  Contusion of hip, thigh, leg and ankle
+N927.0      Current injury
+N927.9      Late effect
+N928  Contusion of foot and toe(s)
+N928.0      Current injury
+N928.9      Late effect
+N929  Contusion of other, multiple and unspecified sites
+N929.0      Current injury
+N929.9      Late effect
+(N930-N939) Effects of foreign body entering through orifice
+N930  Foreign body in eye and adnexa
+N931  Foreign body in ear
+N932  Foreign body in nose
+N933  Foreign body in pharynx and larynx
+N934  Foreign body in bronchus and lung
+N935  Foreign body in mouth, oesophagus and stomach
+N936  Foreign body in intestine and colon
+N937  Foreign body in anus and rectum
+N938  Foreign body in digestive system, unspecified
+N939  Foreign body in genito-urinary tract
+(N940-N949) Burns
+N940  Burn confined to eye
+N940.0      Unspecified degree, without mention of complication
+N940.1      First degree, without mention of complication
+N940.2      Second degree, without mention of complication
+N940.3      Third degree, without mention of complication
+N940.8      Complicated
+N940.9      Late effect
+N941  Burn confined to face, head and neck
+N941.0      Unspecified degree, without mention of complication
+N941.1      First degree, without mention of complication
+N941.2      Second degree, without mention of complication
+N941.3      Third degree, without mention of complication
+N941.8      Complicated
+N941.9      Late effect
+N942  Burn confined to trunk
+N942.0      Unspecified degree, without mention of complication
+N942.1      First degree, without mention of complication
+N942.2      Second degree, without mention of complication
+N942.3      Third degree, without mention of complication
+N942.8      Complicated
+N942.9      Late effect
+N943  Burn confined to upper limb, except wrist and hand
+N943.0      Unspecified degree. without mention of complication
+N943.1      First degree, without mention of complication
+N943.2      Second degree, without mention of complication
+N943.3      Third degree, without mention of complication
+N943.8      Complicated
+N943.9      Late effect
+N944  Burn confined to wrist(s) and hand(s)
+N944.0      Unspecified degree, without mention of complication
+N944.1      First degree, without mention of complication
+N944.2      Second degree, without mention of complication
+N944.3      Third degree, without mention of complication
+N944.8      Complicated
+N944.9      Late effect
+N945  Burn confined to lower limb(s)
+N945.0      Unspecified degree, without mention of complication
+N945.1      First degree, without mention of complication
+N945.2      Second degree, without mention of complication
+N945.3      Third degree, without mention of complication
+N945.8      Complicated
+N945.9      Late effect
+N946  Burn involving face, head and neck, with limb(s)
+N946.0      Unspecified degree, without mention of complication
+N946.1      First degree, without mention of complication
+N946.2      Second degree. without mention of complication
+N946.3      Third degree, without mention of complication
+N946.8      Complicated
+N946.9      Late effect
+N947  Burn involving trunk with limb(s)
+N947.0      Unspecified degree, without mention of complication
+N947.1      First degree, without mention of complication
+N947.2      Second degree, without mention of complication
+N947.3      Third degree, without mention of complication
+N947.8      Complicated
+N947.9      Late effect
+N948  Burn involving face, head and neck, with trunk and limb(s)
+N948.0      Unspecified degree, without mention of complication
+N948.1      First degree, without mention of complication
+N948.2      Second degree, without mention of complication
+N948.3      Third degree, without mention of complication
+N948.8      Complicated
+N948.9      Late effect
+N949  Burn involving other and unspecified parts
+N949.0      Unspecified degree, without mention of complication
+N949.1      First degree, without mention of complication
+N949.2      Second degree, without mention of complication
+N949.3      Third degree, without mention of complication
+N949.8      Complicated
+N949.9      Late effect
+(N950-N959) Injury to nerves and spinal cord
+N950  Injury to optic nerve(s)
+N950.0      Without mention of open wound
+N950.1      With open wound
+N950.9      Late effect
+N951  Injury to other cranial nerve(s)
+N951.0      Without mention of open wound
+N951.1      With open wound
+N951.9      Late effect
+N952  Injury to nerve(s) in upper arm
+N952.0      Without mention of open wound
+N952.1      With open wound
+N952.9      Late effect
+N953  Injury to nerve(s) in forearm
+N953.0      Without mention of open wound
+N953.1      With open wound
+N953.9      Late effect
+N954  Injury to nerve(s) in wrist and hand
+N954.0      Without mention of open wound
+N954.1      With open wound
+N954.9      Late effect
+N955  Injury to nerve(s) in thigh
+N955.0      Without mention of open wound
+N955.1      With open wound
+N955.9      Late effect
+N956  Injury to nerve(s) in lower leg
+N956.0      Without mention of open wound
+N956.1      With open wound
+N956.9      Late effect
+N957  Injury to nerve(s) in ankle and foot
+N957.0      Without mention of open wound
+N957.1      With open wound
+N957.9      Late effect
+N958  Spinal cord lesion without evidence of spinal bone injury
+N958.0      Cervical, without mention of open wound
+N958.1      Cervical. with open wound
+N958.2      Dorsal (thoracic) and lumbar, without mention of open wound
+N958.3      Dorsal (thoracic) and lumbar, with open wound
+N958.4      Sacral, without mention of open wound
+N958.5      Sacral, with open wound
+N958.6      Unspecified, without mention of open wound
+N958.7      Unspecified, with open wound
+N958.9      Late effect, any part
+N959  Other nerve injury including nerve injury in several parts
+N959.0      Cervical sympathetic. without mention of open wound
+N959.1      Cervical sympathetic, with open wound
+N959.2      Other and in several parts, without mention of open wound
+N959.3      Other and in several parts, with open wound
+N959.9      Late effect, either
+(N960-N979) Adverse effect of medicinal agents
+N960  Adverse effect of antibiotics
+N960.0      Penicillin, any
+N960.1      Antifungal antibiotics
+N960.2      Chloramphenicol
+N960.3      Erythromycins
+N960.4      Streptomycins
+N960.5      Tetracyclines
+N960.9      Other antibiotics
+N961  Adverse effect of other anti-infectives
+N961.0      Sulphonamides
+N961.1      Arsenic anti-infectives
+N961.2      Silver and its compounds
+N961.3      Quinoline and hydroxyquinoline derivatives
+N961.9      Other anti-infectives
+N962  Adverse effect of hormones and synthetic substitutes
+N962.0      Adrenals
+N962.1      Androgens and anabolic congeners
+N962.2      Oestrogens
+N962.3      Insulins and antidiabetic agents
+N962.4      Anterior pituitary extracts
+N962.5      Posterior pituitary extracts
+N962.6      Progestogens
+N962.7      Thyroid and thyroid derivatives
+N962.8      Antithyroid agents
+N962.9      Other hormones and synthetic substitutes
+N963  Adverse effect of primarily systemic agents
+N963.0      Antihistaminic and antiemetic drugs
+N963.1      Antineoplastic agents
+N963.2      Acidifying agents
+N963.3      Alkalinising agents
+N963.4      Other electrolytic, caloric and water balance agents
+N963.5      Enzymes
+N963.6      Vitamins
+N963.9      Systemic agents, not elsewhere classified
+N964  Adverse effect of agents primarily affecting blood constituents
+N964.0      Iron and its compounds
+N964.1      Liver and liver extracts
+N964.2      Anticoagulants
+N964.3      Vitamin K products
+N964.4      Other coagulants
+N964.9      Other agents primarily affecting blood constituents
+N965  Adverse effect of analgesics and antipyretics
+N965.0      Opiates and synthetic analogues
+N965.1      Salicylates and congeners
+N965.2      Cinchophen and congeners
+N965.3      Colchicine
+N965.4      Aniline derivatives
+N965.5      Other coal tar derivatives
+N965.9      Other analgesics and antipyretics
+N966  Adverse effect of anticonvulsants
+N966.0      Dione derivatives
+N966.1      Hydantoin derivatives
+N966.9      Other anticonvulsants
+N967  Adverse effect of other sedatives and hypnotics
+N967.0      Barbiturates
+N967.1      Chloral hydrate
+N967.2      Paraldehyde
+N967.3      Bromides
+N967.9      Other sedatives and hypnotics
+N968  Adverse effect of other central nervous system depressants
+N968.0      Central nervous system muscle relaxants
+N968.1      Anaesthetic gases
+N968.9      Other
+N969  Adverse effect of local anaesthetics
+N970  Adverse effect of psychotherapeutics
+N970.0      Antidepressants
+N970.1      Tranquillisers
+N970.9      Other psychotherapeutic agents
+N971  Adverse effect of other central nervous system stimulants
+N972  Adverse effect of agents primarily affecting the autonomic nervous system
+N972.0      Parasympathomimetics (cholinergics)
+N972.1      Parasympatholytics (anticholinergics)
+N972.2      Sympathomimetics (adrenergics)
+N972.3      Autonomic nervous system relaxants
+N972.9      Other
+N973  Adverse effect of agents primarily affecting cardiovascular system
+N973.0      Cardiac depressants
+N973.1      Cardiac tonics
+N973.2      Cholesterol lowering agents
+N973.3      Ganglionic blocking agents
+N973.4      Vasodilators
+N973.5      Other hypotensive agents
+N973.6      Sclerosing agents
+N973.9      Other
+N974  Adverse effect of drugs primarily affecting gastro-intestinal system
+N974.0      Antacids and antidiarrhoea agents
+N974.1      Intestinal irritant cathartics
+N974.2      Emollient cathartics
+N974.3      Saline cathartics
+N974.4      Faecal softeners
+N974.5      Other cathartics
+N974.6      Emetics
+N974.9      Other
+N975  Adverse effect of diuretics
+N975.0      Mercurial diuretics
+N975.1      Xanthine derivatives
+N975.2      Carbonic acid anhydrase inhibitors
+N975.3      Saluretics
+N975.9      Other diuretic agents
+N976  Adverse effect of agents acting directly upon musculoskeletal system
+N976.0      Oxytocics
+N976.1      Spasmolytics
+N976.2      Gold and its compounds
+N976.9      Other
+N977  Adverse effect of other and unspecified drugs
+N977.0      External medicaments, not elsewhere classified
+N977.1      Pharmaceutical dyes, not elsewhere classified
+N977.2      Diagnostic agents
+N977.8      Other specified drugs, not elsewhere classified
+N977.9      Drugs, unspecified
+N978  Adverse effect of two or more medicinal agents in specified combinations
+N978.0      Opium derivatives with barbiturates or tranquillisers
+N978.1      Salicylates with decongestants, antihistamines or antiemetics
+N978.2      Barbiturates with salicylates or other nonaddicting analgesics
+N978.3      Nonbarbiturate sedatives with salicylates or other nonaddicting analgesics
+N978.4      Psychopharmacological agents with barbiturates
+N979  Alcohol in combination with specified medicinal agents
+N979.0      With opium derivatives
+N979.1      With barbiturates
+N979.2      With nonbarbiturate sedatives
+N979.3      With antihistamines
+N979.4      With psychopharmacological agents
+(N980-N989) Toxic effect of substances chiefly nonmedicinal as to source
+N980  Toxic effect of alcohol
+N980.0      Ethyl alcohol
+N980.1      Methyl alcohol
+N980.2      Isopropyl alcohol
+N980.9      Other
+N981  Toxic effect of petroleum products
+N981.0      Kerosene
+N981.1      Gasoline
+N981.2      Petroleum naphtha
+N981.9      Other
+N982  Toxic effect of industrial solvents
+N982.0      Benzene and homologues
+N982.1      Carbon tetrachloride
+N982.2      Carbon disulphide
+N982.9      Other
+N983  Toxic effect of corrosive aromatics, acids and caustic alkalis
+N983.0      Corrosive aromatics
+N983.1      Acids
+N983.2      Caustic alkalis
+N983.9      Caustic NOS
+N984  Toxic effect of lead and its compounds (including fumes)
+N985  Toxic effect of other metals, chiefly nonmedicinal as to source
+N985.0      Mercury and its compounds
+N985.1      Arsenic and its compounds
+N985.2      Manganese and its compounds
+N985.3      Beryllium and its compounds
+N985.9      Other
+N986  Toxic effect of carbon monoxide
+N987  Toxic effect of other gases, fumes or vapours
+N987.0      Liquefied petroleum gases
+N987.1      Other hydrocarbon gas
+N987.2      Nitrogen dioxide
+N987.3      Sulphur dioxide
+N987.4      Freons
+N987.9      Other
+N988  Toxic effect of noxious foodstuffs
+N988.0      Shellfish
+N988.1      Mushrooms
+N988.2      Other plants used as food
+N988.9      Other
+N989  Toxic effect of other substances chiefly nonmedicinal as to source
+N989.0      Cyanide (including gas)
+N989.1      Strychnine
+N989.2      Chlorinated pesticides
+N989.3      Other pesticides
+N989.4      Venom
+N989.5      Soaps and detergents
+N989.9      Other
+(N990-N999) Other adverse effects
+N990  Effects of radiation
+N990.0      Radioactivity, neither diagnostic nor therapeutic
+N990.1      Diagnostic X-ray
+N990.2      Diagnostic radioactive isotope or tracer substance
+N990.3      Other and unspecified diagnostic radiation
+N990.4      External radiotherapy
+N990.5      Internal radiotherapy
+N990.6      Other and unspecified radiotherapy
+N990.9      Other and unspecified radiation
+N991  Effects of reduced temperature and excessive dampness
+N991.0      Frostbite of face
+N991.1      Frostbite of hand
+N991.2      Frostbite of foot
+N991.3      Frostbite of other and unspecified sites
+N991.4      Immersion foot
+N991.9      Other
+N992  Effects of heat
+N992.0      Heat stroke
+N992.1      Heat syncope
+N992.2      Heat cramps
+N992.3      Heat exhaustion, anhydrotic
+N992.4      Heat exhaustion due to salt depletion
+N992.5      Heat exhaustion, unspecified
+N992.6      Heat fatigue, transient
+N992.7      Heat oedema
+N992.9      Other heat effects
+N993  Effects of air pressure
+N993.0      Barotrauma, otitic
+N993.1      Barotrauma, sinus
+N993.2      Other and unspecified effects of high altitude
+N993.3      Caisson disease
+N994  Effects of other external causes
+N994.0      Effects of lightning
+N994.1      Drowning and nonfatal submersion
+N994.2      Effects of hunger
+N994.3      Effects of thirst
+N994.4      Other effects of exposure
+N994.5      Effects of excessive exertion
+N994.6      Motion sickness
+N994.7      Asphyxiation and strangulation
+N994.8      Electrocution and nonfatal effects of electric current
+N994.9      Other
+N995  Certain early complications of trauma
+N995.0      Air embolism
+N995.1      Fat embolism
+N995.2      Secondary and recurrent haemorrhage
+N995.3      Traumatic aneurysm and arterial injury
+N995.4      Nerve injury following bone injury
+N995.5      'Shock'
+N995.6      Traumatic anuria
+N995.7      Volkmann's ischaemic contracture
+N995.9      Other early complications of trauma
+N996  Injury, other and unspecified
+N996.0      Face and neck
+N996.1      Trunk
+N996.2      Shoulder and upper arm
+N996.3      Elbow, forearm and wrist
+N996.4      Hand(s), except finger(s)
+N996.5      Finger(s)
+N996.6      Hip and thigh
+N996.7      Knee, leg, ankle and foot
+N996.8      Other specified sites, including multiple
+N996.9      Unspecified site
+N997  Complications peculiar to certain surgical procedures
+N997.0      Reaction to lumbar or spinal puncture
+N997.1      Postcardiotomy syndrome
+N997.2      Late amputation stump complication
+N997.3      Postmastectomy Iymphoedema syndrome
+N997.4      Complications of catheter device
+N997.5      Complications of mechanical nature from internal prosthetic device
+N997.6      Other complications from shunt or internal prosthetic device
+N997.7      Complications of transplanted organ
+N997.8      Complications of re-attached extremity
+N997.9      Postgastrectomy dumping syndrome
+N998  Other complications of surgical procedures
+N998.0      Postoperative shock
+N998.1      Postoperative haemorrhage or haematoma
+N998.2      Accidental puncture or laceration
+N998.3      Disruption of operation wound
+N998.4      Foreign body inadvertently left in operation wound
+N998.5      Postoperative wound infection
+N998.6      Persistent postoperative fistula
+N998.7      Colostomy and enterostomy malfunction
+N998.9      Other complications of surgical procedures
+N999  Other complications of medical care
+N999.0      Generalised vaccinia
+N999.1      Postimmunisation encephalitis
+N999.2      Serum hepatitis
+N999.3      Other infection
+N999.4      Anaphylactic shock
+N999.5      Other serum reaction
+N999.6      ABO incompatibility reaction
+N999.7      Rh incompatibility reaction
+N999.8      Other transfusion reaction
+N999.9      Other
+(Y00-Y09) Examination and investigation of specific systems without reported diagnosis
+Y00   Investigation of endocrine system and metabolism
+Y01   Investigation of blood and blood-forming organs
+Y02   Investigation of nervous system and sense organs
+Y02.0       Investigation of nervous system
+Y02.9       Investigation of sense organs
+Y03   Investigation of circulatory system
+Y04   Investigation of respiratory system
+Y05   Investigation of digestive system
+Y06   Investigation of genito-urinary system
+Y06.0       Investigation of genital system
+Y06.9       Investigation of urinary system
+Y07   Investigation of skin
+Y08   Investigation of musculoskeletal system
+Y09   Other specific examinations and investigations
+(Y10-Y19) Other examination without reported diagnosis
+Y10   General physical examination
+Y11   General psychiatric examination
+Y11.0       Social maladjustment without manifest psychiatric disorder
+Y11.9       Other
+Y12   Skin sensitivity tests
+Y19   Other
+(Y20-Y29) Medical and surgical procedures without reported diagnosis
+Y20   Attention to artificial openings and catheters
+Y21   Paracentesis
+Y29   Other
+(Y30-Y39) Medical and surgical aftercare without current complaint or sickness
+Y30   Fitting of prosthetic devices
+Y31   Removal of external splinting devices
+Y32   Removal of internal splinting devices
+Y33   Plastic surgery following injury or operation
+Y34   Follow-up examination after disease, injury or operation
+Y34.0       Of inactive pulmonary tuberculosis, after treatment
+Y34.1       Of inactive pulmonary tuberculosis, not known to have been active
+Y34.2       Of other cases of inactive tuberculosis
+Y34.3       Of cases of neoplasm, after treatment
+Y34.9       Of other disease, injury or operation
+Y39   Other
+(Y40-Y49) Persons undergoing preventive measures
+Y40   Contacts with infective and parasitic diseases
+Y40.0       Tuberculosis
+Y40.1       Poliomyelitis
+Y40.2       Rabies
+Y40.3       Smallpox
+Y40.9       Other
+Y41   Carriers or suspected carriers of infective organisms
+Y41.0       Diphtheria
+Y41.1       Typhoid
+Y41.2       Venereal disease
+Y41.3       Amoebic dysentery
+Y41.9       Other
+Y42   Prophylactic inoculation and vaccination
+Y43   Prophylactic sterilisation
+Y44   Other prophylactic procedures
+Y49   Other
+(Y50-Y59) Elective surgery
+Y50   Plastic surgery for cosmetic reasons
+Y51   Ritual circumcision
+Y59   Other
+(Y60-Y69) Maternal and well-baby care
+Y60   Prenatal care and observation
+Y61   Postpartum observation, without abnormal symptoms
+Y62   Well-baby and child care
+Y69   Other
+(Y70-Y79) Other persons without current complaint or sickness
+Y70   Healthy donors
+Y70.0       Blood
+Y70.1       Skin
+Y70.2       Bone
+Y70.3       Kidney
+Y70.9       Other
+Y71   Healthy person accompanying sick person
+Y79   Other
+(Y80-Y89) Healthy liveborn infants according to type of birth
+Y80   Single born
+Y80.0       Born in hospital
+Y80.1       Born before admission to hospital
+Y80.2       Born outside hospital and not hospitalised
+Y81   Twin, mate liveborn
+Y81.0       Born in hospital
+Y81.1       Born before admission to hospital
+Y81.2       Born outside hospital and not hospitalised
+Y82   Twin, mate stillborn
+Y82.0       Born in hospital
+Y82.1       Born before admission to hospital
+Y82.2       Born outside hospital and not hospitalised
+Y83   Twin, unspecified
+Y83.0       Born in hospital
+Y83.1       Born before admission to hospital
+Y83.2       Born outside hospital and not hospitalised
+Y84   Other multiple, mates all liveborn
+Y84.0       Born in hospital
+Y84.1       Born before admission to hospital
+Y84.2       Born outside hospital and not hospitalised
+Y85   Other multiple, mates all stillborn
+Y85.0       Born in hospital
+Y85.1       Born before admission to hospital
+Y85.2       Born outside hospital and not hospitalised
+Y86   Other multiple, mates live- and stillborn
+Y86.0       Born in hospital
+Y86.1       Born before admission to hospital
+Y86.2       Born outside hospital and not hospitalised
+Y87   Other multiple, unspecified
+Y87.0       Born in hospital
+Y87.1       Born before admission to hospital
+Y87.2       Born outside hospital and not hospitalised
+Y89   Unspecified
+Y89.0       Born in hospital
+Y89.1       Born before admission to hospital
+Y89.2       Born outside hospital and not hospitalised

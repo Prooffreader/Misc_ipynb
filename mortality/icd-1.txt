@@ -1,0 +1,192 @@
+1     Small-pox: Vaccinated
+2     Small-pox: Not vaccinated
+3     Small-pox: Doubtful
+4     Cow-pox and other effects of vaccination
+5     Chicken-pox
+6     Measles (Morbilli)
+7     German measles
+8     Scarlet fever
+9     Typhus
+10    Plague
+11    Relapsing fever
+12    Influenza
+13    Whooping cough
+14    Mumps
+15    Diphtheria
+16    Cerebro-spinal fever
+17    Pyrexia (origin uncertain)
+18    Enteric fever
+19    Asiatic cholera
+20    Diarrhoea due to food
+21    Infective enteritis, Epidemic diarrhoea
+22    Diarrhoea (not otherwise defined)
+23    Dysentery
+24    Tetanus
+25    Malaria
+26    Rabies, Hydrophobia
+27    Glanders
+28    Anthrax (Splenic fever)
+29    Syphilis
+30    Gonorrhoea
+31    Phlegmasia alba dolens
+32    Puerperal septicaemia, Puerperal septic intoxication
+33    Puerperal pyaemia
+34    Puerperal fever (not otherwise defined)
+35    Infective endocarditis
+36    Pneumonia: Lobar
+37    Pneumonia: Epidemic
+38    Pneumonia: Broncho
+39    Pneumonia: Not defined
+40    Erysipelas
+41    Septicaemia, Septic intoxication (not puerperal)
+42    Pyaemia (not puerperal)
+43    Phegmon, Carbuncle (not anthrax)
+44    Phagedaena
+45    Other infective processes
+46    Pulmonary tuberculosis (tuberculous phthisis)
+47    Phthisis (not otherwise defined)
+48    Tuberculous meningitis
+49    Tuberculous peritonitis
+50    Tabes mesenterica
+51    Lupus
+52    Tubercle of other organs
+53    General tuberculosis
+54    Scrofula
+55    Parasitic diseases
+56    Starvation
+57    Scurvy
+58    Alcoholism, Delirium tremens
+59    Opium, morphia habit
+60    Industrial poisoning by lead
+61    Industrial poisoning by phosphorus
+62    Industrial poisoning by arsenic and other metals
+63    Rheumatic fever, Acute rheumatism
+64    Rheumatism of heart
+65    Chronic rheumatism
+66    Rheumatoid arthritis, Rheumatic gout
+67    Gout
+68    Carcinoma
+69    Sarcoma
+70    Cancer, Malignant disease (not otherwise defined)
+71    Rickets
+72    Purpura
+73    Haemophilia, Haemorrhagic diathesis
+74    Anaemia, Leucocythaemia
+75    Diabetes mellitus
+76    Premature birth
+77    Congenital hydrocephalus
+78    Other congenital defects
+79    Injury at birth
+80    Atelectasis
+81    Want of breast milk
+82    Teething
+83    Meningitis, Inflammation of brain
+84    Softening of brain
+85    General paralysis of insane
+86    Insanity (not puerperal)
+87    Chorea
+88    Epilepsy
+89    Convulsions
+90    Laryngismus stridulus
+91    Locomotor ataxy
+92    Paraplegia, Diseases of cord
+93    Neuritis, peripheral, Polyneuritis
+94    Brain tumour (not specific)
+95    Other diseases of nervous system
+96    Otitis, Mastoid disease
+97    Epistaxis, Diseases of nose
+98    Ophthalmia, Diseases of eye
+99    Valvular disease, Endocarditis (not infective)
+100   Pericarditis
+101   Angina pectoris
+102   Fatty degeneration of heart
+103   Hypertrophy of heart
+104   Dilatation of heart
+105   Syncope, Heart disease (not specified)
+106   Cerebral haemorrhage, Cerebral embolism
+107   Apoplexy, Hemiplegia
+108   Aneurysm
+109   Senile gangrene
+110   Embolism, Thrombosis (not cerebral)
+111   Phlebitis
+112   Varicose veins
+113   Other diseases of blood vessels
+114   Laryngitis
+115   Membranous laryngitis (not diphtheritic)
+116   Croup (not spasmodic nor membranous)
+117   Other diseases of larynx and trachea
+118   Bronchitis
+119   Emphysema, Asthma
+120   Pleurisy
+121   Fibroid disease of lung
+122   Other diseases of respiratory system
+123   Tonsillitis, Quinsy
+124   Diseases of mouth, pharynx, oesophagus (not specific)
+125   Gastric ulcer
+126   Gastritis, Gastric catarrh
+127   Other diseases of stomach (not malignant)
+128   Ulceration of intestines
+129   Enteritis (not epidemic)
+130   Gastro-enteritis
+131   Appendicitis, Perityphlitis
+132   Hernia
+133   Intestinal obstruction
+134   Other diseases of intestines
+135   Peritonitis (not puerperal)
+136   Cirrhosis of liver
+137   Other diseases of liver and gall bladder
+138   Other diseases of digestive system
+139   Diseases of spleen
+140   Other diseases of lymphatic system
+141   Diseases of thyroid body
+142   Diseases of supra renal capsules
+143   Acute nephritis, Uraemia
+144   Chronic Bright's disease, Albuminuria
+145   Calculus (not biliary)
+146   Diseases of bladder and of prostate
+147   Other diseases of urinary system
+148   Ovarian tumour (not malignant)
+149   Other diseases of ovary
+150   Uterine tumour (not malignant)
+151   Other diseases of uterus and vagina
+152   Disorders of menstruation
+153   Other diseases of generative and mammary organs
+154   Abortion, Miscarriage
+155   Puerperal mania
+156   Puerperal convulsions
+157   Placenta praevia, Flooding
+158   Other accidents of pregnancy and childbirth
+159   Caries, Necrosis
+160   Arthritis, Periostitis
+161   Other diseases of locomotor system
+162   Ulcer, Bed-sore
+163   Eczema
+164   Pemphigus
+165   Other diseases of the skin
+166   Atrophy, Debility
+167   Old age
+168   Dropsy, Ascites, Anasarca
+169   Tumour
+170   Abscess
+171   Haemorrhage
+172   Sudden death (cause unascertained)
+173   Other ill-defined causes
+174   Causes not specified
+174.1 Other specified diseases
+175   Violent deaths: In mines and quarries
+176   Violent deaths: Vehicles and horses
+177   Violent deaths: Ships, boats, and docks (not drowning)
+178   Violent deaths: Building operations
+179   Violent deaths: Machinery
+180   Violent deaths: Weapons and instruments
+181   Violent deaths: Burns and scalds
+182   Violent deaths: Poisons, poisonous vapours
+183   Violent deaths: Drowning
+184   Violent deaths: Suffocation
+185   Violent deaths: Falls
+186   Violent deaths: Weather agencies
+187   Violent deaths: Otherwise or not stated
+188   Violent deaths: Battle
+189   Violent deaths: Homicide
+190   Violent deaths: Suicide
+191   Violent deaths: Execution
