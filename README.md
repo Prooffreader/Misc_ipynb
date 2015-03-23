@@ -7,10 +7,13 @@ Scripts to make maps of Canadian Centre for Climate Modeling and Analysis climat
 [CCCma_Basemap.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_Basemap.ipynb) Script to visualize one such map
 [CCCma_SNC_to_2099.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/CCCma/CCCma_SNC_to_2099.ipynb) Script to extract a feature on the same day per year and make an animated GIF
 
-[earthquakes-jp.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/Japan_Earthquakes/earthquakes-jp.ipynb) and [earthquakes-rest-api.py](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/earthquakes-jp.ipynb): Scripts to build an animated GIF of earthquakes in China and Japan. See the final result at http://www.prooffreader.com/2014/06/Japan_Earthquakes/animated-map-of-earthquakes-near-china.html
+[earthquakes-jp.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/Japan_Earthquakes/earthquakes-jp.ipynb) and [earthquakes-rest-api.py](http://www.github.com/Prooffreader/Misc_ipynb/blob/master/earthquakes-rest-api.py): Scripts to build an animated GIF of earthquakes in China and Japan. See the final result at http://www.prooffreader.com/2014/06/Japan_Earthquakes/animated-map-of-earthquakes-near-china.html
 
 Scripts to analyze Billboard magazine pop charts data:
 [billboard_top_words.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/billboard_charts/billboard_top_words.ipynb) : script to find the most decade-specific words in song titles since 1890.
+
+Scripts to analyze word use in Star Trek: The Original series:
+[munge_tos_transcripts.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/star_trek_tos/munge_tos_transcripts.ipynb): script to download fan scripts, create a transcript database and a bokeh plot of dialogue per character
 
 Scripts to analyze CDC's mortality files:
 [unusual_mortality.ipynb](http://nbviewer.ipython.org/github/Prooffreader/Misc_ipynb/blob/master/mortality/unusual_mortality.ipynb) : script to show ten unusual causes of death in the CDC mortality database.

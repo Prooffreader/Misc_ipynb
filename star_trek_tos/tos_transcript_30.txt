@@ -1,0 +1,303 @@
+character	line
+UHURA	Still no response, sir.
+KIRK	No, keep it open. I don't like this. Nothing since the first check in. Scott and Sulu should've contacted us again a half an hour ago.
+SPOCK	They may have nothing to report. Our sensors indicate no life forms except our landing party.
+KIRK	Both those men are well aware of landing party procedure. They should've checked in with us by now.
+UHURA	Contact established, Captain.
+JACKSON	Jackson to Enterprise.
+KIRK	Enterprise. Kirk here.
+JACKSON	One to beam up, Enterprise.
+KIRK	One? Jackson, where are Scott and Sulu?
+JACKSON	I'm ready to beam up, sir.
+KIRK	Jackson!
+UHURA	I'm sorry. I can't clear it, Captain.
+KIRK	Notify Transporter room to prepare to beam up one member of the landing party. Then have Doctor McCoy report to me in the Transporter room on the double.
+UHURA	Yes, sir.
+KYLE	Ready, sir.
+KIRK	Energise.
+MCCOY	What's on, Jim?
+KIRK	Trouble. Jackson, where are the others?
+MCCOY	The man is dead.
+KOROB	Captain Kirk, can you hear me? There is a curse on your ship. Leave this place or you will all die.
+KIRK	Captain's Log, stardate 3018.2. Crewman Jackson is dead and there are no apparent physical causes. Mister Scott and Mister Sulu are still out of touch on the planet below. Leaving Assistant Chief Engineer DeSalle in command of the Enterprise, I'm beaming down to the planet's surface to find my two missing crewmen and discover what killed Jackson.
+KIRK	Odd. Our probe data didn't indicate fog.
+SPOCK	No cloud formations, no bodies of water, no changes in surface temperature. Under these conditions, fog is highly unlikely, Captain. According to our transporter co-ordinates this is the exact location from which Jackson was beamed up to the ship.
+KIRK	Readings, Mister Spock.
+SPOCK	No indications of. A moment, Captain. Picking up life form readings. Twenty four degrees mark seven. Range one thirty seven point one six metres. Multiple readings, Captain.
+MCCOY	Scott and Sulu?
+KIRK	Kirk to Enterprise.
+UHURA	Enterprise. Lieutenant Uhura here.
+KIRK	What are the ship's sensors reading now, Lieutenant?
+DESALLE	Report, Mister.
+CHEKOV	I am only picking up physical impulses from the three of them. As far as instruments can make out, there is nothing else down there that's alive.
+DESALLE	Relay, Lieutenant.
+UHURA	Captain, we are only registering on you. Captain? Captain Kirk?
+KIRK	Lieutenant, can you hear me?
+MCCOY	Whatever this stuff is, it's getting thicker. Suppose that has anything to do with the interference?
+KIRK	I don't know. There has to be some explanation for the fact that the ship's sensors can't register anything but us, while we're picking up readings of multiple life forms. Are they still there, Spock?
+SPOCK	No change, Captain.
+KIRK	Stand-by alert.
+MCCOY	Listen. Now, what do you think that
+KIRK	Quiet.
+WITCH	Captain Kirk!
+WITCH	Captain Kirk!
+WITCH	Captain Kirk!
+KIRK	Who are you?
+WITCH	Go back!
+WITCH	Go back!
+WITCH	Go back! Remember the curse!
+WITCH	Wind shall rise.
+WITCH	And fog descend.
+WITCH	So leave here, all, or meet your end.
+KIRK	Spock. Comment?
+SPOCK	Very bad poetry, Captain.
+KIRK	A more useful comment, Mister Spock.
+SPOCK	What we've just seen is not real.
+KIRK	That's useful.
+SPOCK	However, on azimuth twenty four, at just over one hundred metres, there are definitely life forms. Erratic, confused, but definitely registering.
+KIRK	That's where we're going.
+MCCOY	That was a pretty real illusion, Mister Spock.
+MCCOY	Jim.
+SPOCK	This is the source of the life form readings, Captain. They're inside, somewhere.
+KIRK	Kirk to Enterprise. Enterprise, come in.
+MCCOY	Is this how we lost contact with the first landing party?
+KIRK	What about it, Spock? Does this structure have anything to do with communicator interference?
+SPOCK	I would say not, Captain. There's no indication of anything that would cause such interference.
+KIRK	And it doesn't pick up on our ship's sensors.
+SPOCK	Nor do our sensors register the life forms inside.
+KIRK	Could it be exerting a force field of some kind that cuts into our sensor scan.
+MCCOY	Then it would affect Spock's tricorder too, wouldn't it?
+KIRK	Would it? I wonder.
+MCCOY	Three witches, what appears to be a castle and a black cat.
+KIRK	If we weren't missing two officers and a third one dead I'd say someone was playing an elaborate trick or treat on us.
+SPOCK	Trick or treat, Captain?
+KIRK	Yes, Mister Spock. You'd be a natural. I'll explain it to you one day. Shall we have a look around?
+SPOCK	That would seem to be in order.
+KIRK	Bones. Spock.
+CHEKOV	They're gone, Mister DeSalle. The captain and the others simply stopped registering.
+DESALLE	Check for malfunctions.
+CHEKOV	I did, sir, as soon as it happened.
+UHURA	Mister DeSalle, that's exactly what happened to Mister Scott and his party. They, they just disappeared.
+DESALLE	Nobody just disappears. They may have encountered a magnetic field or some other obstruction. Mister Chekov, recalibrate your sensors. If you need help
+CHEKOV	I can do it, sir. I'm not that green.
+DESALLE	Lieutenant Uhura, continue in your efforts to break through that static interference.
+UHURA	Aye, aye, sir.
+DESALLE	We know they're down there. I want them found.
+KIRK	Straight ahead, Mister Spock?
+SPOCK	The readings would so indicate.
+MCCOY	Dust, cobwebs. Halloween is right.
+KIRK	Spock. Are you all right?
+SPOCK	Yes. I am undamaged, Captain.
+KIRK	Bones? Doc?
+MCCOY	You were saying something about trick or treat.
+KIRK	Dungeons, curses, skeletons and iron maidens. They're all Earth manifestations. Why?
+SPOCK	I do not know, Captain, but these things do exist. They are real.
+MCCOY	Could this be an Earth parallel development of some sort?
+KIRK	None of this parallels any human development. It's more like a human nightmare.
+SPOCK	As if someone knew what it was that terrifies man most on an instinctive level.
+KIRK	Ghost stories, ogres, demons. The whole
+KIRK	Scotty, Sulu. Scotty. Put down the phaser. Scotty!
+MCCOY	They appear to be drugged, Jim. Look at their eyes. Hardly blink at all.
+SPOCK	Neither did Jackson just before he collapsed.
+KIRK	These two are alive. Scotty, do you hear me? Sulu, do you know who I am? What's happened to you?
+MCCOY	They're going to release us.
+KOROB	Stop!
+KIRK	Whoever you are, you've proven your skill at creating illusion. Now I want to know why and what you've done to my men.
+KOROB	Where did your race get this ridiculous predilection for resistance? You examine any object, you question everything. Is it not enough to accept what is?
+KIRK	Not when one of my men is dead because of it and two others turned into mindless
+KOROB	NO, not mindless. These two are merely controlled, Captain Kirk. Oh, yes, we know who you are. All of you. Don't we, my precious?
+KIRK	Who are you? Why did you bring us here?
+KOROB	My name is Korob. And as for bringing you here, it was you who quite contrarily insisted upon coming. You were warned to stay away.
+KIRK	Why? For what reason? Why all the mumbo-jumbo?
+KOROB	Mumbo-jumbo? Oh! Oh, no, I assure you it was not that, Captain.
+SPOCK	Mapping expeditions have charted this solar system before. There never have been any life forms on Pyris Seven.
+KOROB	It is of no importance that we are not native to this planet. Oh! I'm told that I've been an inattentive host, gentlemen. You will join me for something to refresh yourselves.
+MCCOY	That cat.
+KIRK	That cat.
+SPOCK	There are ancient Earth legends about wizards and their familiars.
+MCCOY	Familiars?
+SPOCK	Demons in animal forms sent by Satan to serve the wizard.
+KIRK	Superstition.
+SPOCK	I do not create the legend, Captain. I merely report it.
+KOROB	You are the different one, Mister Spock. You do not think like the others. There are no colours to your patterns of logic. There's only black and white. You see all this around you, yet you do not believe.
+MCCOY	He doesn't know about trick or treat.
+KOROB	I do not understand that reference, therefore it also is of no importance. Gentlemen, I can be most hospitable.
+SPOCK	Ingenious.
+KOROB	Do be seated.
+MCCOY	We're not hungry.
+KOROB	But I insist.
+KIRK	All right, Korob. What do you want from us?
+KOROB	For the moment, merely that you eat and enjoy. Oh, Doctor, do try the wine. You'll find it excellent.
+KIRK	You'll find us most unco-operative unless you start explaining yourself.
+KOROB	Hopefully I can change that attitude.
+MCCOY	These look real.
+KOROB	They are, I assure you. Diamonds, rubies, emeralds, sapphires. All the crystalline forms that you cherish above all things. A fortune of them for each of you if you leave here without further inquiry.
+KIRK	We could manufacture a ton of these on our ship. They mean nothing to us.
+KOROB	Valueless? I don't understand. I read
+KIRK	Whatever it is you read, you read it wrong. As for leaving, we'll leave when we're ready.
+KOROB	You are most unpredictable. Perhaps I have made a small mistake. Nevertheless, you have passed the tests.
+MCCOY	Tests?
+KOROB	Yes. Our analysis of you may have been in some small way in error, but you were warned to stay away and yet you came to save your comrades. That proves loyalty. Your bravery was tested and you did not frighten. And despite my failure with these bright baubles, I perceive that you cannot be bribed. In many ways you are quite admirable. Quite right. Go at once, yes.
+KOROB	Gentlemen, my colleague. Sylvia.
+SYLVIA	Doctor McCoy, Mister Spock and Captain Kirk. You wanted to know what we did to your men. Actually it's a simple matter for us to probe the minds of creatures like yourself.
+SPOCK	Mind probing? Hypnosis?
+SYLVIA	You like to think of yourselves as complex creatures, but you're flawed. One gains admittance to your minds through many levels. You have too many to keep track of yourselves. There are unguarded entrances to any human mind.
+SPOCK	Telepathy?
+SPOCK	Not entirely, no. Telepathy doesn't imply control and I assure you that I have full control over your friends.
+KIRK	Don't move! Cover them. Now, I want the rest of our weapons and our equipment. I want some answers.
+SYLVIA	Put that weapon down! Captain, it seems so foolish of you to insist on demonstrations. In the mythology of your race this is called sympathetic magic. Jackson, the crew member who returned to the ship. You wondered what killed him. I made an image of him. In the essence of my thoughts the image was Jackson. And when I killed the image and knew that it was dead, he died.
+KIRK	You can't think a man to death.
+SYLVIA	Your communicator. Now, signal your ship.
+KOROB	Don't. Sylvia, don't.
+KIRK	Kirk to Enterprise. Come in. Come in.
+KIRK	Enterprise. From Captain Kirk. Come in.
+UHURA	Captain, are you all right? Where are you? Are the others all right, sir?
+KIRK	Never mind about us. What's happening up there?
+DESALLE	The temperature, sir. It keeps rising. Reading, Mister.
+CHEKOV	It's up sixty degrees in the past thirty seconds. We're burning up, sir.
+KIRK	DeSalle, channel bypass power into your heat dissipation units.
+DESALLE	We've already done it, Captain. It had no effect. We're cooking up here.
+KIRK	All right. I'll handle it down here. Kirk out. You've won.
+SYLVIA	You can relax now, Captain. Your ship is safe.
+CHEKOV	Temperature is almost back to normal, dropping down fast.
+DESALLE	Lieutenant, try to raise the captain again.
+UHURA	Enterprise to Captain Kirk. Come in, please. Enterprise to Captain Kirk. Acknowledge. We've lost him again, Mister DeSalle.
+KOROB	Captain, you've seen something of our science. Now tell us about yours.
+KIRK	You seem to be singing a different tune. I'd rather know more about yours. You call it magic, you call it science. It seems unrelated to both of them.
+KOROB	What would you name it, Captain?
+KIRK	I wouldn't attempt to name it, but you seem to do with your mind what we do with tools. You alter matter, move it about by telekinesis.
+KOROB	Yes, we can change the molecular structure
+SYLVIA	Korob, you talk too much.
+MCCOY	You kept Scott and Sulu as catspaws to lure us down here. How'd you know we'd come?
+KOROB	Oh, we didn't have to know. They knew.
+SYLVIA	Enough of this! You will tell us what we want to know.
+KIRK	It's too late for threats. You let me contact the ship. How long do you think it will it be before a search party arrives?
+KOROB	Some time, Captain. Quite some time.
+KOROB	There will be no search party, Captain Kirk. An impenetrable force field around your ship, Captain. It will not hinder orbit, but your people are prisoners within it.
+CHEKOV	It's some kind of a force field, sir, but not like any other I've ever heard of before. It's not coming from anywhere. It's simply all around us.
+SYLVIA	I would advise you to co-operate, Captain. Forcible extraction of the information we wish from you is not complicated, but it is extremely painful and it has a certain draining effect.
+KIRK	We have nothing to discuss.
+KOROB	Take them to their cell.
+SYLVIA	Wait. The doctor will stay. Your turn will be next, Captain. It makes little difference. Take them out of here.
+DESALLE	Wave length analysis, Mister Chekov?
+CHEKOV	It will not analyse, sir.
+DESALLE	All right, but it's there and it's real. If it's real, it can be affected. Engineering, stand by to divert all power systems to the outer hull. Prepare impulse engines for generation of maximum heat directed as ordered. Maybe we can't break it, but I'll bet you credits to navy beans we can put a dent in it.
+KIRK	How long has it been?
+SPOCK	Twenty two minutes, seventeen seconds.
+KIRK	Thanks. I wonder what they're doing to Doc.
+SPOCK	I'm sure we'll find out shortly. Jim, all of these things that we've seen. To an Earthman like yourself, they must seem quite familiar.
+KIRK	Familiar. Startling. Not rational.
+SPOCK	Precisely. I refer you to the psychological theory of the racial subconscious. The universal myths, symbols.
+KIRK	Ghosts, witches.
+SPOCK	And dungeons and castles and black cats. They all belong to the twilight world of consciousness.
+KIRK	They tried to tap our conscious mind.
+SPOCK	And they missed. They reached basically only the subconscious. Korob seemed puzzled by your reaction to the environment he'd provided.
+KIRK	He expected me to react as though it were all normal. Well, he admitted that they weren't native to this planet.
+SPOCK	And not to have a knowledge of our scientific methods is most unlikely for any life form we've met in this galaxy.
+KIRK	They refer to us as creatures, as though we were some species that they were unfamiliar with. If we're creatures, I wonder what they're really like.
+SPOCK	Evidently something totally alien in all respects.
+KIRK	Agreed. Totally alien. And I don't like hostile strangers showing such an acute interest in our galaxy, our world, Spock. Not at all like friendly visitors. We're going to have to stop them, cold. But at the moment
+SPOCK	I, too, am at a loss at this time to suggest a course of action.
+KIRK	Oh, Bones. Doc.
+KOROB	You forget what we were sent here for.
+SYLVIA	I forget nothing. I'm not a puppet, Korob, like you.
+KOROB	You're a traitor.
+SYLVIA	You are a fool. We have nothing like this and I like it. To touch, to feel to understand the idea of luxury I like it. And I don't intend to leave it.
+KOROB	We have a duty to the old ones.
+SYLVIA	What do they know of sensations? This is a new world.
+KOROB	You're cruel. You torture our specimens.
+SYLVIA	And that, too, is a new sensation. I find it stimulating.
+KOROB	You're wrong! You're discarding everything we live by.
+SYLVIA	I live by my own decisions. You're a weak fool, Korob.
+KOROB	I have the power.
+SYLVIA	But you're afraid to use it. Don't threaten me. I can squash you and that would be an interesting sensation, yes. I find I like these new sensations. Don't try to push me.
+SYLVIA	Captain. It's time for our talk. Korob, leave us alone and take these men with you.
+KOROB	This is not ended, Sylvia.
+SYLVIA	But it may end soon, old man.
+KIRK	What now? You wave your magic wand and destroy my mind, too?
+SYLVIA	There's no real damage to the mind, Captain, simply a drain of knowledge and will.
+KIRK	You don't call that damage?
+SYLVIA	Why should I?
+KIRK	You'd know if you had compassion. A woman should have compassion, but I forget you're not a woman.
+SYLVIA	But you're mistaken, Captain. I am a woman now. I come from a world without sensation as you and I now know it. It excites me. I want more.
+KIRK	You seem to need us. Why?
+SYLVIA	Because you have knowledge which I lack. but were our abilities put together. Tell me about power, Captain. How does it feel?
+KIRK	What about Korob?
+SYLVIA	He is a fool. I'll do without him. But you? Why do I find you different? Why would it be so difficult to dispose of you?
+KIRK	Why don't you simply probe my mind and get what you want?
+SYLVIA	No, not that, not for you. What I want is a joining. My mind to yours willingly. Think of the secrets you could learn. Think of the power that would be yours. Anything you can imagine, I can give you.
+KIRK	You're very persuasive. What happens if I go along?
+SYLVIA	Then everything would be ours together. I've never conceived of the idea of togetherness before. It excites me. You excite me. Why?
+KIRK	For the same reasons you excite me. You're a very beautiful woman.
+SYLVIA	You find me beautiful? But I can be many women. You like what you see. or do you prefer me as I was?
+KIRK	You have a knack for giving me difficult choices. You have nothing like that where you come from?
+SYLVIA	Nothing.
+KIRK	Your people, when they come here
+SYLVIA	They're like, like feathers in the wind without the transmuter.
+KIRK	Transmuter?
+SYLVIA	The source. You will learn. I will teach you later. Later.
+KIRK	Then it's a device. You do use tools.
+SYLVIA	It gives only form. You're teaching me substance.
+KIRK	You haven't changed your mind? You won't return home?
+SYLVIA	My home is here with you. A billion worlds of sensation to pick and choose.
+SYLVIA	You are using me. You hold me in your arms and there is no fire in your mind. You're trying to deceive me! It's here, like words on a page. You are using me.
+KIRK	And why not? You've been using me and my crew.
+SYLVIA	You will be swept away. You, your men, your ship, your worlds!
+UHURA	I don't see any change.
+DESALLE	It's there, Lieutenant.
+CHEKOV	It was that electrical field we set up, Mister DeSalle, that dent you wanted. It's not much, but it is a start.
+DESALLE	Keep it up, Mister Chekov. Channel the entire output of reactors one, two, and three into the relay stations. Whatever it is, it's starting to weaken.
+KOROB	I've released the model of your ship from the crystal, although they would have freed themselves soon. It's difficult to control so many things in so little time. Here. You must go before she finds the weapon is missing.
+KIRK	I'm not leaving without my men.
+KOROB	They're not your men anymore. They belong to Sylvia. I can no longer control them or her. She's irrational. The strain of adopting to your form, the insatiable desire for sensation and experience. She's a great danger and it was not necessary. We could have entered your galaxy in peace.
+SPOCK	You came in a ship?
+KOROB	We used the transmuter.
+KIRK	Transmuter. Yes, she mentioned that.
+KOROB	There's no time to explain now. She means to destroy us all. There might still be a chance. Quickly. Come.
+SPOCK	Fascinating.
+KIRK	Why a cat?
+SPOCK	Racial memories. The cat is the most ruthless, most terrifying of animals, as far back as the sabre-toothed tiger.
+KOROB	I think I can stop her.
+KIRK	You'd better let us. It's out of energy. She must have drained it. We could have jumped Scott and Sulu at any time. We didn't know. No way out.
+KOROB	It's my problem. She's one of my kind. Come quickly.
+KIRK	Do you think you can make it?
+SPOCK	Ready when you are, Captain.
+KIRK	Get ready.
+KOROB	No! Get back. Get back. Get back! Get back!
+KIRK	Korob, that door won't last.
+KOROB	Get back!
+KOROB	Go. Go!
+SPOCK	Quickly, Captain.
+KIRK	Korob seemed to think this was important. Said something about a transmuter.
+SPOCK	Captain, a bit more alacrity, if you please.
+SPOCK	Captain.
+KIRK	Doc.
+SPOCK	Jim!
+KIRK	Well, at least we found them.
+SPOCK	Fortuitous, Captain. And now that we have them all together? A most unpleasant situation, Captain. If only your phaser had some power.
+KIRK	Maybe we do. Sylvia, I have the transmuter. It's mine now.
+SYLVIA	You're very clever, Captain. More so than I'd imagined. Clever, resourceful and handsome.
+SPOCK	Don't let her touch the wand, Captain.
+SPOCK	Jim!
+KIRK	Don't you get tired of these games?
+SYLVIA	I've never played games. Give it to me.
+KIRK	I wasn't sure before, but I am now. This is the source of your power, isn't it. The transmuter.
+SYLVIA	No, not the source. It's merely an amplifier. The mind is the source. Mine is simple, but yours has the key but you don't know how to use it.
+KIRK	I catch on quickly.
+SYLVIA	It is not too late, Captain James Kirk. Come with me. I'll teach you. You'll teach me.
+KIRK	Why? Because your people have nothing of your own? Is that why you need us?
+SYLVIA	We need your dreams, your ambition. With them, I can build. Give me the transmuter.
+KIRK	No.
+SYLVIA	You fool. Don't you know what you're giving up? Everything that your species finds desirable. Look at me. I am a woman. I am all women.
+KIRK	I don't know what you are but you're not a woman. You've tortured my men and taken their minds from them. You ask for love and return pain instead.
+SYLVIA	Korob was wrong. I didn't destroy all your weapons. Give me the transmuter. Give it to me!
+MCCOY	What happened, Jim?
+KIRK	That'll take some explaining, Bones.
+SCOTT	Everything's vanished.
+KIRK	Not everything.
+KIRK	Korob and Sylvia as they really are. Their forms were an illusion, just like the castle and everything else. Only the power pack gave them reality.
+SPOCK	Fascinating. A life form totally alien to our galaxy. If we could preserve and study this
+MCCOY	Too late. All of this, just an illusion.
+KIRK	No illusion. Jackson is dead. Kirk to Enterprise. Come in.
+UHURA	Standing by, Captain.
+KIRK	Five to beam up.
